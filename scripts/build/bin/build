@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+require('dotenv').config()
+
+;(async () => {
+  const { main } = await import('../index.mjs')  
+  await main({
+    cwd: '../../',
+    stats: {
+      survey: 'survey_statistics.json'
+    },
+    folders: ['event-photos'],
+    formats: ['jpg', 'webp'],
+    sizes: [200, 720, 1600]
+  })
+})().catch(err => {
+  console.error(err.stack)
+  process.exit(1)
+})

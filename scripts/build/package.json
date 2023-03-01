@@ -1,0 +1,20 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "private": true,
+  "module": "index.mjs",
+  "scripts": {
+    "start": "bin/build"
+  },
+  "author": "Martin Heidegger <martin.heidegger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "json-stringify-pretty-compact": "^4.0.0",
+    "p-map": "^5.5.0",
+    "sharp": "^0.31.3"
+  },
+  "devDependencies": {
+    "@types/sharp": "^0.31.1"
+  }
+}

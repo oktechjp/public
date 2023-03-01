@@ -1,0 +1,49 @@
+name: Deploy Site
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Single deploy job since we're just deploying
+  build:
+    name: 'Build the images to publish'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Cache Public
+        id: cache-public
+        uses: actions/cache@v3
+        with:
+          path: public
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - run: mkdir -p public; cp survey_statistics.json public/survey_statistics
+      - run: npm ci
+        working-directory: scripts/build
+      - run: npm start
+        working-directory: scripts/build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: 'public'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
