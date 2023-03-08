@@ -128,6 +128,8 @@ async function processImages ({ targetFolder, albums, cwd, formats, sizes }) {
 async function processEventsImages ({ targetFolder, cwd, formats, sizes }) {
   const sharps = []
   const events = JSON.parse(await readFile(join(cwd, 'events.json')))
+  events.formats = formats
+  events.sizes = sizes
   await pmap(events.events, async event => {
     if (event.featured_photo) {
       const photo = await preparePhoto({ src: join(cwd, 'images', 'events', `${event.id}.jpeg`), targetFolder, id: ['images', event.id], sizes, formats })
