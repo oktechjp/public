@@ -14,7 +14,7 @@ export async function main ({ albums, images, cwd, stats, sizes, formats }) {
     processImages({ targetFolder, albums, images, cwd, sizes, formats }),
     processStatistics({ targetFolder, stats, cwd })
   ])
-  log('WRITE', 'index.json & events.json')
+  log('WRITE', 'index.json')
   await writeFile(join(targetFolder, 'index.json'), stringify({
     license: 'https://creativecommons.org/licenses/by-nc-sa/4.0/ unless otherwise noted',
     albums: albumData,
@@ -128,8 +128,6 @@ async function processImages ({ targetFolder, albums, cwd, formats, sizes }) {
 async function processEventsImages ({ targetFolder, cwd, formats, sizes }) {
   const sharps = []
   const events = JSON.parse(await readFile(join(cwd, 'events.json')))
-  events.formats = formats
-  events.sizes = sizes
   await pmap(events.events, async event => {
     if (event.featured_photo) {
       const photo = await preparePhoto({ src: join(cwd, 'images', 'events', `${event.id}.jpeg`), targetFolder, id: ['images', event.id], sizes, formats })
@@ -140,7 +138,18 @@ async function processEventsImages ({ targetFolder, cwd, formats, sizes }) {
   return {
     sharps,
     async finalize () {
-      await writeFile(join(targetFolder, 'events.json'), stringify(events))
+      await writeFile(join(targetFolder, 'events.json'), stringify({
+        formats,
+        sizes,
+        ...events,
+        events: events.events.map(event => ({
+          ...event,
+          featured_photo: event.featured_photo ? {
+            ...event.featured_photo,
+            res: sizes.map(size => event.featured_photo.res[size])
+          } : undefined
+        }))
+      }))
       return 'events.json'
     }
   }
