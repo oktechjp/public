@@ -2,15 +2,40 @@
 require('dotenv').config()
 
 ;(async () => {
-  const { main } = await import('../index.mjs')  
+  const { main } = await import('../index.mjs')
+  const formats = ['jpg', 'webp']
   await main({
     cwd: '../../',
     stats: {
       survey: 'survey_statistics.json'
     },
     albums: ['event-photos'],
-    formats: ['jpg', 'webp'],
-    sizes: [200, 720, 1600]
+    transforms: {
+      s: {
+        formats,
+        resize: {
+          width: 200,
+          height: 200,
+          fit: 'inside'
+        }
+      },
+      m: {
+        formats,
+        resize: {
+          width: 720,
+          height: 720,
+          fit: 'inside'
+        }
+      },
+      l: {
+        formats,
+        resize: {
+          width: 1600,
+          height: 1600,
+          fit: 'inside'
+        }
+      }
+    }
   })
 })().catch(err => {
   console.error(err.stack)

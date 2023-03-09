@@ -5,13 +5,13 @@ import { createHash } from 'node:crypto'
 import stringify from 'json-stringify-pretty-compact'
 import pmap from 'p-map'
 
-export async function main ({ albums, images, cwd, stats, sizes, formats }) {
-  sizes = sizes.sort(byNumber)
+export async function main ({ albums, images, cwd, stats, transforms }) {
+  transforms = Object.keys(transforms).sort().map(key => ({ key, ...transforms[key] }))
   const targetFolder = join(cwd, 'public')
   await mkdir(targetFolder, { recursive: true })
   log('START', `Running with target folder ${targetFolder}`)
   const [[albumData, eventsData], statistics] = await Promise.all([
-    processImages({ targetFolder, albums, images, cwd, sizes, formats }),
+    processImages({ targetFolder, albums, images, cwd, transforms }),
     processStatistics({ targetFolder, stats, cwd })
   ])
   log('WRITE', 'index.json')
@@ -40,13 +40,6 @@ async function processStatistics ({ targetFolder, stats, cwd }) {
   return result
 }
 
-function hash (input) {
-  const h = createHash('sha1')
-  h.write(JSON.stringify(input))
-  const urlsafeB64 = h.digest().toString('base64').replace(/=/g, '').replace(/\+/g, '-').replace(/\//g, '_')
-  return [...urlsafeB64.slice(0, 2), urlsafeB64.slice(2)]
-}
-
 function removeExt (filename) {
   const d = filename.lastIndexOf('.')
   if (d === -1) return filename
@@ -66,56 +59,63 @@ function log (group, msg) {
   console.log((Date.now() - start).toString().padEnd(5, ' '), `[${group}]`.padEnd(8, ' '), msg)
 }
 
-async function preparePhoto ({ src, targetFolder, id, sizes, formats }) {
+async function preparePhoto ({ cwd, file, targetFolder, transforms, sharps, copies }) {
   // Note: this is a bit of a hack, but "res" is filled only while the sharps are processed
   //       Kind of backwards nbut it works :sweat:
   const res = {}
-  const name = removeExt(basename(src))
-  const sharps = []
-  const imageFolder = join(targetFolder, 'p', ...hash(id))
-  for (const size of sizes) {
-    const target = join(imageFolder, `${size.toString()}@${name}`)
-    for (const format of formats) {
-      sharps.push({
-        res,
-        src,
-        size,
-        target: `${target}.${format}`,
-        format
-      })
+  const src = join(cwd, file)
+  const base = join(targetFolder, removeExt(file))
+  sharps.push(...transforms.map(transform => (
+    {
+      res,
+      src,
+      base,
+      transform
     }
-  }
+  )))
+  copies.push({ src, target: join(targetFolder, file) })
   return {
-    sharps,
-    photo: {
-      name,
-      folder: relative(targetFolder, imageFolder),
-      // description: aData.description || undefined /* undefined is not rendered in json! */,
-      corners: toHexColors(Array.from(await sharp(src).resize(2, 2).toFormat('raw').toBuffer())),
-      res
-    }
+    file,
+    corners: toHexColors(Array.from(await sharp(src).resize(2, 2).toFormat('raw').toBuffer())),
+    res
   }
 }
 
-async function processImages ({ targetFolder, albums, cwd, formats, sizes }) {
-  const albumData = await processPhotoAlbums({ targetFolder, folders: albums, cwd, formats, sizes })
-  const eventData = await processEventsImages({ targetFolder, cwd, formats, sizes })
-  const sharps = [...albumData.sharps, ...eventData.sharps]
-  await pmap(sharps, async ({ res, src, target, size }) => {
+async function processImages ({ targetFolder, albums, cwd, transforms }) {
+  const albumData = await processPhotoAlbums({ targetFolder, folders: albums, cwd, transforms })
+  const eventData = await processEventsImages({ targetFolder, cwd, transforms })
+  await pmap([...albumData.copies, ...eventData.copies], async ({ src, target }) => {
     try {
       await access(target)
-      log('RESIZE', `size=${size} cached: ${relative(cwd, src)}`)
+      log('COPY', `${src} → ${target} [cached]`)
     } catch (err) {
       await mkdir(dirname(target), { recursive: true })
-      log('RESIZE', `size=${size} ${relative(cwd, src)} → ${relative(targetFolder, target)}`)
-      await sharp(src).resize({
-        width: size,
-        height: size,
-        fit: 'inside'
-      }).withMetadata().toFile(target)
+      log('COPY', `${src} → ${target} [copy]`)
+      await cp(src, target)
     }
-    const metadata = await sharp(target).metadata()
-    res[size] = [ metadata.width, metadata.height ]
+  })
+  await pmap([...albumData.sharps, ...eventData.sharps], async ({ res, src, base, transform }) => {
+    let s = sharp(src)
+    if (transform.resize) {
+      s = s.resize(transform.resize)
+    }
+    let first = true
+    for (const format of transform.formats) {
+      const target = `${base}@${transform.key}.${format}`
+      try {
+        await access(target)
+        log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> cached`)
+      } catch (err) {
+        await mkdir(dirname(target), { recursive: true })
+        log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
+        await s.withMetadata().toFile(target)
+      }
+      if (first) {
+        first = false
+        const metadata = await sharp(target).metadata()
+        res[transform.key] = [ metadata.width, metadata.height ]
+      }
+    }
   }, {
     concurrency: 5
   })
@@ -125,28 +125,34 @@ async function processImages ({ targetFolder, albums, cwd, formats, sizes }) {
   ])
 }
 
-async function processEventsImages ({ targetFolder, cwd, formats, sizes }) {
+async function processEventsImages ({ targetFolder, cwd, transforms }) {
   const sharps = []
+  const copies = []
   const events = JSON.parse(await readFile(join(cwd, 'events.json')))
   await pmap(events.events, async event => {
     if (event.featured_photo) {
-      const photo = await preparePhoto({ src: join(cwd, 'images', 'events', `${event.id}.jpeg`), targetFolder, id: ['images', event.id], sizes, formats })
-      sharps.push(...photo.sharps)
-      event.featured_photo = photo.photo
+      event.featured_photo = await preparePhoto({
+        cwd,
+        file: join('images', 'events', `${event.id}.jpeg`),
+        sharps,
+        copies,
+        targetFolder,
+        transforms
+      })
     }
   }, { concurrency: 5 })
   return {
     sharps,
+    copies,
     async finalize () {
       await writeFile(join(targetFolder, 'events.json'), stringify({
-        formats,
-        sizes,
+        transforms: transforms.map(({ key }) => key),
         ...events,
         events: events.events.map(event => ({
           ...event,
           featured_photo: event.featured_photo ? {
             ...event.featured_photo,
-            res: sizes.map(size => event.featured_photo.res[size])
+            res: transforms.map(transform => event.featured_photo.res[transform.key])
           } : undefined
         }))
       }))
@@ -155,17 +161,17 @@ async function processEventsImages ({ targetFolder, cwd, formats, sizes }) {
   }
 }
 
-async function processPhotoAlbums ({ targetFolder, folders, cwd, formats, sizes }) {
+async function processPhotoAlbums ({ targetFolder, folders, cwd, formats, transforms }) {
   const sharps = []
+  const copies = []
   const albums = await pmap(folders, async folder => {
-    const msgsFolder = join(cwd, folder)
     return {
       folder,
-      groups: (await pmap(await readdir(msgsFolder), async msg => {
-        const msgFolder = join(msgsFolder, msg)
+      groups: (await pmap(await readdir(join(cwd, folder)), async msg => {
+        const msgFolder = join(folder, msg)
         let data
         try {
-          data = JSON.parse(await readFile(join(msgFolder, 'index.json'), 'utf8'))
+          data = JSON.parse(await readFile(join(cwd, msgFolder, 'index.json'), 'utf8'))
         } catch (err) {
           return null
         }
@@ -175,17 +181,21 @@ async function processPhotoAlbums ({ targetFolder, folders, cwd, formats, sizes 
           const aFolder = join(msgFolder, attachment)
           let aData
           try {
-            aData = JSON.parse(await readFile(join(aFolder, 'index.json'), 'utf8'))
+            aData = JSON.parse(await readFile(join(cwd, aFolder, 'index.json'), 'utf8'))
           } catch (e) {
             log('WARN', `${aFolder} doesnt contain a index.json file: ${e}`)
             continue
           }
           log('PHOTO', `id=${aData.id}`)
-          const src = join(aFolder, aData.name)
-          const photo = await preparePhoto({ src, targetFolder, sizes, formats, id: ['event-photos', msg, aData.id] })
-          sharps.push(...photo.sharps)
           photos.push({
-            ...photo.photo,
+            ...await preparePhoto({
+              cwd,
+              file: join(aFolder, aData.name),
+              sharps,
+              copies,
+              targetFolder,
+              transforms
+            }),
             description: aData.description || undefined /* undefined is not rendered in json! */
           })
         }
@@ -202,12 +212,13 @@ async function processPhotoAlbums ({ targetFolder, folders, cwd, formats, sizes 
   })
   return {
     sharps,
+    copies,
     async finalize () {
       return await pmap(albums, async ({ folder, groups }) => {
         const targetFile = join(targetFolder, `${folder}.json`)
         log('WRITE', relative(targetFolder, targetFile))
         await writeFile(targetFile, stringify({
-          sizes,
+          transforms: transforms.map(({ key }) => key),
           formats,
           groups: groups.map(group => {
             return {
@@ -215,7 +226,7 @@ async function processPhotoAlbums ({ targetFolder, folders, cwd, formats, sizes 
               photos: group.photos.map(photo => {
                 return {
                   ...photo,
-                  res: sizes.map(size => photo.res[size])
+                  res: transforms.map(transform => photo.res[transform.key])
                 }
               })
             }
