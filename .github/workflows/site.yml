@@ -27,7 +27,7 @@ jobs:
         uses: actions/cache@v3
         with:
           path: public
-          key: public3
+          key: public-4
       - name: Checkout
         uses: actions/checkout@v3
       - name: Setup Pages
