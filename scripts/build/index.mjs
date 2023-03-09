@@ -133,7 +133,7 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
     if (event.featured_photo) {
       event.featured_photo = await preparePhoto({
         cwd,
-        file: join('images', 'events', `${event.id}.jpeg`),
+        file: join('images', 'events', `${event.id}.webp`),
         sharps,
         copies,
         targetFolder,
