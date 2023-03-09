@@ -40,19 +40,19 @@
     ],
     "osaka-web-designers-and-developers-meetup": [
       {
+        "description": "<p>Here is the map to this location:</p> <p><a href=\"https://www.google.com/maps/place/2+Chome-16-13+Nishishinsaibashi,+Ch%C5%AB%C5%8D-ku,+%C5%8Csaka-shi,+%C5%8Csaka-fu,+Japan/@34.6695459,135.4973218,17z/data=!4m2!3m1!1s0x6000e711fb231883:0x200e8f5a81c756ce?hl=en\"><a href=\"https://www.google.com/maps/place/2+Chome-16-13+Nishishinsaibashi,+Ch%C5%AB%C5%8D-ku,+%C5%8Csaka-shi,+%C5%8Csaka-fu,+Japan/@34.6695459,135.4973218,17z/data=!4m2!3m1!1s0x6000e711fb231883:0x200e8f5a81c756ce?hl=en\" class=\"linkified\">https://www.google.com/maps/place/2+Chome-16-13+Nishishinsaibashi,+Ch%C5%AB%C5%8D-ku,+%C5%8Csaka-shi,+%C5%8Csaka-fu,+Japan/@34.6695459,135.4973218,17z/data=!4m2!3m1!1s0x6000e711fb231883:0x200e8f5a81c756ce?hl=en</a></a></p> <p>L&amp;L  website can be found at: <a href=\"http://www.landl-bar.com/top/\"><a href=\"http://www.landl-bar.com/top/\" class=\"linkified\">http://www.landl-bar.com/top/</a></a></p> ",
+        "id": "207109452",
+        "name": "Presentations, Discussions and Connections",
+        "time": 1411203600000,
+        "venue": 22372122
+      },
+      {
         "description": "<p>We arrange our first get together and make it fun.</p> ",
         "duration": 7200000,
         "id": "194472502",
         "name": "Let's Meet Soon ... ",
         "time": 1406364300000,
         "venue": 21427172
-      },
-      {
-        "description": "<p>Here is the map to this location:</p> <p><a href=\"https://www.google.com/maps/place/2+Chome-16-13+Nishishinsaibashi,+Ch%C5%AB%C5%8D-ku,+%C5%8Csaka-shi,+%C5%8Csaka-fu,+Japan/@34.6695459,135.4973218,17z/data=!4m2!3m1!1s0x6000e711fb231883:0x200e8f5a81c756ce?hl=en\"><a href=\"https://www.google.com/maps/place/2+Chome-16-13+Nishishinsaibashi,+Ch%C5%AB%C5%8D-ku,+%C5%8Csaka-shi,+%C5%8Csaka-fu,+Japan/@34.6695459,135.4973218,17z/data=!4m2!3m1!1s0x6000e711fb231883:0x200e8f5a81c756ce?hl=en\" class=\"linkified\">https://www.google.com/maps/place/2+Chome-16-13+Nishishinsaibashi,+Ch%C5%AB%C5%8D-ku,+%C5%8Csaka-shi,+%C5%8Csaka-fu,+Japan/@34.6695459,135.4973218,17z/data=!4m2!3m1!1s0x6000e711fb231883:0x200e8f5a81c756ce?hl=en</a></a></p> <p>L&amp;L  website can be found at: <a href=\"http://www.landl-bar.com/top/\"><a href=\"http://www.landl-bar.com/top/\" class=\"linkified\">http://www.landl-bar.com/top/</a></a></p> ",
-        "id": "207109452",
-        "name": "Presentations, Discussions and Connections",
-        "time": 1411203600000,
-        "venue": 22372122
       },
       {
         "description": "<p>Its getting colder and we sure want to take the October opportunity to exchange about what we did these hot summer months. </p> <p>We were able to get a spot in the Knowledge Salon which is worth visiting just for the fun of it. There have been no presentations decided as of now. </p> <p>If you wish to talk about something just mention it in the comment: </p> <p>We have 4 spots each 25 mins (shorter is possible too of course). </p> <p>Afterwards we will can go out for drinks &amp; food too ;).</p> <p>Restaurant/Bar suggestions welcome.</p> <p>Cheers!</p> <p>PS.: About the Knowledge salon: <a href=\"http://kc-i.jp/en/facilities/salon/\"><a href=\"http://kc-i.jp/en/facilities/salon/\" class=\"linkified\">http://kc-i.jp/en/facilities/salon/</a></a></p> ",
@@ -192,18 +192,18 @@
         "venue": 24529555
       },
       {
+        "description": "<p>All are welcome to join our July summer night meetup. It is the middle of summer and night is short. But we'll have cool talks and the great company of fellow web designers and developers to compensate.</p> <p>Our first talk will be on Resilient Design by Jake, we haven't had one of those for a long while and we hope to have more design talks in the future. Follow on from last month's talk on Github/Gitlab, Ben will be talking about Continuous Integration, cool tech tools to automate mundane stuff. Daniel will introduce us to the free and exciting world of OpenStreetMap. We are also having Q&amp;A for those who want to ask our elders on questions about web design or development. Please send us questions and we shall try to answer them at our Q&amp;A session. </p> <p>These cool topics are aimed at designers and developers of any level, so feel free to stop by no matter how experienced you are!</p> <p>To wrap it up, we shall be having a beer at the local Izakaiya for more get-together and in-depth discussion. As always, we'll be taking our themed group picture. Join us on 30 July. </p> <p>Program</p> <p>  * Resilient Design by Jake</p> <p>  * Continuous Integration (CI) by Ben</p> <p>  * OpenStreetMap by Daniel</p> <p>  * Asking the elders Q&amp;A with Victor</p> ",
+        "id": "232528649",
+        "name": "Summer night with cool design and tech.",
+        "time": 1469869200000,
+        "venue": 24213835
+      },
+      {
         "description": "<p>Hello aspiring developers, professional developers and hobbyist developers!</p> <p>It’s June and that means it’s finally time for another meetup!</p> <p>For the first half of the June meetup we would like to do either a talk on workflow using Git, a technology used very often in web development for variation control and a powerful tool for collaborative projects and open source software, or on Continuous Integration, a software engineering practice of merging all of the code written by developers working on a project into a shared repository several times a day.  I’ve set up a survey, so please take a second to fill it out and tell us which one you would prefer to hear about: <a href=\"https://www.wedgies.com/question/57597dc200f88e18002b18ac\" class=\"linkified\">https://www.wedgies.com/question/57597dc200f88e18002b18ac</a></p> <p>For the second half we are hoping to do a presentation on commonly used design tools or design concepts.  If you have a favorite design tool that you use frequently and you are willing to share with the group we would really appreciate it!  You can either message me (Jake Biros) or any of the other event organizers if you  would like to volunteer.</p> <p>Any of these topics would be useful for developers of any level, so feel free to stop by no matter how experienced you are!</p> <p>To wrap it all up, as always we will be going out for food and drinks at a local izakaya afterwards so if you have time after the event come out and socialize with your fellow web development enthusiasts :)</p> ",
         "duration": 7200000,
         "id": "231734870",
         "name": "June Meetup - Cool web stuff to stave off the heat!",
         "time": 1466240400000,
-        "venue": 24213835
-      },
-      {
-        "description": "<p>All are welcome to join our July summer night meetup. It is the middle of summer and night is short. But we'll have cool talks and the great company of fellow web designers and developers to compensate.</p> <p>Our first talk will be on Resilient Design by Jake, we haven't had one of those for a long while and we hope to have more design talks in the future. Follow on from last month's talk on Github/Gitlab, Ben will be talking about Continuous Integration, cool tech tools to automate mundane stuff. Daniel will introduce us to the free and exciting world of OpenStreetMap. We are also having Q&amp;A for those who want to ask our elders on questions about web design or development. Please send us questions and we shall try to answer them at our Q&amp;A session. </p> <p>These cool topics are aimed at designers and developers of any level, so feel free to stop by no matter how experienced you are!</p> <p>To wrap it up, we shall be having a beer at the local Izakaiya for more get-together and in-depth discussion. As always, we'll be taking our themed group picture. Join us on 30 July. </p> <p>Program</p> <p>  * Resilient Design by Jake</p> <p>  * Continuous Integration (CI) by Ben</p> <p>  * OpenStreetMap by Daniel</p> <p>  * Asking the elders Q&amp;A with Victor</p> ",
-        "id": "232528649",
-        "name": "Summer night with cool design and tech.",
-        "time": 1469869200000,
         "venue": 24213835
       },
       {
@@ -396,20 +396,20 @@
         "venue": 25630979
       },
       {
-        "description": "<p>We have managed to invite Google Product Manager of Firebase Michael McDonald to give us a talk at our meetup. Unfortunately he has to leave on the 25th, so we decide to reschedule our Meetup to this weekend on the 23rd March at FirstServer.</p> <p>In addition James McGrath will also talk about building the Mamamia website.</p> <p>As usual, all you need is a good mood and an open mind for the meetup.<br/>After the talks we will be going out for drinks &amp; we can continue our conversations at the nearby Izakaiya.</p> <p>Please note that we will be starting the Meetup at 18:00. We shall be hosting it at FirstServer and NOT at the original venue GVH5</p> ",
-        "duration": 7200000,
-        "id": "259644459",
-        "name": "Spring time March Meetup - rekindle your passion for web development",
-        "time": 1553331600000,
-        "venue": 26262059
-      },
-      {
         "description": "<p>Golden Week is behind us, and the weather is heating up, so why not chill out with some cool web talks and meet designers and developers from around the Osaka area?</p> <p>This month Christian Oliff will talk to us about how to improve the user experience of filling in forms on mobile with the `inputmode` attribute.</p> <p>We'll be meeting at the same location as the April meetup, kindly provided by IDCF. After the talks there will be an opportunity to chat and get to know each other over drinks and food at a nearby izakaya.</p> ",
         "duration": 7200000,
         "id": "260439556",
         "name": "May Osaka Web Dev & Design Meetup",
         "time": 1558774800000,
         "venue": 26378946
+      },
+      {
+        "description": "<p>We have managed to invite Google Product Manager of Firebase Michael McDonald to give us a talk at our meetup. Unfortunately he has to leave on the 25th, so we decide to reschedule our Meetup to this weekend on the 23rd March at FirstServer.</p> <p>In addition James McGrath will also talk about building the Mamamia website.</p> <p>As usual, all you need is a good mood and an open mind for the meetup.<br/>After the talks we will be going out for drinks &amp; we can continue our conversations at the nearby Izakaiya.</p> <p>Please note that we will be starting the Meetup at 18:00. We shall be hosting it at FirstServer and NOT at the original venue GVH5</p> ",
+        "duration": 7200000,
+        "id": "259644459",
+        "name": "Spring time March Meetup - rekindle your passion for web development",
+        "time": 1553331600000,
+        "venue": 26262059
       },
       {
         "description": "<p>The rainy season is upon us, as the rain grants us brief reprieve from the heat of summer. However, this is not the only gift we are given this month, as we forecast a shower of great web talks, too!</p> <p>This month Yann Klein will talk to us about Web Augmented Reality, at a time when AR is heating up in the app space.</p> <p>Mathieu Mayer will talk to us about UI Design patterns for developers. He will share UI Design tricks that developers can use to make their apps look good on their own. (Note [28 June 2019]: Unfortunately we've just heard from Mathieu that he is not feeling well and he will not be able to present his talk tomorrow.)</p> <p>We'll be meeting at the same location as before, kindly provided by IDCF. After the talks there will be an opportunity to chat and get to know each other over drinks and food at a nearby izakaya.</p> ",
@@ -445,15 +445,6 @@
         "venue": 25630979
       },
       {
-        "description": "<p>Wow, this summer was hot! We plan to keep it chilled at this months OWDDM by breaking a bit out of our usual format.</p> <p>This month we will - for the first time - be able to use the new Sakura Internet space in the south tower of the Grandfront Building!</p> <p>In this spacious cafe / meeting space we would like to invite you to join us for listening to lessons that some of our experienced folks have learned in their work life. Be it design, workflow, programming or human related, we are looking forward to a few 5~10 minute mini-presentations with conversations in between.</p> <p>We hope you can join us for a nice evening, where some of us will head out for drinks afterwards.</p> <p>yours<br/>Martin.</p> <p>On another note: Many of this years presentations came to happen because of your feedback. If you would like to hear or speak about something in a future or this meetup, please let us know! 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "254342508",
-        "name": "Lessons Learned ",
-        "time": 1537606800000,
-        "venue": 25928725
-      },
-      {
         "description": "<p>Hi Everyone!</p> <p>We plan to get together for a year-end party along with the folks from HNKansai just like last year, at the very same place! We will meet on Friday 28th from 8pm at Galleria, a very nice pizzeria with a lot of space for people to talk and drink together 🙂 It is located just near Osaka Umeda so easily reachable from all major train lines.</p> <p>We plan to have a fixed menu (2400 JPY for a full course per person) while we are still in touch to finalize the details. We will post more details as the event approaches.</p> <p>Please Subscribe into HN Kansai meetup, here is the link:<br/><a href=\"https://www.meetup.com/Hacker-News-Kansai/events/257099811/\" class=\"linkified\">https://www.meetup.com/Hacker-News-Kansai/events/257099811/</a></p> <p>Please go ahead and book your time!<br/>See you soon!<br/>The OWDDM Organizers</p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -461,6 +452,15 @@
         "name": "End of Year Party",
         "time": 1545994800000,
         "venue": 25620385
+      },
+      {
+        "description": "<p>Wow, this summer was hot! We plan to keep it chilled at this months OWDDM by breaking a bit out of our usual format.</p> <p>This month we will - for the first time - be able to use the new Sakura Internet space in the south tower of the Grandfront Building!</p> <p>In this spacious cafe / meeting space we would like to invite you to join us for listening to lessons that some of our experienced folks have learned in their work life. Be it design, workflow, programming or human related, we are looking forward to a few 5~10 minute mini-presentations with conversations in between.</p> <p>We hope you can join us for a nice evening, where some of us will head out for drinks afterwards.</p> <p>yours<br/>Martin.</p> <p>On another note: Many of this years presentations came to happen because of your feedback. If you would like to hear or speak about something in a future or this meetup, please let us know! 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "254342508",
+        "name": "Lessons Learned ",
+        "time": 1537606800000,
+        "venue": 25928725
       },
       {
         "description": "<p>Finally, Spring is here and the warm days are starting! Before the long golden week holiday, we would like to invite you to our April Meetup for two nice talks and optionally some drinks afterward in a nearby Izakaya.</p> <p>First up - Oussama Ladhari, a web developer in Miraidenshi Technology, will talk about Docker and how to mount an application (frontend/backend) with docker-compose, and why Dockerizing an application is very important nowadays.</p> <p>Then Andrew Zamora, a web developer in Mamamia, will talk to us about his career change from English teacher to a full-stack web developer and how he made this change possible.</p> <p>As always, you can ask your questions as well as having a break for chatting during the event</p> <p>Please go ahead and book your time!</p> <p>See you soon!</p> <p>The OWDDM Organizers<br/>(The meetup is on 3rd floor of the building)</p> ",
@@ -479,15 +479,6 @@
         "name": "Autumn the beautiful season of colors - Osaka Web Dev & Design Meetup in October",
         "time": 1572080400000,
         "venue": 26262059
-      },
-      {
-        "description": "<p>Hi Everyone!</p> <p>We hope all of you have a great year. As we are reaching the final month of the year, we plan to get together for a year-end party along with the folks from HNKansai just like last year (... and the year before), at the very same place!</p> <p>We will meet on Saturday 14th of December from 6pm (originally starting time was 7pm but we have now moved it to 6pm instead) at Galleria, a very nice pizzeria with a lot of space for people to talk and drink together 🙂 It is located just near Osaka Umeda so easily reachable from all major train lines.</p> <p>The restaurant has changed their menu (3,500 JPY per person and you can drink as much as you want). As we have planned to rent out the place, the minimum party is 30 people, so please book in advance and let us know asap if you cannot attend.</p> <p>Please register your attendance in HN Kansai meetup, here is the link:<br/><a href=\"https://www.meetup.com/Hacker-News-Kansai/events/266838294/\" class=\"linkified\">https://www.meetup.com/Hacker-News-Kansai/events/266838294/</a></p> <p>We look forward to seeing all of your at the party.</p> <p>For those who cannot attend the year-end party, we wish you a happy holiday and a prosperous &amp; healthy New Year.</p> <p>The OWDDM Organizers</p> ",
-        "duration": 10800000,
-        "featured_photo": true,
-        "id": "266823997",
-        "name": "2019 HN Kansai & OWDDM End of Year Dinner",
-        "time": 1576314000000,
-        "venue": 25620385
       },
       {
         "description": "<p>Welcome back web developers and designers!</p> <p>We're hoping to resume our meetup in a safe manner by holding an outdoor gathering (a picnic!) at Tsurumi Ryokuchi Park on Saturday 27th of June, weather permitting.</p> <p>We intend to keep the format open and have more discussions than one-sided talks, but to kick things off Benjamin Murden will discuss his journey into the JAMStack - a means of building sites that can be deployed to the edge, so they can be served from fast CDNs.</p> <p>Please bring a mat to sit on and your own food and drinks. Families are welcome.</p> <p>Meeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.</p> <p>Weather forecast is sunny 28C/83F, 10% chance of rain. Please make sure you have plenty of water, suntan lotion or sunscreen.</p> <p>There is a convenient store Lawson close to the station. You can get food and drinks there.</p> <p>If you are late, please check back on this web page for the exact location. We shall update it tomorrow.</p> ",
@@ -526,6 +517,15 @@
         "venue": 26906060
       },
       {
+        "description": "<p>Hi Everyone!</p> <p>We hope all of you have a great year. As we are reaching the final month of the year, we plan to get together for a year-end party along with the folks from HNKansai just like last year (... and the year before), at the very same place!</p> <p>We will meet on Saturday 14th of December from 6pm (originally starting time was 7pm but we have now moved it to 6pm instead) at Galleria, a very nice pizzeria with a lot of space for people to talk and drink together 🙂 It is located just near Osaka Umeda so easily reachable from all major train lines.</p> <p>The restaurant has changed their menu (3,500 JPY per person and you can drink as much as you want). As we have planned to rent out the place, the minimum party is 30 people, so please book in advance and let us know asap if you cannot attend.</p> <p>Please register your attendance in HN Kansai meetup, here is the link:<br/><a href=\"https://www.meetup.com/Hacker-News-Kansai/events/266838294/\" class=\"linkified\">https://www.meetup.com/Hacker-News-Kansai/events/266838294/</a></p> <p>We look forward to seeing all of your at the party.</p> <p>For those who cannot attend the year-end party, we wish you a happy holiday and a prosperous &amp; healthy New Year.</p> <p>The OWDDM Organizers</p> ",
+        "duration": 10800000,
+        "featured_photo": true,
+        "id": "266823997",
+        "name": "2019 HN Kansai & OWDDM End of Year Dinner",
+        "time": 1576314000000,
+        "venue": 25620385
+      },
+      {
         "description": "<p>We will be very happy to see you at the next Meetup, our first meeting of the year.</p> <p>Just to get together, chat about security in an enterprise environment and trade ideas/connections.</p> <p>At this time, the **slots for Presentations are still open**.</p> <p>So if you would like to:</p> <p>* present a lightning talk or<br/>* moderate a talk or<br/>* sell an idea/service, or<br/>* seek collaboration over a project you are working on,</p> <p>do let any of the Organizers know.</p> <p>Thanks.</p> <p>P.S: It's **bring-your-own-coffee** kinda of a place though.</p> <p>This is the address of the location as given by the owner:</p> <p>〒530-0014<br/>大阪府大阪市<br/>北区鶴野町４−１１<br/>朝日プラザ梅田</p> ",
         "duration": 5400000,
         "featured_photo": true,
@@ -553,15 +553,6 @@
         "venue": 27310813
       },
       {
-        "description": "<p>**Important Note**: The Weather forecast looks like it should hold with a light chance for rain. We will still be at the meeting point but maybe we need to divert the meetup later on.</p> <p>Summer is here! To avoid meeting in closed spaces we will have another picnic in the park.</p> <p>As presentations in the open are difficult, we thought to try a new idea: **Share and listen to stories** from the world of web development. 🤯</p> <p>To make it collaborative, we hope that everyone who joins can prepare a short story to tell to the others. If you can't that is fine too, but you will need to cheer really hard for the others! 😜</p> <p>The format is as follows:</p> <p>* There has to be a connection to web development, but it can be about any part of it: SEO, money, workfow, customers, code, ux issues, bosses... 😲<br/>* You have 5\\~10 minutes.<br/>* It has to have happened, but it is okay if it didn't happen to you.<br/>* There has to be a punch line. (A thing that you ...learned/received/changed/etc. ... because of it.)</p> <p>A sneak peak for one story:</p> <p>&gt; A long time ago, I was working on this website that needed to go online exactly at the time when a TV segment aired and not before. I was a front-end developer at the time and we didn't have a back-ender to help us out. The server hosting was arranged beforehand and it didn't support any server side scripting but was just a simple Apache server. What to do? I figured it would be best to... *(to be continued)*</p> <p>Intrigued? 😉 Awesome!</p> <p>Besides a story, please bring a mat to sit on and your own food and drinks. Families are welcome.</p> <p>Meeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.</p> <p>There is a Lawson close to the station. You can get food and drinks there.</p> <p>If you are late, please check back on this web page for the exact location.</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "286489263",
-        "name": "Web-Stories in the Park",
-        "time": 1657346400000,
-        "venue": 26936190
-      },
-      {
         "description": "<p>Hello there, You may be confused seeing this event. 😅</p> <p>It has been rainy season and [the event planned for this day](<a href=\"https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/286489263/\" class=\"linkified\">https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/286489263/</a>) has a reasonable chance for ending in flooding. 🌧</p> <p>Instead, on short notice, Jun helped us securing the [Laugh Rough Laugh Cafe](<a href=\"https://goo.gl/maps/jkUbDWZqFmkx4Wp1A\" class=\"linkified\">https://goo.gl/maps/jkUbDWZqFmkx4Wp1A</a>) for a meeting under a roof and we \"[Talks in the Park](<a href=\"https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/286489263/\" class=\"linkified\">https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/286489263/</a>)\" event is planned for 2 weeks later later.</p> <p>Even though it is on short notice, two of our members have offered to prepare a presentation. 🙀</p> <p>Otogawa-san will challenge his first presentation in front of an english-speaking audience with his talk \"From **JavaScript → TypeScript** (with React)\" giving a step-by-step guide for migrating a React project from JavaScript to TypeScript. 🤓</p> <p>Additionally - bit more focused on browsers - James will be talking about a11y (*Accessibility*).</p> <p>More may be to come, stay tuned!</p> <p>After the event, we will be heading out for drinks, to chat some more in the moonlight.</p> <p>We hope to see you at the event. 👋</p> ",
         "duration": 5400000,
         "featured_photo": true,
@@ -569,6 +560,15 @@
         "name": "Talk at the Café",
         "time": 1656145800000,
         "venue": 27310813
+      },
+      {
+        "description": "<p>**Important Note**: The Weather forecast looks like it should hold with a light chance for rain. We will still be at the meeting point but maybe we need to divert the meetup later on.</p> <p>Summer is here! To avoid meeting in closed spaces we will have another picnic in the park.</p> <p>As presentations in the open are difficult, we thought to try a new idea: **Share and listen to stories** from the world of web development. 🤯</p> <p>To make it collaborative, we hope that everyone who joins can prepare a short story to tell to the others. If you can't that is fine too, but you will need to cheer really hard for the others! 😜</p> <p>The format is as follows:</p> <p>* There has to be a connection to web development, but it can be about any part of it: SEO, money, workfow, customers, code, ux issues, bosses... 😲<br/>* You have 5\\~10 minutes.<br/>* It has to have happened, but it is okay if it didn't happen to you.<br/>* There has to be a punch line. (A thing that you ...learned/received/changed/etc. ... because of it.)</p> <p>A sneak peak for one story:</p> <p>&gt; A long time ago, I was working on this website that needed to go online exactly at the time when a TV segment aired and not before. I was a front-end developer at the time and we didn't have a back-ender to help us out. The server hosting was arranged beforehand and it didn't support any server side scripting but was just a simple Apache server. What to do? I figured it would be best to... *(to be continued)*</p> <p>Intrigued? 😉 Awesome!</p> <p>Besides a story, please bring a mat to sit on and your own food and drinks. Families are welcome.</p> <p>Meeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.</p> <p>There is a Lawson close to the station. You can get food and drinks there.</p> <p>If you are late, please check back on this web page for the exact location.</p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "286489263",
+        "name": "Web-Stories in the Park",
+        "time": 1657346400000,
+        "venue": 26936190
       },
       {
         "description": "<p>Summer heat in Osaka, and we meet to escape the blistering sun and talk about web &amp; things. 😎</p> <p>This month we are trying a new meeting space. This should be easier to access for many and we hope you enjoy it. 😉</p> <p>This month, Martin will be taking a deeper look at the Login and New-User process of web services. Attempting to identify the difference between **logins, old and new** variants from an user-experience and security perspective.</p> <p>This should keep us in conversation and busy for a while, but if the preparations work out, James is also going to do some frontend live-coding on the OWDDM homepage. 🤯</p> <p>There is still space/time for another presentation. If you have something you want to talk about: please don't hesitate to contact us!</p> <p>We are still in the process of re-invigorating this meetup. As such, it would be awesome if you could take a few minutes and share what you think about it:</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
@@ -598,15 +598,6 @@
         "venue": 27398802
       },
       {
-        "description": "<p>**RSVP Closed**<br/>*Hello friends, RSVP is currently closed as we need to fixate the amount of people joining the Rooftop. If you wish to attend still: please leave a comment and/or contact us at [mail@owddm.com](mailto:mail@owddm.com)*</p> <p>We're taking a short break from our usual presentation events and heading to the great outdoors to enjoy the end of summer. Join us on Oct 1st for a hike along the top of Mount Rokko and a rooftop patio hangout.</p> <p>**Cost to participate:**<br/>750 JPY for rooftop rental<br/>600 JPY for ropeway up the mountain<br/>450 JPY (optional) for the cable car down the mountain</p> <p>Please bring your own packed lunch for the hike. Light snacks and drinks will be provided at the rooftop.</p> <p>**Itinerary:**<br/>We'll start our hike by meeting at [Rokko Ropeway Ground station](<a href=\"https://goo.gl/maps/arHY2fYAmFY26hX17\" class=\"linkified\">https://goo.gl/maps/arHY2fYAmFY26hX17</a>) at 8:00 AM. From there, we'll take the ropeway (600 JPY) up to the top of mount Rokko and hike along the mountain range, taking a few breaks at interesting spots along the way (Tenjioji Temple, public art park). At 11, we'll eat our lunch (please bring your own packed lunch) and begin our descent from the top of mount Maya. You can either hike down or take the Mt. Maya cable car. We'll then hang out at a rooftop patio close by that we are renting from 2:00 PM to 5:45 PM. While hanging out at the rooftop, Martin will host a web design and development-related discussion while attendees cool down with some provided drinks and snacks.<br/>Please bring your own packed lunch and drinks for the hike. After the hike, drinks and light snacks will be provided for attendees at the rooftop.</p> <p>***</p> <p>For a hot while, we have been asking attendees to give us feedback using our survey below. So far, only a few people have responded. If you have some time, we would deeply appreciate your voice.<br/>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
-        "duration": 34500000,
-        "featured_photo": true,
-        "id": "288071689",
-        "name": "Rokko Hike and Hangout",
-        "time": 1664579400000,
-        "venue": 27024215
-      },
-      {
         "description": "<p>We survived this summer!And this months meeting will be all about speed. 🚀</p> <p>Long time member *Gregory King* will be looking into *what’s it like working with WebAssembly on the “Frontend”?*</p> <p>Have you ever wondered *what it’s like writing in WebAssembly (WASM)*? or if we can write WASM like we do React? - Do you love web development, but had enough of JavaScript? In this short talk, we explore what it’s like building web apps with [Yew](<a href=\"https://yew.rs\" class=\"linkified\">https://yew.rs</a>), a Rust based web framework for writing frontend web apps in WebAssembly.</p> <p>There is still space/time for another presentation. If you have something you want to talk about, [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)!</p> <p>For a hot while, we have been asking attendees to give us feedback using our survey below. Until now only few people responded. If you have some time we would deeply appreciate your voice.</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
         "duration": 9000000,
         "featured_photo": true,
@@ -616,12 +607,13 @@
         "venue": 27370028
       },
       {
-        "description": "<p>TBA, join us at <a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a> for organizing it together.</p> ",
-        "duration": 7200000,
-        "id": "291352450",
-        "name": "TBA",
-        "time": 1681545600000,
-        "venue": 27370028
+        "description": "<p>**RSVP Closed**<br/>*Hello friends, RSVP is currently closed as we need to fixate the amount of people joining the Rooftop. If you wish to attend still: please leave a comment and/or contact us at [mail@owddm.com](mailto:mail@owddm.com)*</p> <p>We're taking a short break from our usual presentation events and heading to the great outdoors to enjoy the end of summer. Join us on Oct 1st for a hike along the top of Mount Rokko and a rooftop patio hangout.</p> <p>**Cost to participate:**<br/>750 JPY for rooftop rental<br/>600 JPY for ropeway up the mountain<br/>450 JPY (optional) for the cable car down the mountain</p> <p>Please bring your own packed lunch for the hike. Light snacks and drinks will be provided at the rooftop.</p> <p>**Itinerary:**<br/>We'll start our hike by meeting at [Rokko Ropeway Ground station](<a href=\"https://goo.gl/maps/arHY2fYAmFY26hX17\" class=\"linkified\">https://goo.gl/maps/arHY2fYAmFY26hX17</a>) at 8:00 AM. From there, we'll take the ropeway (600 JPY) up to the top of mount Rokko and hike along the mountain range, taking a few breaks at interesting spots along the way (Tenjioji Temple, public art park). At 11, we'll eat our lunch (please bring your own packed lunch) and begin our descent from the top of mount Maya. You can either hike down or take the Mt. Maya cable car. We'll then hang out at a rooftop patio close by that we are renting from 2:00 PM to 5:45 PM. While hanging out at the rooftop, Martin will host a web design and development-related discussion while attendees cool down with some provided drinks and snacks.<br/>Please bring your own packed lunch and drinks for the hike. After the hike, drinks and light snacks will be provided for attendees at the rooftop.</p> <p>***</p> <p>For a hot while, we have been asking attendees to give us feedback using our survey below. So far, only a few people have responded. If you have some time, we would deeply appreciate your voice.<br/>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
+        "duration": 34500000,
+        "featured_photo": true,
+        "id": "288071689",
+        "name": "Rokko Hike and Hangout",
+        "time": 1664579400000,
+        "venue": 27024215
       },
       {
         "description": "<p>Dear web enthusiasts, we're in a busy autumn! 🔥</p> <p>After our hike, our organizer *Kimmy* will be exploring in **\"Western vs Japanese UI Design - a comparison\"** about the differences in the design trends between *western* and *japanese* UI design and explore some possible explanations on this. 👩‍🎨</p> <p>Following that, our first time presenter's *Jacob* is planning to give in **\"Flight Sim Development: Not just for AV Otakus\"** an overview on the advancement of home flight simulators ✈️ over the past few decades, share insights on how open source development is linked with modern versions, and how everyone from beginners, to seasoned engineers can cut their teeth with these projects.</p> <p>For November we have already a little planned, but if you feel like sharing your knowledge then feel free to [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)! 📥</p> <p>Feedback has been trickling in and we are looking into a way to share it with everyone. Until then, know that we take it by heart, so if there is something on your mind, feel free to share it ↓</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
@@ -630,6 +622,14 @@
         "id": "288595894",
         "name": "UI culture and Airplanes",
         "time": 1665819900000,
+        "venue": 27370028
+      },
+      {
+        "description": "<p>TBA, join us at <a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a> for organizing it together.</p> ",
+        "duration": 7200000,
+        "id": "291352450",
+        "name": "TBA",
+        "time": 1681545600000,
         "venue": 27370028
       },
       {
@@ -642,15 +642,6 @@
         "venue": 27370028
       },
       {
-        "description": "<p>Happy New Year! 🎊 明けましておめでとうございます！</p> <p>We hope you had a great end of last year! Now that this year started we are kicking it off with two presentations.</p> <p>Karen, who works in the marketing-side of the web, will be looking in how we evaluate our work and how websites can profit off KPI (Key Performance Indicators).</p> <p>After that, Martin is taking a break for a bit and will looks into the JavaScript Gamepad API for a bit of geeky joy at the beginning of the year.</p> <p>By the way, both presentations were proposed in the the #presentation-ideas channel on discord! If you have any questions or comments before the meetup, ask there!</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "290682636",
-        "name": "Gamepad KPI's",
-        "time": 1674288000000,
-        "venue": 27370028
-      },
-      {
         "description": "<p>Hello Friends,</p> <p>As in previous years, we skip the meetup in December in favor of a end-of-year party. 🥳 \"Party\" is a bit of a loose term, but we meet-up in a food &amp; drinks place and have a dinner together.</p> <p>We will meet at Masamune Izakaya in Umeda (Sonezaki Corner) at 20:00!</p> <p>Location Link: <a href=\"https://goo.gl/maps/WZpAybdDDmfBGqEj8\" class=\"linkified\">https://goo.gl/maps/WZpAybdDDmfBGqEj8</a><br/>Price: **3500 JPY**<br/>→ [Countdown](<a href=\"https://www.timeanddate.com/countdown/generic?iso=20221230T20&amp;p0=671&amp;font=cursive\" class=\"linkified\">https://www.timeanddate.com/countdown/generic?iso=20221230T20&amp;p0=671&amp;font=cursive</a>)</p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -658,6 +649,15 @@
         "name": "End of Web-Year (Party) 2022",
         "time": 1672398000000,
         "venue": 27479006
+      },
+      {
+        "description": "<p>Happy New Year! 🎊 明けましておめでとうございます！</p> <p>We hope you had a great end of last year! Now that this year started we are kicking it off with two presentations.</p> <p>Karen, who works in the marketing-side of the web, will be looking in how we evaluate our work and how websites can profit off KPI (Key Performance Indicators).</p> <p>After that, Martin is taking a break for a bit and will looks into the JavaScript Gamepad API for a bit of geeky joy at the beginning of the year.</p> <p>By the way, both presentations were proposed in the the #presentation-ideas channel on discord! If you have any questions or comments before the meetup, ask there!</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "290682636",
+        "name": "Gamepad KPI's",
+        "time": 1674288000000,
+        "venue": 27370028
       },
       {
         "description": "<p>Hello Everyone!<br/>It's February o'month. Time is flying!</p> <p>[Follow Us and Don't Miss Any Meetings!](<a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a>)</p> <p>This month we will have kind of a deja'vu. **James** and **Martin** are both going to re-discover topics that they have been talking about years back but for some reason are still timely.</p> <p>James is going to present about **[WebComponents](<a href=\"https://www.webcomponents.org/\" class=\"linkified\">https://www.webcomponents.org/</a>)**, why the are interesting and how they work.</p> <p>After that Martin is going to revamp his *\"**Introduction to GraphQL**\"* in which he will look at how GraphQL works in the updated version look into where it is useful and why it exists.</p> <p>Both presentations this month have come from the [Discord](<a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a>) channel. If you have something you would like to talk or hear about: [JOIN US](<a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a>)!<br/>join us at [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) for organizing it together.</p> ",
