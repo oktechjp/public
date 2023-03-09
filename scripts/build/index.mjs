@@ -127,33 +127,34 @@ async function processImages ({ targetFolder, albums, cwd, transforms }) {
 async function processEventsImages ({ targetFolder, cwd, transforms }) {
   const sharps = []
   const copies = []
-  const events = JSON.parse(await readFile(join(cwd, 'events.json')))
-  await pmap(events.events, async event => {
-    if (event.featured_photo) {
-      event.featured_photo = await preparePhoto({
-        cwd,
-        file: join('images', 'events', `${event.id}.webp`),
-        sharps,
-        copies,
-        targetFolder,
-        transforms
-      })
-    }
+  const eventsData = JSON.parse(await readFile(join(cwd, 'events.json')))
+  const events = []
+  for (const groupEvents of Object.values(eventsData.events)) {
+    events.push(...groupEvents.filter(event => event.featured_photo))
+  }
+  await pmap(events, async event => {
+    event.featured_photo = await preparePhoto({
+      cwd,
+      file: join('images', 'events', `${event.id}.webp`),
+      sharps,
+      copies,
+      targetFolder,
+      transforms
+    })
   }, { concurrency: 5 })
   return {
     sharps,
     copies,
     async finalize () {
+      for (const event of events) {
+        event.featured_photo = {
+          ...event.featured_photo,
+          res: transforms.map(transform => event.featured_photo.res[transform.key])
+        }
+      }
       await writeFile(join(targetFolder, 'events.json'), stringify({
         transforms: transforms.map(({ key }) => key),
-        ...events,
-        events: events.events.map(event => ({
-          ...event,
-          featured_photo: event.featured_photo ? {
-            ...event.featured_photo,
-            res: transforms.map(transform => event.featured_photo.res[transform.key])
-          } : undefined
-        }))
+        ...eventsData
       }))
       return 'events.json'
     }
