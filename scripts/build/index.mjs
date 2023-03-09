@@ -1,7 +1,6 @@
 import sharp from 'sharp'
 import { readFile, readdir, writeFile, mkdir, access, cp } from 'node:fs/promises'
-import { join, relative, dirname, basename } from 'node:path'
-import { createHash } from 'node:crypto'
+import { join, relative, dirname } from 'node:path'
 import stringify from 'json-stringify-pretty-compact'
 import pmap from 'p-map'
 
@@ -236,10 +235,4 @@ async function processPhotoAlbums ({ targetFolder, folders, cwd, formats, transf
       })
     }
   }
-}
-
-function byNumber (a, b) {
-  if (a < b) return -1
-  if (a > b) return 1
-  return 0
 }
