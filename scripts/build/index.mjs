@@ -124,6 +124,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
       }
     }
   }, { concurrency: 5 })
+  await albumData.finalize()
   return await eventData.finalize()
 }
 
@@ -164,30 +165,53 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
   }
 }
 
-async function processPhotoAlbums ({ targetFolder, cwd, formats, transforms }) {
+async function processPhotoAlbums ({ targetFolder, cwd, transforms }) {
   const sharps = []
   const copies = []
   const photos = await readJSON(join(cwd, 'photos.json'))
-  await pmap(
-    photos.groups.reduce((allPhotos, group) => allPhotos.concat(group.photos), []),
-    async file => {
-      await preparePhoto({
+  const allPhotos = []
+  const groups = photos.groups.map(group => {
+    const targetGroup = {
+      ...group,
+      photos: []
+    }
+    for (const file of group.photos) {
+      const target = {}
+      allPhotos.push({ file, target })
+      targetGroup.photos.push(target)
+    }
+    return targetGroup
+  })
+  await pmap(allPhotos,
+    async ({ file, target }) => {
+      Object.assign(target, await preparePhoto({
         cwd,
         file,
         sharps,
         copies,
         targetFolder,
         transforms
-      })
+      }))
     },
     { concurrency: 5 }
   )
-  await writeJSON(join(targetFolder, 'photos.json'), {
-    transforms,
-    ...photos
-  })
   return {
     sharps,
-    copies
+    copies,
+    async finalize () {
+      await writeJSON(join(targetFolder, 'photos.json'), {
+        transforms,
+        ...photos,
+        groups: groups.map(group => {
+          return {
+            ...group,
+            photos: group.photos.map(photo => ({
+              ...photo,
+              res: transforms.map(transform => photo.res[transform.key])
+            }))
+          }
+        })
+      })
+    }
   }
 }
