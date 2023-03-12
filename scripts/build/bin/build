@@ -9,7 +9,6 @@ require('dotenv').config()
     stats: {
       survey: 'survey_statistics.json'
     },
-    albums: ['images/discord/event-photos'],
     transforms: {
       s: {
         formats,
