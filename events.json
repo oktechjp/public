@@ -63,14 +63,6 @@
         "venue": 22577042
       },
       {
-        "description": "<p>The cold winds creep closer but they will not be able to stop our passion for the web!</p> <p>We secured a spot on 29th to sharpen our braincells and exchange highly flammable ideas.</p> <p>In our last Meetup we asked people what they would be interested in talking or hearing about!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/b/f/8/600_427355832.jpeg\" /></p> <p>And as a result James said to have a presentation on \"Why you should not Wordpress\" and Dave will talk about \"Python 2.7 to 3\".</p> <p>If you feel like you have a nice topic to have a short about feel free to mention it in the comments.</p> <p>We are looking forward to meetup with you!</p> <p>PS.: About the Knowledge salon: <a href=\"http://kc-i.jp/en/facilities/salon/\"><a href=\"http://kc-i.jp/en/facilities/salon/\" class=\"linkified\">http://kc-i.jp/en/facilities/salon/</a></a></p> ",
-        "duration": 7200000,
-        "id": "216341542",
-        "name": "Monthly Meetup in November!",
-        "time": 1417244400000,
-        "venue": 22577042
-      },
-      {
         "description": "<p>2015 starts and the web prevails  and we continue on our journeys! So: Let's Meetup for nice discussions with peers, new opinions and interesting dissections about all things trending and/or crazy in our daily challenges to survive the rapid progress.</p> <p>Right now it looks like James will be talking about \"Why you shouldn't use Wordpress\" and Kenji about \"Dealing with DB, ORM, MVC\". *But!* This time we setup a discussion board at loomio (because it seems to work quite nicely) so you can have a voice in what comes up!</p> <p><a href=\"https://www.loomio.org/g/ZXSCpa6z/web-developers-and-designers-meetup-osaka\" class=\"linkified\">https://www.loomio.org/g/ZXSCpa6z/web-developers-and-designers-meetup-osaka</a></p> <p>Hope to see you all well and healthy in January!</p> <p>PS.: Martin has been very busy the past weeks and thats why it took a while to get this setup. If you feel like you can write this sort of text better than him, setup discussions etc. then your support would be welcome :)</p> <p>PPS.: This site is still very raw. It would be awesome if we had a nice banner/logo. Do you need an outlet for your creativity?</p> ",
         "id": "219327553",
         "name": "Kick-Off 2015 Meetup",
@@ -82,6 +74,14 @@
         "id": "220314026",
         "name": "February 2015 Meetup",
         "time": 1425106800000,
+        "venue": 22577042
+      },
+      {
+        "description": "<p>The cold winds creep closer but they will not be able to stop our passion for the web!</p> <p>We secured a spot on 29th to sharpen our braincells and exchange highly flammable ideas.</p> <p>In our last Meetup we asked people what they would be interested in talking or hearing about!</p> <p><img src=\"http://photos3.meetupstatic.com/photos/event/8/b/f/8/600_427355832.jpeg\" /></p> <p>And as a result James said to have a presentation on \"Why you should not Wordpress\" and Dave will talk about \"Python 2.7 to 3\".</p> <p>If you feel like you have a nice topic to have a short about feel free to mention it in the comments.</p> <p>We are looking forward to meetup with you!</p> <p>PS.: About the Knowledge salon: <a href=\"http://kc-i.jp/en/facilities/salon/\"><a href=\"http://kc-i.jp/en/facilities/salon/\" class=\"linkified\">http://kc-i.jp/en/facilities/salon/</a></a></p> ",
+        "duration": 7200000,
+        "id": "216341542",
+        "name": "Monthly Meetup in November!",
+        "time": 1417244400000,
         "venue": 22577042
       },
       {
@@ -436,15 +436,6 @@
         "venue": 26539881
       },
       {
-        "description": "<p>Summer fun dev-time. What better way to escape the heat than an evening in a beautifully air conditioned room with fine folks talking about web development?</p> <p>Previously, Oussama told us that he would attend the Le Wagon - Coding Bootcamp in Tokyo. He has returned from his adventure and wants to share his experience with us!</p> <p>We will also be joined by PHP veteran Jeff Madsen. He has been living in Kansai for many years now and works as freelancer for companies abroad. Within his many publications on PHP, he also wrote a book about freelancing! Jeff will share with us his wealth of experience in his introduction on \"How to become a freelancer\".</p> <p>Apologies for the wait, this month we struggled to find a location, but we are finally happy to announce that we can use GVH#5 - The Hive's awesome meeting room in Umeda for the first time.</p> <p>We are looking forward to seeing you there!</p> <p>Note: This months presentations have been organized in response to your feedback! If there is something you are looking for in future presentations, please let us know 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "249925417",
-        "name": "Talking Bootcamps & Freelance",
-        "time": 1530349200000,
-        "venue": 25630979
-      },
-      {
         "description": "<p>Wow, this summer was hot! We plan to keep it chilled at this months OWDDM by breaking a bit out of our usual format.</p> <p>This month we will - for the first time - be able to use the new Sakura Internet space in the south tower of the Grandfront Building!</p> <p>In this spacious cafe / meeting space we would like to invite you to join us for listening to lessons that some of our experienced folks have learned in their work life. Be it design, workflow, programming or human related, we are looking forward to a few 5~10 minute mini-presentations with conversations in between.</p> <p>We hope you can join us for a nice evening, where some of us will head out for drinks afterwards.</p> <p>yours<br/>Martin.</p> <p>On another note: Many of this years presentations came to happen because of your feedback. If you would like to hear or speak about something in a future or this meetup, please let us know! 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -463,6 +454,15 @@
         "venue": 25620385
       },
       {
+        "description": "<p>Summer fun dev-time. What better way to escape the heat than an evening in a beautifully air conditioned room with fine folks talking about web development?</p> <p>Previously, Oussama told us that he would attend the Le Wagon - Coding Bootcamp in Tokyo. He has returned from his adventure and wants to share his experience with us!</p> <p>We will also be joined by PHP veteran Jeff Madsen. He has been living in Kansai for many years now and works as freelancer for companies abroad. Within his many publications on PHP, he also wrote a book about freelancing! Jeff will share with us his wealth of experience in his introduction on \"How to become a freelancer\".</p> <p>Apologies for the wait, this month we struggled to find a location, but we are finally happy to announce that we can use GVH#5 - The Hive's awesome meeting room in Umeda for the first time.</p> <p>We are looking forward to seeing you there!</p> <p>Note: This months presentations have been organized in response to your feedback! If there is something you are looking for in future presentations, please let us know 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "249925417",
+        "name": "Talking Bootcamps & Freelance",
+        "time": 1530349200000,
+        "venue": 25630979
+      },
+      {
         "description": "<p>Finally, Spring is here and the warm days are starting! Before the long golden week holiday, we would like to invite you to our April Meetup for two nice talks and optionally some drinks afterward in a nearby Izakaya.</p> <p>First up - Oussama Ladhari, a web developer in Miraidenshi Technology, will talk about Docker and how to mount an application (frontend/backend) with docker-compose, and why Dockerizing an application is very important nowadays.</p> <p>Then Andrew Zamora, a web developer in Mamamia, will talk to us about his career change from English teacher to a full-stack web developer and how he made this change possible.</p> <p>As always, you can ask your questions as well as having a break for chatting during the event</p> <p>Please go ahead and book your time!</p> <p>See you soon!</p> <p>The OWDDM Organizers<br/>(The meetup is on 3rd floor of the building)</p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -479,15 +479,6 @@
         "name": "Autumn the beautiful season of colors - Osaka Web Dev & Design Meetup in October",
         "time": 1572080400000,
         "venue": 26262059
-      },
-      {
-        "description": "<p>Hi Everyone!</p> <p>We hope all of you have a great year. As we are reaching the final month of the year, we plan to get together for a year-end party along with the folks from HNKansai just like last year (... and the year before), at the very same place!</p> <p>We will meet on Saturday 14th of December from 6pm (originally starting time was 7pm but we have now moved it to 6pm instead) at Galleria, a very nice pizzeria with a lot of space for people to talk and drink together 🙂 It is located just near Osaka Umeda so easily reachable from all major train lines.</p> <p>The restaurant has changed their menu (3,500 JPY per person and you can drink as much as you want). As we have planned to rent out the place, the minimum party is 30 people, so please book in advance and let us know asap if you cannot attend.</p> <p>Please register your attendance in HN Kansai meetup, here is the link:<br/><a href=\"https://www.meetup.com/Hacker-News-Kansai/events/266838294/\" class=\"linkified\">https://www.meetup.com/Hacker-News-Kansai/events/266838294/</a></p> <p>We look forward to seeing all of your at the party.</p> <p>For those who cannot attend the year-end party, we wish you a happy holiday and a prosperous &amp; healthy New Year.</p> <p>The OWDDM Organizers</p> ",
-        "duration": 10800000,
-        "featured_photo": true,
-        "id": "266823997",
-        "name": "2019 HN Kansai & OWDDM End of Year Dinner",
-        "time": 1576314000000,
-        "venue": 25620385
       },
       {
         "description": "<p>Welcome back web developers and designers!</p> <p>We're hoping to resume our meetup in a safe manner by holding an outdoor gathering (a picnic!) at Tsurumi Ryokuchi Park on Saturday 27th of June, weather permitting.</p> <p>We intend to keep the format open and have more discussions than one-sided talks, but to kick things off Benjamin Murden will discuss his journey into the JAMStack - a means of building sites that can be deployed to the edge, so they can be served from fast CDNs.</p> <p>Please bring a mat to sit on and your own food and drinks. Families are welcome.</p> <p>Meeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.</p> <p>Weather forecast is sunny 28C/83F, 10% chance of rain. Please make sure you have plenty of water, suntan lotion or sunscreen.</p> <p>There is a convenient store Lawson close to the station. You can get food and drinks there.</p> <p>If you are late, please check back on this web page for the exact location. We shall update it tomorrow.</p> ",
@@ -524,6 +515,15 @@
         "name": "2020 - End of Year \"Virtual\" Party",
         "time": 1609419600000,
         "venue": 26906060
+      },
+      {
+        "description": "<p>Hi Everyone!</p> <p>We hope all of you have a great year. As we are reaching the final month of the year, we plan to get together for a year-end party along with the folks from HNKansai just like last year (... and the year before), at the very same place!</p> <p>We will meet on Saturday 14th of December from 6pm (originally starting time was 7pm but we have now moved it to 6pm instead) at Galleria, a very nice pizzeria with a lot of space for people to talk and drink together 🙂 It is located just near Osaka Umeda so easily reachable from all major train lines.</p> <p>The restaurant has changed their menu (3,500 JPY per person and you can drink as much as you want). As we have planned to rent out the place, the minimum party is 30 people, so please book in advance and let us know asap if you cannot attend.</p> <p>Please register your attendance in HN Kansai meetup, here is the link:<br/><a href=\"https://www.meetup.com/Hacker-News-Kansai/events/266838294/\" class=\"linkified\">https://www.meetup.com/Hacker-News-Kansai/events/266838294/</a></p> <p>We look forward to seeing all of your at the party.</p> <p>For those who cannot attend the year-end party, we wish you a happy holiday and a prosperous &amp; healthy New Year.</p> <p>The OWDDM Organizers</p> ",
+        "duration": 10800000,
+        "featured_photo": true,
+        "id": "266823997",
+        "name": "2019 HN Kansai & OWDDM End of Year Dinner",
+        "time": 1576314000000,
+        "venue": 25620385
       },
       {
         "description": "<p>We will be very happy to see you at the next Meetup, our first meeting of the year.</p> <p>Just to get together, chat about security in an enterprise environment and trade ideas/connections.</p> <p>At this time, the **slots for Presentations are still open**.</p> <p>So if you would like to:</p> <p>* present a lightning talk or<br/>* moderate a talk or<br/>* sell an idea/service, or<br/>* seek collaboration over a project you are working on,</p> <p>do let any of the Organizers know.</p> <p>Thanks.</p> <p>P.S: It's **bring-your-own-coffee** kinda of a place though.</p> <p>This is the address of the location as given by the owner:</p> <p>〒530-0014<br/>大阪府大阪市<br/>北区鶴野町４−１１<br/>朝日プラザ梅田</p> ",
@@ -571,21 +571,21 @@
         "venue": 27310813
       },
       {
-        "description": "<p>Summer heat in Osaka, and we meet to escape the blistering sun and talk about web &amp; things. 😎</p> <p>This month we are trying a new meeting space. This should be easier to access for many and we hope you enjoy it. 😉</p> <p>This month, Martin will be taking a deeper look at the Login and New-User process of web services. Attempting to identify the difference between **logins, old and new** variants from an user-experience and security perspective.</p> <p>This should keep us in conversation and busy for a while, but if the preparations work out, James is also going to do some frontend live-coding on the OWDDM homepage. 🤯</p> <p>There is still space/time for another presentation. If you have something you want to talk about: please don't hesitate to contact us!</p> <p>We are still in the process of re-invigorating this meetup. As such, it would be awesome if you could take a few minutes and share what you think about it:</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "287156985",
-        "name": "Hiding from the heat (Login UX & Live Coding)",
-        "time": 1658563200000,
-        "venue": 27370028
-      },
-      {
         "description": "<p>The new space worked out well last time! As it was providing a big space to escape the summer sun we will be meeting there in August again. 😎</p> <p>Before going into the meetup: We have started a Survey to figure out what you are up to and how we could make a nicer meetup for you. It would be awesome if you could take a few minutes to make our life easier ➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>).</p> <p>This month, the Alexey from the amazing [Evil Martians](<a href=\"https://evilmartians.com/\" class=\"linkified\">https://evilmartians.com/</a>) *(inspiration for the meetup name)* is going to talk about Code. Not about a particular piece of code but about ***\"writing code that other people like to read\"***. Since Evil Martians maintains a lot of OpenSource projects, he will surely be able to share a lot of insight. *(whole description at the end)*</p> <p>Also, James is going to continue his **collaborative** **live-coding session** from last time and work on the new OWDDM webpage - designed by Kimmy.</p> <p>And there is still space/time for another presentation. If you have something you want to talk about: please don't hesitate to contact us!</p> <p>Looking forward to meet you this month!</p> <p>⎯⎯⎯⎯⎯⎯</p> <p>Description for Alexeys Presentation:</p> <p>*Writing code that works and writing code that other people can read and understand are two different skills. And writing code that other people could read and understand became more and more essential skill as the projects grew larger and more people began working on it.*</p> <p>*But because it is a skill, you need to train it consciously. It's a lot like writing essays and books. Almost everyone can write letters and words, and many people can also connect them in grammatically correct sentences, but just writing grammatically correct sentences is not enough to make them pleasant and easy to read.*</p> <p>*An essential part of learning writing skills is reading and analyzing other people's code on the one hand and making other people read your code and give you feedback about it.*</p> <p>*I will talk about different methods to make programmers better writers and how to train in the skill of writing code that other people would want to read.*</p> ",
         "duration": 9000000,
         "featured_photo": true,
         "id": "287537418",
         "name": "Martian Summer",
         "time": 1660981500000,
+        "venue": 27370028
+      },
+      {
+        "description": "<p>Summer heat in Osaka, and we meet to escape the blistering sun and talk about web &amp; things. 😎</p> <p>This month we are trying a new meeting space. This should be easier to access for many and we hope you enjoy it. 😉</p> <p>This month, Martin will be taking a deeper look at the Login and New-User process of web services. Attempting to identify the difference between **logins, old and new** variants from an user-experience and security perspective.</p> <p>This should keep us in conversation and busy for a while, but if the preparations work out, James is also going to do some frontend live-coding on the OWDDM homepage. 🤯</p> <p>There is still space/time for another presentation. If you have something you want to talk about: please don't hesitate to contact us!</p> <p>We are still in the process of re-invigorating this meetup. As such, it would be awesome if you could take a few minutes and share what you think about it:</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "287156985",
+        "name": "Hiding from the heat (Login UX & Live Coding)",
+        "time": 1658563200000,
         "venue": 27370028
       },
       {
@@ -598,6 +598,15 @@
         "venue": 27398802
       },
       {
+        "description": "<p>We survived this summer!And this months meeting will be all about speed. 🚀</p> <p>Long time member *Gregory King* will be looking into *what’s it like working with WebAssembly on the “Frontend”?*</p> <p>Have you ever wondered *what it’s like writing in WebAssembly (WASM)*? or if we can write WASM like we do React? - Do you love web development, but had enough of JavaScript? In this short talk, we explore what it’s like building web apps with [Yew](<a href=\"https://yew.rs\" class=\"linkified\">https://yew.rs</a>), a Rust based web framework for writing frontend web apps in WebAssembly.</p> <p>There is still space/time for another presentation. If you have something you want to talk about, [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)!</p> <p>For a hot while, we have been asking attendees to give us feedback using our survey below. Until now only few people responded. If you have some time we would deeply appreciate your voice.</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
+        "duration": 9000000,
+        "featured_photo": true,
+        "id": "288129290",
+        "name": "Fast Autumn Web",
+        "time": 1663398900000,
+        "venue": 27370028
+      },
+      {
         "description": "<p>**RSVP Closed**<br/>*Hello friends, RSVP is currently closed as we need to fixate the amount of people joining the Rooftop. If you wish to attend still: please leave a comment and/or contact us at [mail@owddm.com](mailto:mail@owddm.com)*</p> <p>We're taking a short break from our usual presentation events and heading to the great outdoors to enjoy the end of summer. Join us on Oct 1st for a hike along the top of Mount Rokko and a rooftop patio hangout.</p> <p>**Cost to participate:**<br/>750 JPY for rooftop rental<br/>600 JPY for ropeway up the mountain<br/>450 JPY (optional) for the cable car down the mountain</p> <p>Please bring your own packed lunch for the hike. Light snacks and drinks will be provided at the rooftop.</p> <p>**Itinerary:**<br/>We'll start our hike by meeting at [Rokko Ropeway Ground station](<a href=\"https://goo.gl/maps/arHY2fYAmFY26hX17\" class=\"linkified\">https://goo.gl/maps/arHY2fYAmFY26hX17</a>) at 8:00 AM. From there, we'll take the ropeway (600 JPY) up to the top of mount Rokko and hike along the mountain range, taking a few breaks at interesting spots along the way (Tenjioji Temple, public art park). At 11, we'll eat our lunch (please bring your own packed lunch) and begin our descent from the top of mount Maya. You can either hike down or take the Mt. Maya cable car. We'll then hang out at a rooftop patio close by that we are renting from 2:00 PM to 5:45 PM. While hanging out at the rooftop, Martin will host a web design and development-related discussion while attendees cool down with some provided drinks and snacks.<br/>Please bring your own packed lunch and drinks for the hike. After the hike, drinks and light snacks will be provided for attendees at the rooftop.</p> <p>***</p> <p>For a hot while, we have been asking attendees to give us feedback using our survey below. So far, only a few people have responded. If you have some time, we would deeply appreciate your voice.<br/>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
         "duration": 34500000,
         "featured_photo": true,
@@ -607,12 +616,12 @@
         "venue": 27024215
       },
       {
-        "description": "<p>We survived this summer!And this months meeting will be all about speed. 🚀</p> <p>Long time member *Gregory King* will be looking into *what’s it like working with WebAssembly on the “Frontend”?*</p> <p>Have you ever wondered *what it’s like writing in WebAssembly (WASM)*? or if we can write WASM like we do React? - Do you love web development, but had enough of JavaScript? In this short talk, we explore what it’s like building web apps with [Yew](<a href=\"https://yew.rs\" class=\"linkified\">https://yew.rs</a>), a Rust based web framework for writing frontend web apps in WebAssembly.</p> <p>There is still space/time for another presentation. If you have something you want to talk about, [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)!</p> <p>For a hot while, we have been asking attendees to give us feedback using our survey below. Until now only few people responded. If you have some time we would deeply appreciate your voice.</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
+        "description": "<p>Dear web enthusiasts, we're in a busy autumn! 🔥</p> <p>After our hike, our organizer *Kimmy* will be exploring in **\"Western vs Japanese UI Design - a comparison\"** about the differences in the design trends between *western* and *japanese* UI design and explore some possible explanations on this. 👩‍🎨</p> <p>Following that, our first time presenter's *Jacob* is planning to give in **\"Flight Sim Development: Not just for AV Otakus\"** an overview on the advancement of home flight simulators ✈️ over the past few decades, share insights on how open source development is linked with modern versions, and how everyone from beginners, to seasoned engineers can cut their teeth with these projects.</p> <p>For November we have already a little planned, but if you feel like sharing your knowledge then feel free to [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)! 📥</p> <p>Feedback has been trickling in and we are looking into a way to share it with everyone. Until then, know that we take it by heart, so if there is something on your mind, feel free to share it ↓</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
         "duration": 9000000,
         "featured_photo": true,
-        "id": "288129290",
-        "name": "Fast Autumn Web",
-        "time": 1663398900000,
+        "id": "288595894",
+        "name": "UI culture and Airplanes",
+        "time": 1665819900000,
         "venue": 27370028
       },
       {
@@ -624,12 +633,21 @@
         "venue": 27370028
       },
       {
-        "description": "<p>Dear web enthusiasts, we're in a busy autumn! 🔥</p> <p>After our hike, our organizer *Kimmy* will be exploring in **\"Western vs Japanese UI Design - a comparison\"** about the differences in the design trends between *western* and *japanese* UI design and explore some possible explanations on this. 👩‍🎨</p> <p>Following that, our first time presenter's *Jacob* is planning to give in **\"Flight Sim Development: Not just for AV Otakus\"** an overview on the advancement of home flight simulators ✈️ over the past few decades, share insights on how open source development is linked with modern versions, and how everyone from beginners, to seasoned engineers can cut their teeth with these projects.</p> <p>For November we have already a little planned, but if you feel like sharing your knowledge then feel free to [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)! 📥</p> <p>Feedback has been trickling in and we are looking into a way to share it with everyone. Until then, know that we take it by heart, so if there is something on your mind, feel free to share it ↓</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
-        "duration": 9000000,
+        "description": "<p>Good Autumn, Friends! 🍁</p> <p>While the leaves turned red and we are meeting once more. We also have some news for you! First off: we are opening our group chat. 🤠 Jake has been preparing this for a bit and now you can...</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>*Back to this event, we have two presentations this week:*</p> <p>1\\. Presentation: Martin is planning to have his next entry on the topic of Logins\\. This time he will look into Logins for Businesses\\.<br/>***Features of a modern Login System*** 🔐 based on AWS Cognito. Answering the question of what it does and why. Al while keeping in mind what effort it might take to implement them. 🥸</p> <p>2\\. Presentation: Gregory will talk about '** Buying/Renting in Japan with a bit of Neumorphism**'.<br/>In this brief presentation, we explore the age old question. Is it better to buy or rent a home (Japan Edition)? Join and help me as we go through a simple Svelte app I made as a fun little project to help folks answer this pervasive yet elusive question. On the way, we also discuss some elements of Neumorphic design, what it's like using it and whether you should use it.</p> <p>For now we have two presentations this month, so if you want to try out a presentation for the next events please contact us. → [Presentation Proposal](<a href=\"https://forms.gle/KifJzLSmcXUPxSFk7\" class=\"linkified\">https://forms.gle/KifJzLSmcXUPxSFk7</a>)</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
+        "duration": 7200000,
         "featured_photo": true,
-        "id": "288595894",
-        "name": "UI culture and Airplanes",
-        "time": 1665819900000,
+        "id": "289641703",
+        "name": "November Web Systems",
+        "time": 1668844800000,
+        "venue": 27370028
+      },
+      {
+        "description": "<p>Happy New Year! 🎊 明けましておめでとうございます！</p> <p>We hope you had a great end of last year! Now that this year started we are kicking it off with two presentations.</p> <p>Karen, who works in the marketing-side of the web, will be looking in how we evaluate our work and how websites can profit off KPI (Key Performance Indicators).</p> <p>After that, Martin is taking a break for a bit and will looks into the JavaScript Gamepad API for a bit of geeky joy at the beginning of the year.</p> <p>By the way, both presentations were proposed in the the #presentation-ideas channel on discord! If you have any questions or comments before the meetup, ask there!</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "290682636",
+        "name": "Gamepad KPI's",
+        "time": 1674288000000,
         "venue": 27370028
       },
       {
@@ -642,30 +660,12 @@
         "venue": 27479006
       },
       {
-        "description": "<p>Happy New Year! 🎊 明けましておめでとうございます！</p> <p>We hope you had a great end of last year! Now that this year started we are kicking it off with two presentations.</p> <p>Karen, who works in the marketing-side of the web, will be looking in how we evaluate our work and how websites can profit off KPI (Key Performance Indicators).</p> <p>After that, Martin is taking a break for a bit and will looks into the JavaScript Gamepad API for a bit of geeky joy at the beginning of the year.</p> <p>By the way, both presentations were proposed in the the #presentation-ideas channel on discord! If you have any questions or comments before the meetup, ask there!</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "290682636",
-        "name": "Gamepad KPI's",
-        "time": 1674288000000,
-        "venue": 27370028
-      },
-      {
         "description": "<p>Hello Everyone!<br/>It's February o'month. Time is flying!</p> <p>[Follow Us and Don't Miss Any Meetings!](<a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a>)</p> <p>This month we will have kind of a deja'vu. **James** and **Martin** are both going to re-discover topics that they have been talking about years back but for some reason are still timely.</p> <p>James is going to present about **[WebComponents](<a href=\"https://www.webcomponents.org/\" class=\"linkified\">https://www.webcomponents.org/</a>)**, why the are interesting and how they work.</p> <p>After that Martin is going to revamp his *\"**Introduction to GraphQL**\"* in which he will look at how GraphQL works in the updated version look into where it is useful and why it exists.</p> <p>Both presentations this month have come from the [Discord](<a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a>) channel. If you have something you would like to talk or hear about: [JOIN US](<a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a>)!<br/>join us at [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) for organizing it together.</p> ",
         "duration": 7200000,
         "featured_photo": true,
         "id": "291352411",
         "name": "WebComponents + GraphQL",
         "time": 1676707200000,
-        "venue": 27370028
-      },
-      {
-        "description": "<p>Good Autumn, Friends! 🍁</p> <p>While the leaves turned red and we are meeting once more. We also have some news for you! First off: we are opening our group chat. 🤠 Jake has been preparing this for a bit and now you can...</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>*Back to this event, we have two presentations this week:*</p> <p>1\\. Presentation: Martin is planning to have his next entry on the topic of Logins\\. This time he will look into Logins for Businesses\\.<br/>***Features of a modern Login System*** 🔐 based on AWS Cognito. Answering the question of what it does and why. Al while keeping in mind what effort it might take to implement them. 🥸</p> <p>2\\. Presentation: Gregory will talk about '** Buying/Renting in Japan with a bit of Neumorphism**'.<br/>In this brief presentation, we explore the age old question. Is it better to buy or rent a home (Japan Edition)? Join and help me as we go through a simple Svelte app I made as a fun little project to help folks answer this pervasive yet elusive question. On the way, we also discuss some elements of Neumorphic design, what it's like using it and whether you should use it.</p> <p>For now we have two presentations this month, so if you want to try out a presentation for the next events please contact us. → [Presentation Proposal](<a href=\"https://forms.gle/KifJzLSmcXUPxSFk7\" class=\"linkified\">https://forms.gle/KifJzLSmcXUPxSFk7</a>)</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "289641703",
-        "name": "November Web Systems",
-        "time": 1668844800000,
         "venue": 27370028
       },
       {
