@@ -62,12 +62,12 @@ function removeExt (filename) {
   return filename.substring(0, d)
 }
 
-function toHexColors (rgbs) {
-  const colors = []
-  for (let i = 0; i < rgbs.length; i += 3) {
-    colors.push(`${rgbs.slice(i, i + 3).map(col => col.toString(16).padStart(2, '0')).join('')}`)
-  }
-  return colors
+function toHex (col) {
+  return col.toString(16).padStart(2, '0')
+}
+
+function toHexColor (rgbs, i) {
+  return `${rgbs.slice(i, i + 3).map(toHex).join('')}`
 }
 
 const start = Date.now()
@@ -75,25 +75,64 @@ function log (group, msg) {
   console.log((Date.now() - start).toString().padEnd(5, ' '), `[${group}]`.padEnd(8, ' '), msg)
 }
 
-async function preparePhoto ({ cwd, file, targetFolder, transforms, sharps, copies }) {
-  // Note: this is a bit of a hack, but "res" is filled only while the sharps are processed
-  //       Kind of backwards nbut it works :sweat:
-  const res = {}
-  const src = join(cwd, file)
-  const base = join(targetFolder, removeExt(file))
+async function getDominant (src, size, x, y) {
+  const area = {
+    left: size * x,
+    top: size * y,
+    width: size * 0.5,
+    height: size * 0.5
+  }
+  const img = await sharp(src)
+    .extract(area)
+    .toFormat('tif')
+    .toBuffer()
+  const { dominant } = await sharp(img).stats()
+  return `${toHex(dominant.r)}${toHex(dominant.g)}${toHex(dominant.b)}`
+}
+
+async function preparePhoto ({ cwd, targetFolder, transforms, sharps, copies, target }) {
+  const src = join(cwd, target.file)
+  const base = join(targetFolder, removeExt(target.file))
   sharps.push(...transforms.map(transform => (
     {
-      res,
       src,
+      // Note: this is a bit of a hack, but "target.res" is filled only while the sharps are processed
+      //       Kind of backwards nbut it works :sweat:
+      target,
       base,
       transform
     }
   )))
-  copies.push({ src, target: join(targetFolder, file) })
-  return {
-    file,
-    corners: toHexColors(Array.from(await sharp(src).resize(2, 2).toFormat('raw').toBuffer())),
-    res
+  copies.push({ src, target: join(targetFolder, target.file) })
+  if (!target.corners) {
+    const base = await sharp(src)
+      .resize({
+        width: 80,
+        height: 80,
+        fit: 'fill'
+      })
+      .normalize()
+      .modulate({
+        saturation: 1.5
+      })
+      .toColorspace('srgb')
+      .toFormat('tiff')
+      .toBuffer()
+    const x3y3 = Array.from(await sharp(base)
+      .resize({
+        width: 3,
+        height: 3,
+        fit: 'fill',
+      })
+      .toFormat('raw')
+      .toBuffer()
+    )
+    target.corners = [
+      toHexColor(x3y3, 0),
+      toHexColor(x3y3, 2 * 3),
+      toHexColor(x3y3, 6 * 3),
+      toHexColor(x3y3, 8 * 3)
+    ]
   }
 }
 
@@ -101,26 +140,26 @@ async function processImages ({ targetFolder, cwd, transforms }) {
   const albumData = await processPhotoAlbums({ targetFolder, cwd, transforms })
   const eventData = await processEventsImages({ targetFolder, cwd, transforms })
   await pmap([...albumData.copies, ...eventData.copies], async ({ src, target }) => copy(src, target, true))
-  await pmap([...albumData.sharps, ...eventData.sharps], async ({ res, src, base, transform }) => {
+  await pmap([...albumData.sharps, ...eventData.sharps], async ({ src, target, base, transform }) => {
     let s = sharp(src)
     if (transform.resize) {
       s = s.resize(transform.resize)
     }
     let first = true
     for (const format of transform.formats) {
-      const target = `${base}@${transform.key}.${format}`
+      const formatFile = `${base}@${transform.key}.${format}`
       try {
-        await access(target)
+        await access(formatFile)
         log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> cached`)
       } catch (err) {
-        await mkdir(dirname(target), { recursive: true })
+        await mkdir(dirname(formatFile), { recursive: true })
         log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
-        await s.withMetadata().toFile(target)
+        await s.withMetadata().toFile(formatFile)
       }
       if (first) {
         first = false
-        const metadata = await sharp(target).metadata()
-        res[transform.key] = [ metadata.width, metadata.height ]
+        const metadata = await sharp(formatFile).metadata()
+        target.res[transform.key] = [ metadata.width, metadata.height ]
       }
     }
   }, { concurrency: 5 })
@@ -137,11 +176,15 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
     events.push(...groupEvents.filter(event => event.featured_photo))
   }
   await pmap(events, async event => {
-    event.featured_photo = await preparePhoto({
-      cwd,
+    event.featured_photo = {
       file: join('images', 'events', `${event.id}.webp`),
+      res: {}
+    }
+    await preparePhoto({
+      cwd,
       sharps,
       copies,
+      target: event.featured_photo,
       targetFolder,
       transforms
     })
@@ -176,23 +219,24 @@ async function processPhotoAlbums ({ targetFolder, cwd, transforms }) {
       photos: []
     }
     for (const file of group.photos) {
-      const target = {}
-      allPhotos.push({ file, target })
+      const target = {
+        file,
+        res: {}
+      }
+      allPhotos.push(target)
       targetGroup.photos.push(target)
     }
     return targetGroup
   })
-  await pmap(allPhotos,
-    async ({ file, target }) => {
-      Object.assign(target, await preparePhoto({
-        cwd,
-        file,
-        sharps,
-        copies,
-        targetFolder,
-        transforms
-      }))
-    },
+  await pmap(allPhotos, async target =>
+    await preparePhoto({
+      cwd,
+      sharps,
+      copies,
+      target,
+      targetFolder,
+      transforms
+    }),
     { concurrency: 5 }
   )
   return {
