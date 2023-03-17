@@ -508,15 +508,6 @@
         "venue": 26936190
       },
       {
-        "description": "<p>Season's greetings</p> <p>Hope all of you are safe and healthy.</p> <p>We would like to organise our End of Year \"Virtual\" party on Thursday 31st December to celebrate the passing of this dreadful year of 2020. As the world is mostly on lock down, this year we have only managed to organise a few Outdoor meetups. This will be our first online virtual meetup.</p> <p>Please prepare yourself some good food, champagne, beer, sake or any alcoholic drinks to join us at our first Virtual meetup End of Year party event. We look forward to seeing you and hope that we join us safely from your home. Families are welcome.</p> <p>Although this is an Osaka event, you can join us wherever you are especially for some of our members who have gone on to do other exciting things around the world. Please note that the time is in JST.</p> <p>This virtual meetup uses Spaital Chat application. You don't need to install any software, just use a browser and let it access your web cam and microphone. (*note: it seems to work ok with my iPhone but not on my old iPad. )</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "275387371",
-        "name": "2020 - End of Year \"Virtual\" Party",
-        "time": 1609419600000,
-        "venue": 26906060
-      },
-      {
         "description": "<p>Welcome back web developers and designers!</p> <p>We would like to continuing our outdoor gatherings at Tsurumi Ryokuchi Park on Saturday 21st November, weather and Covid19 social distancing permitting. It is a bit of a short notice but hope that you will be available to participate.</p> <p>This month we are also teaming up with Sakura Internet's Sakura Club. We will be joined by their Japanese members via Zoom (using our smartphones)! We have been trying to work out a joint event for sometime but due to the Covid19, we weren't able to do that until now.</p> <p>Ben Murden will kick things off with a quick talk about React Native and it will be joint by Sakura Club via Zoom. After that Fukui-san from Sakura Club will give a quick talk of \"Building a community of English and Japanese IT developers\" via Zoom. We shall try to interpret the talks in Japanese and English.</p> <p>You don't need to join the Zoom session but if you are interested, we will let you know the Zoom links on the day.</p> <p>Please bring a picnic mat to sit on and your own food and drinks. Families are welcome. There is also a Lawson close to the station where you can pick up food and drinks on the way.</p> <p>Meeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.</p> <p>The forecast is pretty uncertain, so we'll update this page if it looks like we'll have to postpone until the following month. We'll also send out a notification via e-mail if things change, so remember to sign up if you're thinking of coming!</p> <p>If you are late, please check back on this web page for the exact location. We shall update when we settle on a spot.</p> <p>* We shall ask the participant for a donation (￥100~500) to cover our cost.</p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -524,6 +515,15 @@
         "name": "Outdoor Meetup November",
         "time": 1605938400000,
         "venue": 26936190
+      },
+      {
+        "description": "<p>Season's greetings</p> <p>Hope all of you are safe and healthy.</p> <p>We would like to organise our End of Year \"Virtual\" party on Thursday 31st December to celebrate the passing of this dreadful year of 2020. As the world is mostly on lock down, this year we have only managed to organise a few Outdoor meetups. This will be our first online virtual meetup.</p> <p>Please prepare yourself some good food, champagne, beer, sake or any alcoholic drinks to join us at our first Virtual meetup End of Year party event. We look forward to seeing you and hope that we join us safely from your home. Families are welcome.</p> <p>Although this is an Osaka event, you can join us wherever you are especially for some of our members who have gone on to do other exciting things around the world. Please note that the time is in JST.</p> <p>This virtual meetup uses Spaital Chat application. You don't need to install any software, just use a browser and let it access your web cam and microphone. (*note: it seems to work ok with my iPhone but not on my old iPad. )</p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "275387371",
+        "name": "2020 - End of Year \"Virtual\" Party",
+        "time": 1609419600000,
+        "venue": 26906060
       },
       {
         "description": "<p>We will be very happy to see you at the next Meetup, our first meeting of the year.</p> <p>Just to get together, chat about security in an enterprise environment and trade ideas/connections.</p> <p>At this time, the **slots for Presentations are still open**.</p> <p>So if you would like to:</p> <p>* present a lightning talk or<br/>* moderate a talk or<br/>* sell an idea/service, or<br/>* seek collaboration over a project you are working on,</p> <p>do let any of the Organizers know.</p> <p>Thanks.</p> <p>P.S: It's **bring-your-own-coffee** kinda of a place though.</p> <p>This is the address of the location as given by the owner:</p> <p>〒530-0014<br/>大阪府大阪市<br/>北区鶴野町４−１１<br/>朝日プラザ梅田</p> ",
@@ -633,6 +633,15 @@
         "venue": 27370028
       },
       {
+        "description": "<p>Good Autumn, Friends! 🍁</p> <p>While the leaves turned red and we are meeting once more. We also have some news for you! First off: we are opening our group chat. 🤠 Jake has been preparing this for a bit and now you can...</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>*Back to this event, we have two presentations this week:*</p> <p>1\\. Presentation: Martin is planning to have his next entry on the topic of Logins\\. This time he will look into Logins for Businesses\\.<br/>***Features of a modern Login System*** 🔐 based on AWS Cognito. Answering the question of what it does and why. Al while keeping in mind what effort it might take to implement them. 🥸</p> <p>2\\. Presentation: Gregory will talk about '** Buying/Renting in Japan with a bit of Neumorphism**'.<br/>In this brief presentation, we explore the age old question. Is it better to buy or rent a home (Japan Edition)? Join and help me as we go through a simple Svelte app I made as a fun little project to help folks answer this pervasive yet elusive question. On the way, we also discuss some elements of Neumorphic design, what it's like using it and whether you should use it.</p> <p>For now we have two presentations this month, so if you want to try out a presentation for the next events please contact us. → [Presentation Proposal](<a href=\"https://forms.gle/KifJzLSmcXUPxSFk7\" class=\"linkified\">https://forms.gle/KifJzLSmcXUPxSFk7</a>)</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "289641703",
+        "name": "November Web Systems",
+        "time": 1668844800000,
+        "venue": 27370028
+      },
+      {
         "description": "<p>Hello Friends,</p> <p>As in previous years, we skip the meetup in December in favor of a end-of-year party. 🥳 \"Party\" is a bit of a loose term, but we meet-up in a food &amp; drinks place and have a dinner together.</p> <p>We will meet at Masamune Izakaya in Umeda (Sonezaki Corner) at 20:00!</p> <p>Location Link: <a href=\"https://goo.gl/maps/WZpAybdDDmfBGqEj8\" class=\"linkified\">https://goo.gl/maps/WZpAybdDDmfBGqEj8</a><br/>Price: **3500 JPY**<br/>→ [Countdown](<a href=\"https://www.timeanddate.com/countdown/generic?iso=20221230T20&amp;p0=671&amp;font=cursive\" class=\"linkified\">https://www.timeanddate.com/countdown/generic?iso=20221230T20&amp;p0=671&amp;font=cursive</a>)</p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -657,15 +666,6 @@
         "id": "291352411",
         "name": "WebComponents + GraphQL",
         "time": 1676707200000,
-        "venue": 27370028
-      },
-      {
-        "description": "<p>Good Autumn, Friends! 🍁</p> <p>While the leaves turned red and we are meeting once more. We also have some news for you! First off: we are opening our group chat. 🤠 Jake has been preparing this for a bit and now you can...</p> <p>**→ Join us on Discord:** [<a href=\"https://owddm.com/discord](https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord](https://owddm.com/discord</a>) 💬</p> <p>*Back to this event, we have two presentations this week:*</p> <p>1\\. Presentation: Martin is planning to have his next entry on the topic of Logins\\. This time he will look into Logins for Businesses\\.<br/>***Features of a modern Login System*** 🔐 based on AWS Cognito. Answering the question of what it does and why. Al while keeping in mind what effort it might take to implement them. 🥸</p> <p>2\\. Presentation: Gregory will talk about '** Buying/Renting in Japan with a bit of Neumorphism**'.<br/>In this brief presentation, we explore the age old question. Is it better to buy or rent a home (Japan Edition)? Join and help me as we go through a simple Svelte app I made as a fun little project to help folks answer this pervasive yet elusive question. On the way, we also discuss some elements of Neumorphic design, what it's like using it and whether you should use it.</p> <p>For now we have two presentations this month, so if you want to try out a presentation for the next events please contact us. → [Presentation Proposal](<a href=\"https://forms.gle/KifJzLSmcXUPxSFk7\" class=\"linkified\">https://forms.gle/KifJzLSmcXUPxSFk7</a>)</p> <p>We are looking forward to meeting you!</p> <p>PS.: We are still in the process of publishing the results, but we'd are actively looking at your feedback → [Feedback Form](<a href=\"https://forms.gle/bVN8vrMrBCNkqpcd9\" class=\"linkified\">https://forms.gle/bVN8vrMrBCNkqpcd9</a>)</p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "289641703",
-        "name": "November Web Systems",
-        "time": 1668844800000,
         "venue": 27370028
       },
       {
