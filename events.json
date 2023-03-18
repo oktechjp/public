@@ -693,6 +693,24 @@
           "venue": "24529555"
         },
         {
+          "description": "Dear all, even as I write these lines I realize it’s been quite a while since our last gathering in Osaka. Therefore, I take the opportunity to invite everyone to the first 2018 Web Designers and Developers Meetup. We are still setting up the list of speakers and as soon as possible will offer you a preview of our lineup for the February event. By the way, if you are interested in presenting this month please let us know and we will accommodate you.\n\n** Update **\nThis month we are having two sessions brought to you by Adrien Lemaire and Marcel Takagi.\n\nAdrien will help us improve our hard skills with an \"Introduction to Kubernetes\", an open-source system for automating deployment, scaling and management of containerized applications - so many buzzwords.\n\nMarcel is going to introduce us to the \"Jobs-To-Be-Done\" Framework, making us shift our thinking by taking a different perspective on user needs, with a focus on causality and outcomes.\n****\n\nDon’t forget to sign up and join us on Saturday, February 24th 2018 at 6PM. We are meeting at Aiming Inc’s Osaka Office. After the meetup we will go to a nearby place where we can have some drinks and socialize some more.\n\nSee you soon!\n\nJust in case you need to pinpoint the location on your map, use this link http://bit.ly/2BCsZAH",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "From JR Osaka station walk north past the Grand Front South Tower. In the Grand Front North Tower take the business elevator or the elevator 4 to the Sky Lobby (9th floor) and from there take the elevator to the 18th floor.",
+          "id": "247246264",
+          "image": {
+            "date": 1519462800000,
+            "location": "images/events/5/0/5/516122.webp"
+          },
+          "maxTickets": 40,
+          "numberOfAllowedGuests": 0,
+          "time": 1519462800000,
+          "title": "OWDDM: Let's start off the new year right",
+          "topics": [
+          ],
+          "venue": "24213835"
+        },
+        {
           "description": "This year is ending, and as always this means we're having our end-of-year party. Be prepared to spend an evening talking with people about tech, business & design and other topics in english over pizza in Umeda!\n\nWe picked a fixed 2400yen food menu and 500yen per drink. You choose how much you drink ^_^.\n\nAbout the Location:\nThe galleria pizzeria is located about 10~15mins walk from Umeda towards Shin-Fukushima. We chose it because of the great food and the open atmosphere.\n\nHomepage: http://galleriapizza.jp/\nJapan Times Article: https://www.japantimes.co.jp/life/2016/09/23/food/galleria-neapolitan-style-pizza-made-hokkaido-flour/\n\nNote: vegan options available if you enquire in advance.",
           "duration": 7200000,
           "feeSettings": {
@@ -721,24 +739,6 @@
           "topics": [
           ],
           "venue": "25620385"
-        },
-        {
-          "description": "Dear all, even as I write these lines I realize it’s been quite a while since our last gathering in Osaka. Therefore, I take the opportunity to invite everyone to the first 2018 Web Designers and Developers Meetup. We are still setting up the list of speakers and as soon as possible will offer you a preview of our lineup for the February event. By the way, if you are interested in presenting this month please let us know and we will accommodate you.\n\n** Update **\nThis month we are having two sessions brought to you by Adrien Lemaire and Marcel Takagi.\n\nAdrien will help us improve our hard skills with an \"Introduction to Kubernetes\", an open-source system for automating deployment, scaling and management of containerized applications - so many buzzwords.\n\nMarcel is going to introduce us to the \"Jobs-To-Be-Done\" Framework, making us shift our thinking by taking a different perspective on user needs, with a focus on causality and outcomes.\n****\n\nDon’t forget to sign up and join us on Saturday, February 24th 2018 at 6PM. We are meeting at Aiming Inc’s Osaka Office. After the meetup we will go to a nearby place where we can have some drinks and socialize some more.\n\nSee you soon!\n\nJust in case you need to pinpoint the location on your map, use this link http://bit.ly/2BCsZAH",
-          "duration": 7200000,
-          "feeSettings": null,
-          "howToFindUs": "From JR Osaka station walk north past the Grand Front South Tower. In the Grand Front North Tower take the business elevator or the elevator 4 to the Sky Lobby (9th floor) and from there take the elevator to the 18th floor.",
-          "id": "247246264",
-          "image": {
-            "date": 1519462800000,
-            "location": "images/events/5/0/5/516122.webp"
-          },
-          "maxTickets": 40,
-          "numberOfAllowedGuests": 0,
-          "time": 1519462800000,
-          "title": "OWDDM: Let's start off the new year right",
-          "topics": [
-          ],
-          "venue": "24213835"
         },
         {
           "description": "Cherry blossoms are coming to town and so is another special presenter in March.\n\nShirley Wu, accomplished data visualization artist (http://sxywu.com), will interrupt her 3 month stay in Tokyo to visit us for a weekend and present her process of making data shine! Join us and be inspired by her approach.\n\nWe also have one more presenter slot waiting to be filled! In the past we asked you to send us proposals but usually we ended up contacting presenters through back-channels. We figured that it might be because of the way we asked: So, from this month onward we have an open form that you can use anytime! If you want to hear about a topic or you'd like to try presenting: please let us know through this form 👇\n\nhttps://goo.gl/forms/dWqKiy5iR4aobMc73\n\nThe event is free, but after the event we will head out for drinks usually to an Izakaya around the area. We chat and get to know each other better. We usually spend around 1000~2000円 per person.\n\nAll we ask is that you bring good vibes and an open mind.",
@@ -1096,24 +1096,6 @@
           "venue": "25620385"
         },
         {
-          "description": "Welcome back web developers and designers!\n\nWe're hoping to resume our meetup in a safe manner by holding an outdoor gathering (a picnic!) at Tsurumi Ryokuchi Park on Saturday 27th of June, weather permitting.\n\nWe intend to keep the format open and have more discussions than one-sided talks, but to kick things off Benjamin Murden will discuss his journey into the JAMStack - a means of building sites that can be deployed to the edge, so they can be served from fast CDNs.\n\nPlease bring a mat to sit on and your own food and drinks. Families are welcome.\n\nMeeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.\n\nWeather forecast is sunny 28C/83F, 10% chance of rain. Please make sure you have plenty of water, suntan lotion or sunscreen.\n\nThere is a convenient store Lawson close to the station. You can get food and drinks there.\n\nIf you are late, please check back on this web page for the exact location. We shall update it tomorrow.",
-          "duration": 7200000,
-          "feeSettings": null,
-          "howToFindUs": "🚉 Accessible from the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line of the Osaka Metro.",
-          "id": "271369535",
-          "image": {
-            "date": 1593237600000,
-            "location": "images/events/4/9/0/901481.webp"
-          },
-          "maxTickets": 0,
-          "numberOfAllowedGuests": 5,
-          "time": 1593237600000,
-          "title": "Outdoor Welcome Back Meetup",
-          "topics": [
-          ],
-          "venue": "26936190"
-        },
-        {
           "description": "Welcome back web developers and designers!\n\nWe would like to continuing our outdoor gatherings at Tsurumi Ryokuchi Park on Saturday 26th of September, weather and Covid19 social distancing permitting.\n\nWe'd like to keep the floor (lawn?) open this month and hear about projects you're working on, or cool things you've seen that you think will be of interest to other web folk. We know it's tough to go first, so Christian Oliff will kick things off with a quick talk about some new features in Safari 14 that might be of interest, and web developers should consider.\n\nPlease bring a picnic mat to sit on and your own food and drinks. Families are welcome. There is also a Lawson close to the station where you can pick up food and drinks on the way.\n\nMeeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.\n\nThe forecast is pretty uncertain, so we'll update this page if it looks like we'll have to postpone until the following month. We'll also send out a notification via e-mail if things change, so remember to sign up if you're thinking of coming!\n\nIf you are late, please check back on this web page for the exact location. We shall update when we settle on a spot.",
           "duration": 7200000,
           "feeSettings": null,
@@ -1127,6 +1109,24 @@
           "numberOfAllowedGuests": 5,
           "time": 1601100000000,
           "title": "Outdoor Meetup Returns",
+          "topics": [
+          ],
+          "venue": "26936190"
+        },
+        {
+          "description": "Welcome back web developers and designers!\n\nWe're hoping to resume our meetup in a safe manner by holding an outdoor gathering (a picnic!) at Tsurumi Ryokuchi Park on Saturday 27th of June, weather permitting.\n\nWe intend to keep the format open and have more discussions than one-sided talks, but to kick things off Benjamin Murden will discuss his journey into the JAMStack - a means of building sites that can be deployed to the edge, so they can be served from fast CDNs.\n\nPlease bring a mat to sit on and your own food and drinks. Families are welcome.\n\nMeeting point: at the gate of the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line.\n\nWeather forecast is sunny 28C/83F, 10% chance of rain. Please make sure you have plenty of water, suntan lotion or sunscreen.\n\nThere is a convenient store Lawson close to the station. You can get food and drinks there.\n\nIf you are late, please check back on this web page for the exact location. We shall update it tomorrow.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "🚉 Accessible from the Tsurumi-ryokuchi Station on the Nagahori Tsurumi-ryokuchi line of the Osaka Metro.",
+          "id": "271369535",
+          "image": {
+            "date": 1593237600000,
+            "location": "images/events/4/9/0/901481.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 5,
+          "time": 1593237600000,
+          "title": "Outdoor Welcome Back Meetup",
           "topics": [
           ],
           "venue": "26936190"
