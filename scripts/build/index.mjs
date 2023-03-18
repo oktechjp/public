@@ -90,34 +90,38 @@ async function preparePhoto ({ cwd, targetFolder, transforms, sharps, copies, ta
   )))
   copies.push({ src, target: join(targetFolder, target.file) })
   if (!target.corners) {
-    const base = await sharp(src)
-      .resize({
-        width: 80,
-        height: 80,
-        fit: 'fill'
-      })
-      .normalize()
-      .modulate({
-        saturation: 1.5
-      })
-      .toColorspace('srgb')
-      .toFormat('tiff')
-      .toBuffer()
-    const x3y3 = Array.from(await sharp(base)
-      .resize({
-        width: 3,
-        height: 3,
-        fit: 'fill',
-      })
-      .toFormat('raw')
-      .toBuffer()
-    )
-    target.corners = [
-      toHexColor(x3y3, 0),
-      toHexColor(x3y3, 2 * 3),
-      toHexColor(x3y3, 6 * 3),
-      toHexColor(x3y3, 8 * 3)
-    ]
+    try {
+      const base = await sharp(src)
+        .resize({
+          width: 80,
+          height: 80,
+          fit: 'fill'
+        })
+        .normalize()
+        .modulate({
+          saturation: 1.5
+        })
+        .toColorspace('srgb')
+        .toFormat('tiff')
+        .toBuffer()
+      const x3y3 = Array.from(await sharp(base)
+        .resize({
+          width: 3,
+          height: 3,
+          fit: 'fill',
+        })
+        .toFormat('raw')
+        .toBuffer()
+      )
+      target.corners = [
+        toHexColor(x3y3, 0),
+        toHexColor(x3y3, 2 * 3),
+        toHexColor(x3y3, 6 * 3),
+        toHexColor(x3y3, 8 * 3)
+      ]
+    } catch (cause) {
+      throw new Error(`Unable to process corners for ${src}`, { cause })
+    }
   }
 }
 
@@ -139,12 +143,20 @@ async function processImages ({ targetFolder, cwd, transforms }) {
       } catch (err) {
         await mkdir(dirname(formatFile), { recursive: true })
         log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
-        await s.withMetadata().toFile(formatFile)
+        try {
+          await s.withMetadata().toFile(formatFile)
+        } catch (cause) {
+          return new Error(`Can not transform ${src}`, { cause })
+        }
       }
       if (first) {
         first = false
-        const metadata = await sharp(formatFile).metadata()
-        target.res[transform.key] = [ metadata.width, metadata.height ]
+        try {
+          const metadata = await sharp(formatFile).metadata()
+          target.res[transform.key] = [ metadata.width, metadata.height ]
+        } catch (cause) {
+          throw new Error(`Can not get metadata from ${formatFile}`, { cause })
+        }
       }
     }
   }, { concurrency: 3 })
