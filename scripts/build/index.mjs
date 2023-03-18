@@ -1,5 +1,5 @@
 import sharp from 'sharp'
-import { readFile, readdir, writeFile, mkdir, access, cp } from 'node:fs/promises'
+import { readFile, writeFile, mkdir, access, cp } from 'node:fs/promises'
 import { join, relative, dirname } from 'node:path'
 import stringify from 'json-stringify-pretty-compact'
 import pmap from 'p-map'
@@ -75,21 +75,6 @@ function log (group, msg) {
   console.log((Date.now() - start).toString().padEnd(5, ' '), `[${group}]`.padEnd(8, ' '), msg)
 }
 
-async function getDominant (src, size, x, y) {
-  const area = {
-    left: size * x,
-    top: size * y,
-    width: size * 0.5,
-    height: size * 0.5
-  }
-  const img = await sharp(src)
-    .extract(area)
-    .toFormat('tif')
-    .toBuffer()
-  const { dominant } = await sharp(img).stats()
-  return `${toHex(dominant.r)}${toHex(dominant.g)}${toHex(dominant.b)}`
-}
-
 async function preparePhoto ({ cwd, targetFolder, transforms, sharps, copies, target }) {
   const src = join(cwd, target.file)
   const base = join(targetFolder, removeExt(target.file))
@@ -137,8 +122,8 @@ async function preparePhoto ({ cwd, targetFolder, transforms, sharps, copies, ta
 }
 
 async function processImages ({ targetFolder, cwd, transforms }) {
-  const albumData = await processPhotoAlbums({ targetFolder, cwd, transforms })
   const eventData = await processEventsImages({ targetFolder, cwd, transforms })
+  const albumData = await processPhotoAlbums({ targetFolder, cwd, transforms })
   await pmap([...albumData.copies, ...eventData.copies], async ({ src, target }) => copy(src, target, true))
   await pmap([...albumData.sharps, ...eventData.sharps], async ({ src, target, base, transform }) => {
     let s = sharp(src)
@@ -170,21 +155,26 @@ async function processImages ({ targetFolder, cwd, transforms }) {
 async function processEventsImages ({ targetFolder, cwd, transforms }) {
   const sharps = []
   const copies = []
-  const eventsData = await readJSON(join(cwd, 'events.json'))
-  const events = []
-  for (const groupEvents of Object.values(eventsData.events)) {
-    events.push(...groupEvents.filter(event => event.featured_photo))
-  }
-  await pmap(events, async event => {
-    event.featured_photo = {
-      file: join('images', 'events', `${event.id}.webp`),
-      res: {}
+  const eventsJSON = await readJSON(join(cwd, 'events.json'))
+  const { groups } = eventsJSON
+  const photos = []
+  for (const group of Object.values(groups)) {
+    for (const event of group.events) {
+      if (event.image) {
+        photos.push(event.image)
+      }
     }
+  }
+  await pmap(photos, async photo => {
+    photo.res = {}
     await preparePhoto({
       cwd,
       sharps,
       copies,
-      target: event.featured_photo,
+      target: {
+        file: photo.location,
+        res: photo.res
+      },
       targetFolder,
       transforms
     })
@@ -193,15 +183,12 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
     sharps,
     copies,
     async finalize () {
-      for (const event of events) {
-        event.featured_photo = {
-          ...event.featured_photo,
-          res: transforms.map(transform => event.featured_photo.res[transform.key])
-        }
+      for (const photo of photos) {
+        photo.res = transforms.map(transform => photo.res[transform.key])
       }
       await writeJSON(join(targetFolder, 'events.json'), {
         transforms,
-        ...eventsData
+        ...eventsJSON
       })
       return 'events.json'
     }
@@ -218,9 +205,9 @@ async function processPhotoAlbums ({ targetFolder, cwd, transforms }) {
       ...group,
       photos: []
     }
-    for (const file of group.photos) {
+    for (const photo of group.photos) {
       const target = {
-        file,
+        file: photo.location,
         res: {}
       }
       allPhotos.push(target)
