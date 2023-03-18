@@ -445,15 +445,6 @@
         "venue": 25630979
       },
       {
-        "description": "<p>Wow, this summer was hot! We plan to keep it chilled at this months OWDDM by breaking a bit out of our usual format.</p> <p>This month we will - for the first time - be able to use the new Sakura Internet space in the south tower of the Grandfront Building!</p> <p>In this spacious cafe / meeting space we would like to invite you to join us for listening to lessons that some of our experienced folks have learned in their work life. Be it design, workflow, programming or human related, we are looking forward to a few 5~10 minute mini-presentations with conversations in between.</p> <p>We hope you can join us for a nice evening, where some of us will head out for drinks afterwards.</p> <p>yours<br/>Martin.</p> <p>On another note: Many of this years presentations came to happen because of your feedback. If you would like to hear or speak about something in a future or this meetup, please let us know! 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
-        "duration": 7200000,
-        "featured_photo": true,
-        "id": "254342508",
-        "name": "Lessons Learned ",
-        "time": 1537606800000,
-        "venue": 25928725
-      },
-      {
         "description": "<p>Hi Everyone!</p> <p>We plan to get together for a year-end party along with the folks from HNKansai just like last year, at the very same place! We will meet on Friday 28th from 8pm at Galleria, a very nice pizzeria with a lot of space for people to talk and drink together 🙂 It is located just near Osaka Umeda so easily reachable from all major train lines.</p> <p>We plan to have a fixed menu (2400 JPY for a full course per person) while we are still in touch to finalize the details. We will post more details as the event approaches.</p> <p>Please Subscribe into HN Kansai meetup, here is the link:<br/><a href=\"https://www.meetup.com/Hacker-News-Kansai/events/257099811/\" class=\"linkified\">https://www.meetup.com/Hacker-News-Kansai/events/257099811/</a></p> <p>Please go ahead and book your time!<br/>See you soon!<br/>The OWDDM Organizers</p> ",
         "duration": 7200000,
         "featured_photo": true,
@@ -461,6 +452,15 @@
         "name": "End of Year Party",
         "time": 1545994800000,
         "venue": 25620385
+      },
+      {
+        "description": "<p>Wow, this summer was hot! We plan to keep it chilled at this months OWDDM by breaking a bit out of our usual format.</p> <p>This month we will - for the first time - be able to use the new Sakura Internet space in the south tower of the Grandfront Building!</p> <p>In this spacious cafe / meeting space we would like to invite you to join us for listening to lessons that some of our experienced folks have learned in their work life. Be it design, workflow, programming or human related, we are looking forward to a few 5~10 minute mini-presentations with conversations in between.</p> <p>We hope you can join us for a nice evening, where some of us will head out for drinks afterwards.</p> <p>yours<br/>Martin.</p> <p>On another note: Many of this years presentations came to happen because of your feedback. If you would like to hear or speak about something in a future or this meetup, please let us know! 👇.</p> <p><a href=\"https://goo.gl/forms/dWqKiy5iR4aobMc73\" class=\"linkified\">https://goo.gl/forms/dWqKiy5iR4aobMc73</a></p> ",
+        "duration": 7200000,
+        "featured_photo": true,
+        "id": "254342508",
+        "name": "Lessons Learned ",
+        "time": 1537606800000,
+        "venue": 25928725
       },
       {
         "description": "<p>Finally, Spring is here and the warm days are starting! Before the long golden week holiday, we would like to invite you to our April Meetup for two nice talks and optionally some drinks afterward in a nearby Izakaya.</p> <p>First up - Oussama Ladhari, a web developer in Miraidenshi Technology, will talk about Docker and how to mount an application (frontend/backend) with docker-compose, and why Dockerizing an application is very important nowadays.</p> <p>Then Andrew Zamora, a web developer in Mamamia, will talk to us about his career change from English teacher to a full-stack web developer and how he made this change possible.</p> <p>As always, you can ask your questions as well as having a break for chatting during the event</p> <p>Please go ahead and book your time!</p> <p>See you soon!</p> <p>The OWDDM Organizers<br/>(The meetup is on 3rd floor of the building)</p> ",
@@ -616,20 +616,20 @@
         "venue": 27370028
       },
       {
+        "description": "<p>TBA, join us at <a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a> for organizing it together.</p> ",
+        "duration": 7200000,
+        "id": "291352450",
+        "name": "TBA",
+        "time": 1681545600000,
+        "venue": 27370028
+      },
+      {
         "description": "<p>Dear web enthusiasts, we're in a busy autumn! 🔥</p> <p>After our hike, our organizer *Kimmy* will be exploring in **\"Western vs Japanese UI Design - a comparison\"** about the differences in the design trends between *western* and *japanese* UI design and explore some possible explanations on this. 👩‍🎨</p> <p>Following that, our first time presenter's *Jacob* is planning to give in **\"Flight Sim Development: Not just for AV Otakus\"** an overview on the advancement of home flight simulators ✈️ over the past few decades, share insights on how open source development is linked with modern versions, and how everyone from beginners, to seasoned engineers can cut their teeth with these projects.</p> <p>For November we have already a little planned, but if you feel like sharing your knowledge then feel free to [propose a presentation](<a href=\"https://forms.gle/umcRKdEy9SekLQL68\" class=\"linkified\">https://forms.gle/umcRKdEy9SekLQL68</a>)! 📥</p> <p>Feedback has been trickling in and we are looking into a way to share it with everyone. Until then, know that we take it by heart, so if there is something on your mind, feel free to share it ↓</p> <p>➡︎ [Survey for OWDDM members](<a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform\" class=\"linkified\">https://docs.google.com/forms/d/e/1FAIpQLSfzo6DecghqIfir5O-2eiuQXPf81j97XcOCVEr6eJgUSEGeMw/viewform</a>)</p> ",
         "duration": 9000000,
         "featured_photo": true,
         "id": "288595894",
         "name": "UI culture and Airplanes",
         "time": 1665819900000,
-        "venue": 27370028
-      },
-      {
-        "description": "<p>TBA, join us at <a href=\"https://owddm.com/discord\" class=\"linkified\">https://owddm.com/discord</a> for organizing it together.</p> ",
-        "duration": 7200000,
-        "id": "291352450",
-        "name": "TBA",
-        "time": 1681545600000,
         "venue": 27370028
       },
       {
