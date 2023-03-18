@@ -13,7 +13,6 @@ require('dotenv').config()
       s: {
         formats,
         resize: {
-          width: 200,
           height: 200,
           fit: 'inside'
         }
