@@ -147,7 +147,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
         target.res[transform.key] = [ metadata.width, metadata.height ]
       }
     }
-  }, { concurrency: 5 })
+  }, { concurrency: 3 })
   await albumData.finalize()
   return await eventData.finalize()
 }
