@@ -460,26 +460,31 @@
       "event": "259644459",
       "photos": [
         {
+          "instructional": true,
           "caption": "Main entrance is closed.",
           "date": 1553327776000,
           "location": "images/events/4/7/9/725135.webp"
         },
         {
+          "instructional": true,
           "caption": "But there is a map to other entrance.",
           "date": 1553327864000,
           "location": "images/events/4/7/9/725144.webp"
         },
         {
+          "instructional": true,
           "caption": "Go to the corner on the left.",
           "date": 1553327952000,
           "location": "images/events/4/7/9/725163.webp"
         },
         {
+          "instructional": true,
           "caption": "And then turn right, into the alley.",
           "date": 1553328010000,
           "location": "images/events/4/7/9/725165.webp"
         },
         {
+          "instructional": true,
           "caption": "This is the second entrance.",
           "date": 1553328043000,
           "location": "images/events/4/7/9/725169.webp"
@@ -927,14 +932,17 @@
       "event": "287537418",
       "photos": [
         {
+          "instructional": true,
           "date": 1660981750000,
           "location": "images/events/5/0/6/417669.webp"
         },
         {
+          "instructional": true,
           "date": 1660981750000,
           "location": "images/events/5/0/6/417670.webp"
         },
         {
+          "instructional": true,
           "date": 1660981752000,
           "location": "images/events/5/0/6/417671.webp"
         },
@@ -991,14 +999,17 @@
       "event": "288045345",
       "photos": [
         {
+          "instructional": true,
           "date": 1662543816000,
           "location": "images/events/5/0/6/873994.webp"
         },
         {
+          "instructional": true,
           "date": 1662543829000,
           "location": "images/events/5/0/6/873996.webp"
         },
         {
+          "instructional": true,
           "date": 1662543832000,
           "location": "images/events/5/0/6/874001.webp"
         },
@@ -1040,14 +1051,17 @@
       "event": "288129290",
       "photos": [
         {
+          "instructional": true,
           "date": 1663399331000,
           "location": "images/events/5/0/7/093689.webp"
         },
         {
+          "instructional": true,
           "date": 1663399331000,
           "location": "images/events/5/0/7/093690.webp"
         },
         {
+          "instructional": true,
           "date": 1663399336000,
           "location": "images/events/5/0/7/093691.webp"
         },
@@ -1154,6 +1168,7 @@
       "event": "288755079",
       "photos": [
         {
+          "instructional": true,
           "date": 1667030226000,
           "location": "images/events/5/0/8/153307.webp"
         },
@@ -1162,10 +1177,12 @@
           "location": "images/events/5/0/8/153361.webp"
         },
         {
+          "instructional": true,
           "date": 1667030627000,
           "location": "images/events/5/0/8/153368.webp"
         },
         {
+          "instructional": true,
           "date": 1667030627000,
           "location": "images/events/5/0/8/153369.webp"
         }
