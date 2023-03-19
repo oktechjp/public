@@ -1263,6 +1263,44 @@
         }
       ],
       "timestamp": 1676970780777
+    },
+    {
+      "content": "Beginning Perspectives in March!",
+      "discordId": "1087082888119468083",
+      "event": "291352432",
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082885443489933/P1450813.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082885707739217/P1450825.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082885959401522/IMG_0254.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082886198464542/IMG_0266.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082886454325398/P1450874.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082886739542026/IMG_0295.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082887108628541/IMG_0308.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082887431602206/P1450856.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082887679054004/P1450864.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1087082888119468083/1087082887951691887/P1450857.webp"
+        }
+      ],
+      "timestamp": 1679126400000
     }
   ]
 }
