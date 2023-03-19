@@ -220,6 +220,8 @@ async function processPhotoAlbums ({ targetFolder, cwd, transforms }) {
     for (const photo of group.photos) {
       const target = {
         file: photo.location,
+        instructional: photo.instructional,
+        caption: photo.caption,
         res: {}
       }
       allPhotos.push(target)
