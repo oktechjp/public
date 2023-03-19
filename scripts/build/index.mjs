@@ -1,5 +1,5 @@
 import sharp from 'sharp'
-import { readFile, writeFile, mkdir, access, cp } from 'node:fs/promises'
+import { readFile, writeFile, mkdir, access, cp, unlink } from 'node:fs/promises'
 import { join, relative, dirname } from 'node:path'
 import stringify from 'json-stringify-pretty-compact'
 import pmap from 'p-map'
@@ -136,27 +136,38 @@ async function processImages ({ targetFolder, cwd, transforms }) {
     }
     let first = true
     for (const format of transform.formats) {
-      const formatFile = `${base}@${transform.key}.${format}`
-      try {
-        await access(formatFile)
-        log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> cached`)
-      } catch (err) {
-        await mkdir(dirname(formatFile), { recursive: true })
-        log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
+      let attempt = 0
+      while (true) {
+        const formatFile = `${base}@${transform.key}.${format}`
         try {
-          await s.withMetadata().toFile(formatFile)
-        } catch (cause) {
-          return new Error(`Can not transform ${src}`, { cause })
+          await access(formatFile)
+          log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> cached`)
+        } catch (err) {
+          await mkdir(dirname(formatFile), { recursive: true })
+          log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
+          try {
+            await s.withMetadata().toFile(formatFile)
+          } catch (cause) {
+            return new Error(`Can not transform ${src}`, { cause })
+          }
         }
-      }
-      if (first) {
-        first = false
+        let metadata
         try {
-          const metadata = await sharp(formatFile).metadata()
+          metadata = await sharp(formatFile).metadata()
+        } catch (cause) {
+          if (attempt === 3) {
+            throw new Error(`Can not get metadata from ${formatFile} (attempt=${attempt}): ${cause.message}`, { cause })
+          } else {
+            attempt += 1
+            await unlink(formatFile)
+            continue
+          }
+        }
+        if (format === 'webp') {
+          first = false
           target.res[transform.key] = [ metadata.width, metadata.height ]
-        } catch (cause) {
-          throw new Error(`Can not get metadata from ${formatFile}`, { cause })
         }
+        break
       }
     }
   }, { concurrency: 3 })
