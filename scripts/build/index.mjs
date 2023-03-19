@@ -148,7 +148,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
           try {
             await s.withMetadata().toFile(formatFile)
           } catch (cause) {
-            return new Error(`Can not transform ${src}`, { cause })
+            return new Error(`Can not transform ${src}: ${cause.message}`, { cause })
           }
         }
         let metadata
@@ -159,7 +159,11 @@ async function processImages ({ targetFolder, cwd, transforms }) {
             throw new Error(`Can not get metadata from ${formatFile} (attempt=${attempt}): ${cause.message}`, { cause })
           } else {
             attempt += 1
-            await unlink(formatFile)
+            try {
+              await unlink(formatFile)
+            } catch (err) {
+              log('TRANSFORM', `Unlinking failed with "${err.message}" because of -> ${cause.message}`)
+            }
             continue
           }
         }
