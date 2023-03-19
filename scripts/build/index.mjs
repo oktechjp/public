@@ -157,7 +157,8 @@ async function processImages ({ targetFolder, cwd, transforms }) {
           metadata = await sharp(formatFile).metadata()
         } catch (cause) {
           if (attempt === 3) {
-            throw new Error(`Can not get metadata from ${formatFile} (attempt=${attempt}): ${cause.message}`, { cause })
+            log('TRANSFORM', `WARN: Can not get metadata from ${formatFile} (attempt=${attempt}): ${cause.message}`, { cause })
+            break
           } else {
             attempt += 1
             log('TRANSFORM', `Reattempting to write ${formatFile} (attempt=${attempt}): ${cause.message}`)
@@ -169,7 +170,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
             continue
           }
         }
-        if (format === 'webp') {
+        if (!first) {
           first = false
           target.res[transform.key] = [ metadata.width, metadata.height ]
         }
