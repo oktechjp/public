@@ -170,7 +170,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
             continue
           }
         }
-        if (!first) {
+        if (first && metadata) {
           first = false
           target.res[transform.key] = [ metadata.width, metadata.height ]
         }
