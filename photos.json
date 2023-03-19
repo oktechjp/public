@@ -814,7 +814,13 @@
         },
         {
           "location": "images/flickr/522/04/198510.webp"
-        }
+        },
+        {
+          "location": "images/flickr/521/73/340142.webp"
+        },
+        {
+          "location": "images/flickr/521/74/371558.webp"
+        } 
       ],
       "timestamp": 1653726600000
     },
@@ -824,13 +830,9 @@
       "photos": [
         {
           "date": 1656145190000,
+          "instructional": true,
           "location": "images/events/5/0/5/088274.webp"
-        }
-      ],
-      "timestamp": 1656145800000
-    },
-    {
-      "photos": [
+        },
         {
           "location": "images/flickr/522/03/692786.webp"
         },
@@ -844,7 +846,7 @@
           "location": "images/flickr/522/04/198670.webp"
         }
       ],
-      "timestamp": 1656406859000
+      "timestamp": 1656145800000
     },
     {
       "content": "Web-Stories in the Park",
@@ -915,17 +917,6 @@
         }
       ],
       "timestamp": 1658563200000
-    },
-    {
-      "photos": [
-        {
-          "location": "images/flickr/521/73/340142.webp"
-        },
-        {
-          "location": "images/flickr/521/74/371558.webp"
-        }
-      ],
-      "timestamp": 1658792398000
     },
     {
       "content": "Martian Summer",
