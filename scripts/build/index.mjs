@@ -147,6 +147,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
           log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
           try {
             await s.withMetadata().toFile(formatFile)
+            await new Promise(resolve => setTimeout(resolve, 30))
           } catch (cause) {
             return new Error(`Can not transform ${src}: ${cause.message}`, { cause })
           }
@@ -159,6 +160,7 @@ async function processImages ({ targetFolder, cwd, transforms }) {
             throw new Error(`Can not get metadata from ${formatFile} (attempt=${attempt}): ${cause.message}`, { cause })
           } else {
             attempt += 1
+            log('TRANSFORM', `Reattempting to write ${formatFile} (attempt=${attempt}): ${cause.message}`)
             try {
               await unlink(formatFile)
             } catch (err) {
