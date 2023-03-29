@@ -1224,7 +1224,9 @@
     },
     {
       "content": "WebComponents + GraphQL",
-      "discordId": "1079551238435254292",
+      "discordId": [
+        "1079551238435254292"
+      ],
       "event": "291352411",
       "photos": [
         {
@@ -1253,7 +1255,9 @@
     },
     {
       "content": "Hack Osaka!",
-      "discordId": "1077518294694764554",
+      "discordId": [
+        "1077518294694764554"
+      ],
       "photos": [
         {
           "location": "images/discord/event-photos/1077518294694764554/1077518293746855956/IMG_1002.webp"
@@ -1266,7 +1270,9 @@
     },
     {
       "content": "Beginning Perspectives in March!",
-      "discordId": "1087082888119468083",
+      "discordId": [
+        "1087082888119468083"
+      ],
       "event": "291352432",
       "photos": [
         {
@@ -1304,6 +1310,66 @@
         }
       ],
       "timestamp": 1679126400000
+    },
+    {
+      "content": "Hanami Meetup 2023",
+      "discordId": [
+        "1089404389707481099",
+        "1089416254739198002",
+        "1089428115719192657"
+      ],
+      "event": "292145752",
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1089404389707481099/1089404385362186250/P1004543.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089404389707481099/1089404386343649280/P1004544.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089404389707481099/1089404387199299685/P1004545.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089404389707481099/1089404387740352693/P1004546.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089404389707481099/1089404388692471899/P1004547.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089404389707481099/1089404389292249138/P1004548.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089416254739198002/1089416253397008504/IMG_20230325_142734.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089416254739198002/1089416253711597579/IMG_20230325_142812.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089416254739198002/1089416254072291368/IMG_20230325_152347.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089416254739198002/1089416254466572369/IMG_20230325_152353.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089428115719192657/1089428111503925258/IMG_0336.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089428115719192657/1089428112158244994/IMG_0337.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089428115719192657/1089428113160667226/IMG_0338.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089428115719192657/1089428113877909655/IMG_0342.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089428115719192657/1089428114406375525/IMG_0350.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1089428115719192657/1089428114997788692/IMG_0353.webp"
+        }
+      ],
+      "timestamp": 1679720400000
     }
   ]
 }
