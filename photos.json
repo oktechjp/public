@@ -1367,9 +1367,29 @@
         },
         {
           "location": "images/discord/event-photos/1089428115719192657/1089428114997788692/IMG_0353.webp"
+        },
+        {
+          "date": 1679721119000,
+          "location": "images/events/5/1/1/535849.webp"
         }
       ],
       "timestamp": 1679720400000
+    },
+    {
+      "content": "OWDDM × HN Kansai - Hacker Hanami in Osaka",
+      "event": "292274060",
+      "photos": [
+        {
+          "date": 1680318214000,
+          "location": "images/events/5/1/1/732679.webp"
+        },
+        {
+          "caption": "Lost Jacket",
+          "date": 1680349416000,
+          "location": "images/events/5/1/1/737940.webp"
+        }
+      ],
+      "timestamp": 1680318000000
     }
   ]
 }

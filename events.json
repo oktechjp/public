@@ -1649,7 +1649,7 @@
             "location": "images/events/5/1/1/142821.webp"
           },
           "maxTickets": 20,
-          "numberOfAllowedGuests": 2,
+          "numberOfAllowedGuests": 0,
           "time": 1679126400000,
           "title": "Beginning Perspectives in March!",
           "topics": [
@@ -1662,7 +1662,7 @@
           "venue": "27370028"
         },
         {
-          "description": "TBA, join us at https://owddm.com/discord for organizing it together.",
+          "description": "Hello everyone,\n\nSpring is here and we hope you enjoyed the cherry blossoms 🌸. Now that we are in Spring we have a meetup for you. 🌱\n\nThis month first-time OWDDM presenter Sammy will be talking about the relationship between users and platforms with **[Nostr](https://nostr.com/)**. Nostr is a new messaging system between users - an SNS. We can be looking forward to an overview of why it exists, how you can use it, and the possibilities of what can be built with it.\n\nThe second presentation is going to be as relevant as it is going to be conceptual. Martin noticed that many people have trouble identifying **what a designer does** and is going shine a light on it from the perspective of a developer. This topic may seem obvious but in face of Code and image generation through AI - in a time where No-Code is a hot topic and Apps can be built by single persons we may need to re-think what a \"**designer**\" does as a profession.\n\n* RSVP to join us ➡\n\nThe presentation idea comes from our Discord group.\nJoin our [DisCord Channel ](https://discord.gg/D4XaVAyQ)to share your ideas.",
           "duration": 7200000,
           "feeSettings": {
             "accepts": "CASH",
@@ -1680,14 +1680,20 @@
           },
           "id": "291352450",
           "image": {
-            "date": 1681545600000,
-            "location": "images/events/5/0/5/516122.webp"
+            "caption": "OWDDM - Design generally, Nostr particularly - Sat. 2023 / 04 / 15 - 17:00",
+            "date": 1680483472000,
+            "location": "images/events/5/1/1/794415.webp"
           },
           "maxTickets": 20,
           "numberOfAllowedGuests": 2,
           "time": 1681545600000,
-          "title": "TBA",
+          "title": "Design generally, Nostr particularly",
           "topics": [
+            "Computer Programming",
+            "Decentralized Systems & Applications",
+            "UX Design",
+            "Web Design",
+            "Web Development"
           ],
           "venue": "27370028"
         },
@@ -1695,7 +1701,7 @@
           "description": "Happy Spring!👋\n\nThis is not a mistake! We have **two Hanamis** this year!\nTo make it easier for people from other parts of Kansai to join and also because the weather is sometimes tricky, we decided to have a second Hanami one week after [our other Hanami event in Kyoto](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/292145752/). 🌸\n\nOur friends at [HNKansai](https://www.meetup.com/hacker-news-kansai/events/292273445/) decided to join us and we would like to invite you to hang out together. 🤗 Bring nice snacks and drinks that we share and let's have easy conversations.\n\nWe plan to start around noon and will be there until evening. Of course you are free to join/leave as it suits you ☺️\n\n*Note:* We are a group of grown-ups but some of us have kids and we want to welcome them and their families at the meetup too!\n\nIf you have any questions are want to connect on other ways, please [join us in the discord](https://owddm.com/discord).",
           "duration": 25200000,
           "feeSettings": null,
-          "howToFindUs": "As usual, securing a space during Hanami season can be tough. We will update the location once we got the space on the day!",
+          "howToFindUs": "We secured a spot under a nice tree, see the photos for a a more detailed location.",
           "id": "292274060",
           "image": {
             "date": 1680318000000,
@@ -1861,10 +1867,10 @@
           "venue": "27423406"
         },
         {
-          "description": "Happy Spring everyone! 👋\n\nWe took a step back beginning of the year, but we are still here!\n\nOur sister event [OWDDM](https://www.meetup.com/osaka-web-designers-and-developers-meetup/) is still going strong and we think of coming back to Kyoto this year! 🚀\n\nAnd how to start the year better than meet for a Hanami? Visit Kamo River together - bring nice snacks and drinks that we share and have easy conversations.\n\nWe plan to start around 2pm (14:00) and will be there until evening. Of course you are free to join/leave as it suits you ☺️\n\nJoin us for an easy Saturday afternoon celebrating the nice-weather season!\n\n*Note:* We are a group of grown-ups but some of us have kids and we want to welcome them and their families at the meetup too!",
+          "description": "Happy Spring everyone! 👋\n\nWe took a step back beginning of the year, but we are still here!\n\nOur sister event [OWDDM](https://www.meetup.com/osaka-web-designers-and-developers-meetup/) is still going strong and we think of coming back to Kyoto this year! 🚀\n\nAnd how to start the year better than meet for a Hanami? We were planning to visit Kamo River together and bring nice snacks/drinks that we share and have easy conversations.\nThe weather forecast shows that it might be rainy and it would be better to meet at [Cafe Planet](https://goo.gl/maps/U4dwddrppUBBL9MA8).\n\nWe plan to start around 2pm (14:00) and will be there until evening. Of course you are free to join/leave as it suits you ☺️\n\nJoin us for an easy Saturday afternoon celebrating the nice-weather season!\n\n*Note:* We are a group of grown-ups but some of us have kids and we want to welcome them and their families at the meetup too!",
           "duration": 18000000,
           "feeSettings": null,
-          "howToFindUs": "As usual, securing a space during Hanami season can be tough. We will update the location once we got the space on the day!",
+          "howToFindUs": "We found a place at the kamogawa, under a big Sakura tree near here https://maps.apple.com/?ll=35.029979,135.770996&q=%E7%8F%BE%E5%9C%A8%E5%9C%B0&t=m",
           "id": "292145752",
           "image": {
             "date": 1679720400000,
@@ -1881,7 +1887,7 @@
             "User Experience",
             "Web Design"
           ],
-          "venue": "26534916"
+          "venue": "25472037"
         }
       ],
       "foundedAt": 1657415783000,
@@ -2002,6 +2008,18 @@
       "lat": 34.719547,
       "lng": 135.484604,
       "name": "Juso Coworking",
+      "postalCode": "",
+      "state": ""
+    },
+    {
+      "address": "今出川通 Kamigyo Ward,",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "25472037",
+      "lat": 35.029816,
+      "lng": 135.77087,
+      "name": "Kamogawa delta",
       "postalCode": "",
       "state": ""
     },
@@ -2203,8 +2221,8 @@
       "country": "jp",
       "crossStreet": null,
       "id": "27394125",
-      "lat": 34.70233,
-      "lng": 135.52138,
+      "lat": 34.700623,
+      "lng": 135.52222,
       "name": "Osaka Waterfront Park “Sakuranomiya Beach”",
       "postalCode": "534-0027",
       "state": ""
