@@ -1698,6 +1698,30 @@
           "venue": "27370028"
         },
         {
+          "description": "Hello Everyone! 👋\n\nWe have a bit of a special event this month. [Tamas Piros](https://tpiros.dev/) is on travel here and he offered to have a full 2h workshop with us! 😲 Different location and a different time than our usual meetup but it should be totally worth it! 👍\n\nJoin us with your computer 💻 for a workshop, where Tamas will introduce us to [Astro.build](https://astro.build). The recent state-of-the-art front-end framework to build websites fast. It has taken many hearts and if you haven't had the chance to touch it yet, it may be a good opportunity for you to level up! 🚀",
+          "duration": 9000000,
+          "feeSettings": null,
+          "howToFindUs": "In the Grandfront North Tower, behind the Tully's on the 1F, take the Business Entrance to Tower C. Use the elevator to the 16F. We are in the R³ Institute Community Room at the very end of the north corridor.",
+          "id": "292146517",
+          "image": {
+            "caption": "OWDDM - Astro.build Workshop by Tamas Piros - Fri. 2023 / 05 / 19 - 19:00",
+            "date": 1680626070000,
+            "location": "images/events/5/1/1/830928.webp"
+          },
+          "maxTickets": 49,
+          "numberOfAllowedGuests": 3,
+          "time": 1684490400000,
+          "title": "Astro.build Workshop by Tamas Piros",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27540345"
+        },
+        {
           "description": "Happy Spring!👋\n\nThis is not a mistake! We have **two Hanamis** this year!\nTo make it easier for people from other parts of Kansai to join and also because the weather is sometimes tricky, we decided to have a second Hanami one week after [our other Hanami event in Kyoto](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/292145752/). 🌸\n\nOur friends at [HNKansai](https://www.meetup.com/hacker-news-kansai/events/292273445/) decided to join us and we would like to invite you to hang out together. 🤗 Bring nice snacks and drinks that we share and let's have easy conversations.\n\nWe plan to start around noon and will be there until evening. Of course you are free to join/leave as it suits you ☺️\n\n*Note:* We are a group of grown-ups but some of us have kids and we want to welcome them and their families at the meetup too!\n\nIf you have any questions are want to connect on other ways, please [join us in the discord](https://owddm.com/discord).",
           "duration": 25200000,
           "feeSettings": null,
@@ -1888,6 +1912,41 @@
             "Web Design"
           ],
           "venue": "25472037"
+        },
+        {
+          "description": "Hello Everyone, 👋\n\nafter a bit of a break we want to start again. 🚀 For our April meetup we secured the Oinai Coworking space. Join us for an evening talking about making web sites and services.\n\nFor our first presentation, [Sacha Greif](https://sachagreif.com/) will be talking about his work on [State of JS](https://stateofjs.com/), CSS, and More. Giving us a behind-the-scenes look at running developer surveys.\n\nCurrently, we are still working out rest of the program. If you have something that you would like to present, please let us know in our [Discord channel](https://owddm.com/discord) or through our [Presentation Proposal](https://forms.gle/z2evUqfJBEpaZjwb8) form.",
+          "duration": 9000000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "292526286",
+          "image": {
+            "caption": "KWDDM - April Gathering - Fri. 2023 / 04 / 21 - 20:00",
+            "date": 1680625253000,
+            "location": "images/events/5/1/1/830730.webp"
+          },
+          "maxTickets": 20,
+          "numberOfAllowedGuests": 3,
+          "time": 1682067600000,
+          "title": "April Gathering",
+          "topics": [
+            "New Technology",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27544400"
         }
       ],
       "foundedAt": 1657415783000,
@@ -2261,6 +2320,30 @@
       "lng": 135.5005,
       "name": "マサムネ お初天神店",
       "postalCode": "530-0001",
+      "state": ""
+    },
+    {
+      "address": "北区大深町４−20, Grandfront C Tower",
+      "city": "大阪市",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27540345",
+      "lat": 34.704254,
+      "lng": 135.49474,
+      "name": "Gusuku Ashibinaa Osaka",
+      "postalCode": "",
+      "state": "al"
+    },
+    {
+      "address": "Nakagyo Ward, Tearaimizuchō, ６４７ トキワビル 4-B",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27544400",
+      "lat": 35.00591,
+      "lng": 135.76,
+      "name": "oinai karasuma",
+      "postalCode": "604-8152",
       "state": ""
     }
   ]
