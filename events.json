@@ -1746,8 +1746,8 @@
         }
       ],
       "foundedAt": 1404989737000,
-      "latitude": 34.68,
-      "longitude": 135.5,
+      "lat": 34.68,
+      "lng": 135.5,
       "name": "Osaka Web Designers and Developers Meetup",
       "organizer": "270389518",
       "state": "",
@@ -1950,8 +1950,8 @@
         }
       ],
       "foundedAt": 1657415783000,
-      "latitude": 35.01,
-      "longitude": 135.75,
+      "lat": 35.01,
+      "lng": 135.75,
       "name": "Kyoto Web Designers and Developers Meetup",
       "organizer": "270389518",
       "state": "",
