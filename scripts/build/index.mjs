@@ -192,6 +192,7 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
     for (const event of group.events) {
       if (event.image) {
         event.image = {
+          caption: event.image.caption,
           file: event.image.location,
           res: event.image.res
         }
