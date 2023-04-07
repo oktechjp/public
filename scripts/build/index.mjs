@@ -191,6 +191,10 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
   for (const group of Object.values(groups)) {
     for (const event of group.events) {
       if (event.image) {
+        event.image = {
+          file: event.image.location,
+          res: event.image.res
+        }
         photos.push(event.image)
       }
     }
@@ -201,10 +205,7 @@ async function processEventsImages ({ targetFolder, cwd, transforms }) {
       cwd,
       sharps,
       copies,
-      target: {
-        file: photo.location,
-        res: photo.res
-      },
+      target: photo,
       targetFolder,
       transforms
     })
