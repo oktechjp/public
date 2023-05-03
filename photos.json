@@ -1378,7 +1378,8 @@
     {
       "content": "OWDDM × HN Kansai - Hacker Hanami in Osaka",
       "discordId": [
-        "1092822523256766535"
+        "1092822523256766535",
+        "1103218422482993194"
       ],
       "event": "292274060",
       "photos": [
@@ -1407,6 +1408,31 @@
           "date": 1680349416000,
           "instructional": true,
           "location": "images/events/5/1/1/737940.webp"
+        },
+        {
+          "nsfw": true,
+          "location": "images/discord/event-photos/1103218422482993194/1103218418011865138/IMG_0437.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218418615865364/IMG_0416.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218419337281636/IMG_0412.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218419828019210/IMG_0434.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218420473938001/IMG_0417.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218420952072254/IMG_0411.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218421564461097/IMG_0410.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103218422482993194/1103218422080356412/IMG_0409.webp"
         }
       ],
       "timestamp": 1680318000000
@@ -1453,6 +1479,9 @@
     {
       "content": "Surveys and Keyboards",
       "event": "292526286",
+      "discordId": [
+        "1103166848192753664"
+      ],
       "photos": [
         {
           "caption": "KWDDM - Surveys and Keyboards - Fri. 2023 / 04 / 21 - 20:00",
@@ -1466,6 +1495,15 @@
         {
           "date": 1682068373000,
           "location": "images/events/5/1/2/251370.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103166848192753664/1103166847400026143/IMG_20230421_182055.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103166848192753664/1103166847676858398/IMG_20230421_192322.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1103166848192753664/1103166847957868554/IMG_20230421_192327.webp"
         }
       ],
       "timestamp": 1682067600000
