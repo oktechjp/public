@@ -1,5 +1,5 @@
 import sharp from 'sharp'
-import { readFile, writeFile, mkdir, access, cp, unlink } from 'node:fs/promises'
+import { readFile, writeFile, mkdir, access, cp, unlink, readdir } from 'node:fs/promises'
 import { join, relative, dirname } from 'node:path'
 import stringify from 'json-stringify-pretty-compact'
 import pmap from 'p-map'
@@ -126,6 +126,10 @@ async function preparePhoto ({ cwd, targetFolder, transforms, sharps, copies, ta
 }
 
 async function processImages ({ targetFolder, cwd, transforms }) {
+  console.log(JSON.stringify({
+    readdir: await readdir(targetFolder),
+    targetFolder
+  }))
   const eventData = await processEventsImages({ targetFolder, cwd, transforms })
   const albumData = await processPhotoAlbums({ targetFolder, cwd, transforms })
   await pmap([...albumData.copies, ...eventData.copies], async ({ src, target }) => copy(src, target, true))
@@ -141,10 +145,10 @@ async function processImages ({ targetFolder, cwd, transforms }) {
         const formatFile = `${base}@${transform.key}.${format}`
         try {
           await access(formatFile)
-          log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> cached`)
+          log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> ${relative(cwd, formatFile)} cached`)
         } catch (err) {
           await mkdir(dirname(formatFile), { recursive: true })
-          log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> writing`)
+          log('TRANSFORM', `${relative(cwd, src)} key=${transform.key} format=${format} -> ${relative(cwd, formatFile)} writing`)
           try {
             await s.withMetadata().toFile(formatFile)
             await new Promise(resolve => setTimeout(resolve, 30))
