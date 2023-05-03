@@ -1684,8 +1684,8 @@
             "date": 1680483472000,
             "location": "images/events/5/1/1/794415.webp"
           },
-          "maxTickets": 20,
-          "numberOfAllowedGuests": 2,
+          "maxTickets": 22,
+          "numberOfAllowedGuests": 0,
           "time": 1681545600000,
           "title": "Design generally, Nostr particularly",
           "topics": [
@@ -1719,7 +1719,7 @@
             "Web Design",
             "Web Development"
           ],
-          "venue": "27540345"
+          "venue": "27553386"
         },
         {
           "description": "Happy Spring!👋\n\nThis is not a mistake! We have **two Hanamis** this year!\nTo make it easier for people from other parts of Kansai to join and also because the weather is sometimes tricky, we decided to have a second Hanami one week after [our other Hanami event in Kyoto](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/292145752/). 🌸\n\nOur friends at [HNKansai](https://www.meetup.com/hacker-news-kansai/events/292273445/) decided to join us and we would like to invite you to hang out together. 🤗 Bring nice snacks and drinks that we share and let's have easy conversations.\n\nWe plan to start around noon and will be there until evening. Of course you are free to join/leave as it suits you ☺️\n\n*Note:* We are a group of grown-ups but some of us have kids and we want to welcome them and their families at the meetup too!\n\nIf you have any questions are want to connect on other ways, please [join us in the discord](https://owddm.com/discord).",
@@ -1914,7 +1914,7 @@
           "venue": "25472037"
         },
         {
-          "description": "Hello Everyone, 👋\n\nAfter a bit of a break, we want to start again. 🚀 For our April Meeting we secured the Oinai Coworking space. Join us for an evening talking about making websites and services.\n\nFor our first presentation, [Sacha Greif](https://sachagreif.com/) will be talking about his work on [State of JS](https://stateofjs.com/), CSS, and More. Giving us a behind-the-scenes look at running developer surveys.\n\nCurrently, we are still working out the rest of the program. If you have something that you would like to present, please let us know in our [Discord channel](https://owddm.com/discord) or through our [Presentation Proposal](https://forms.gle/z2evUqfJBEpaZjwb8) form.\n\n* **Don't forget to RSVP to join the April event** →\n\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\nWe also have a special meeting with [Tamas Piros](https://tpiros.dev/). Tamas will introduce us to [Astro.build](https://astro.build/). Join us with your computer 💻 for a workshop.\nFor more info and details check our page for [OWDDM](https://www.meetup.com/osaka-web-designers-and-developers-meetup/).\n\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-\\-",
+          "description": "Hello Everyone, 👋\n\nAfter a bit of a break, we want to start again with two presentations! 🚀 Tiro secured the Oinai Coworking space for a Friday evening talk tech and design. 🤩\n\nFor our first presentation, [Sacha Greif](https://sachagreif.com/) will be talking about his work on surveys [State of JS](https://stateofjs.com/), [CSS](https://stateofcss.com/en-us/), and the future of his surveys. We will be getting a behind-the-scenes look at his work running developer surveys.\n\nBen Foden will then show us, how to make excellent 3D printed keyboards and beyond. Using free software, readily available parts, and a 3D printer he uncovers simple ways to get custom made items tailored perfectly to our needs and taste.\n\nBeside our offline events we also have a [Discord channel](https://owddm.com/discord) that we use to organize our group. We are happy for you to join us.\n\n−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−\nℹ️ → We also have a special meeting with [Tamas Piros](https://tpiros.dev/). In may, he will introduce us in a 2h workshop to [Astro.build](https://astro.build/). For more info and details check our page for [OWDDM](https://www.meetup.com/osaka-web-designers-and-developers-meetup/).\n−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−",
           "duration": 9000000,
           "feeSettings": {
             "accepts": "CASH",
@@ -1932,17 +1932,17 @@
           },
           "id": "292526286",
           "image": {
-            "caption": "KWDDM - April Gathering - Fri. 2023 / 04 / 21 - 20:00",
-            "date": 1680625253000,
-            "location": "images/events/5/1/1/830730.webp"
+            "date": 1682067600000,
+            "location": "images/events/5/1/1/506744.webp"
           },
-          "maxTickets": 20,
+          "maxTickets": 18,
           "numberOfAllowedGuests": 3,
           "time": 1682067600000,
-          "title": "April Gathering",
+          "title": "Surveys and Keyboards",
           "topics": [
             "New Technology",
-            "Software Development",
+            "Surveying",
+            "Technology",
             "Web Design",
             "Web Development"
           ],
@@ -2345,6 +2345,18 @@
       "name": "oinai karasuma",
       "postalCode": "604-8152",
       "state": ""
+    },
+    {
+      "address": "北区大深町 3-1, グランフロント大阪 Tower C 16F",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27553386",
+      "lat": 34.70587,
+      "lng": 135.49481,
+      "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA)",
+      "postalCode": "meetup3",
+      "state": "al"
     }
   ]
 }
