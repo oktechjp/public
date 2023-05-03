@@ -126,10 +126,6 @@ async function preparePhoto ({ cwd, targetFolder, transforms, sharps, copies, ta
 }
 
 async function processImages ({ targetFolder, cwd, transforms }) {
-  console.log(JSON.stringify({
-    readdir: await readdir(targetFolder),
-    targetFolder
-  }))
   const eventData = await processEventsImages({ targetFolder, cwd, transforms })
   const albumData = await processPhotoAlbums({ targetFolder, cwd, transforms })
   await pmap([...albumData.copies, ...eventData.copies], async ({ src, target }) => copy(src, target, true))
