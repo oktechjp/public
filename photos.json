@@ -1370,6 +1370,7 @@
         },
         {
           "date": 1679721119000,
+          "instructional": true,
           "location": "images/events/5/1/1/535849.webp"
         }
       ],
@@ -1482,14 +1483,17 @@
         {
           "caption": "KWDDM - Surveys and Keyboards - Fri. 2023 / 04 / 21 - 20:00",
           "date": 1681824056000,
+          "instructional": true,
           "location": "images/events/5/1/2/191652.webp"
         },
         {
           "date": 1682068332000,
+          "instructional": true,
           "location": "images/events/5/1/2/251366.webp"
         },
         {
           "date": 1682068373000,
+          "instructional": true,
           "location": "images/events/5/1/2/251370.webp"
         },
         {
