@@ -1439,31 +1439,27 @@
     },
     {
       "content": "Some pictures from Saturday Meeting - “Designer”",
+      "event": "292526286",
       "discordId": [
-        "1097380450575593552"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1097380450575593552/1097380448935616603/IMG_6951.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1097380450575593552/1097380449216626708/IMG_6950.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1097380450575593552/1097380449468297277/IMG_6949.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1097380450575593552/1097380450323923044/IMG_6947.webp"
-        }
-      ],
-      "timestamp": 1681706287760
-    },
-    {
-      "content": "",
-      "discordId": [
+        "1097380450575593552",
         "1097439952737943672"
       ],
       "photos": [
+        {
+          "location": "images/discord/event-photos/1097380450575593552/1097380448935616603/IMG_6951.webp",
+          "instructional": true
+        },
+        {
+          "location": "images/discord/event-photos/1097380450575593552/1097380449216626708/IMG_6950.webp",
+          "instructional": true
+        },
+        {
+          "location": "images/discord/event-photos/1097380450575593552/1097380449468297277/IMG_6949.webp",
+          "instructional": true
+        },
+        {
+          "location": "images/discord/event-photos/1097380450575593552/1097380450323923044/IMG_6947.webp"
+        },
         {
           "location": "images/discord/event-photos/1097439952737943672/1097439951571910666/IMG_20230415_171903.webp"
         },
@@ -1474,7 +1470,7 @@
           "location": "images/discord/event-photos/1097439952737943672/1097439952419160124/IMG_20230415_171900.webp"
         }
       ],
-      "timestamp": 1681720474181
+      "timestamp": 1681706287760
     },
     {
       "content": "Surveys and Keyboards",
