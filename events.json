@@ -1947,6 +1947,43 @@
             "Web Development"
           ],
           "venue": "27544400"
+        },
+        {
+          "description": "Hello everyone! 👋\n\nCalling all tech enthusiasts! 🔥\n\nJoin us in Kyoto ⛩️ for an exciting night of networking and discussion.\nWe're thrilled to feature a panel of no-code early adopters who will share their stories and insights on the current no-code scene and how they integrated it into their operations.\n\nGet ready to connect with international techies, ask questions, and share your own experiences. 🤩\n\nOur first presenter, [Hiroko Yokota](https://www.linkedin.com/in/hiroko-yokota-28706515a/), will speak about her experience with business development for [BtoB Hotel App WASIMIL](https://www.wasimil.com/), and how she leveraged no-code solutions for startup business development.\nWe'll get a behind-the-scenes look at a Kyoto-based startup using no-code to accelerate their business.\n\nWe're still looking for a second presenter! [Join our Discord channel](https://owddm.com/discord) and pitch your ideas! 🎤\n\nWe welcome all knowledge-sharing in our community, so don't hesitate to join us! 🤝\n\n−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−\nℹ️ → We also have a special meeting with [Tamas Piros](https://tpiros.dev/). In may, he will introduce us in a 2h workshop to [Astro.build](https://astro.build/). For more info and details check our page for [OWDDM](https://www.meetup.com/osaka-web-designers-and-developers-meetup/).\n−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 200,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "The No8 Hase Building is located in the same building as the drug store \"Welcia\". To reach the event venue, please go upstairs to the 2nd floor. Once you arrive at the second floor, you'll find the entrance to the event venue right in front of the elevator.",
+          "id": "293291174",
+          "image": {
+            "caption": "KWDDM - With No Code to Business - Sat. 2023 / 05 / 20 - 17:00",
+            "date": 1683731689000,
+            "location": "images/events/5/1/2/760988.webp"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1684569600000,
+          "title": "With No-Code to Business",
+          "topics": [
+            "New Technology",
+            "Startup Businesses",
+            "Surveying",
+            "Technology Startups",
+            "Web Design"
+          ],
+          "venue": "27573606"
         }
       ],
       "foundedAt": 1657415783000,
@@ -2357,6 +2394,18 @@
       "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA)",
       "postalCode": "meetup3",
       "state": "al"
+    },
+    {
+      "address": "Shimogyo Ward, Ōmandokorochō, ６８０−１, No8 Hase Building, 2F 3F（受付",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27573606",
+      "lat": 35.001007,
+      "lng": 135.75932,
+      "name": "share KARASUMA",
+      "postalCode": "600-8413",
+      "state": ""
     }
   ]
 }
