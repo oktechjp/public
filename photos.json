@@ -1509,6 +1509,22 @@
       "timestamp": 1682067600000
     },
     {
+      "content": "Astro.build Workshop by Tamas Piros",
+      "event": "292146517",
+      "photos": [
+        {
+          "date": 1684489416000,
+          "location": "images/events/5/1/2/966303.webp"
+        },
+        {
+          "caption": "Exercise time!",
+          "date": 1684542077000,
+          "location": "images/events/5/1/2/979393.webp"
+        }
+      ],
+      "timestamp": 1684490400000
+    },
+    {
       "content": "Photos from yesterday's event",
       "discordId": [
         "1109350244296183848"

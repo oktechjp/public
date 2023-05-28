@@ -1743,6 +1743,52 @@
             "Web Development"
           ],
           "venue": "27394125"
+        },
+        {
+          "description": "Good Summer everyone! 👋\n\nThe [workshop in the Gusuku Ashibinaa](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/292146517/) space was awesome which is why we will do our next one there as well!\n\nThis time on Sat. June 17th we like to invite you to a presentation by the always awesome Alexey from [Evil Martians](https://evilmartians.com/) presenting about [OKLCH](https://oklch.com/) \\- a new way to specify colors that has found it's way into the CSS specification and has some very nice properties\\.\n\nWe also have still space for a second presentation. If you feel like taking your ideas in front of a stage, please send a presentation proposal using our [Google Form](https://forms.gle/iY5uTdpRJkxDGFJw8) or via the [#presentation-proposals](https://discord.gg/Sj2GRxHrce) channel on discord.\n\nFeel free to join discord also for some small talk and to ask questions and share thoughts with the community. → [https://owddm.com/discord](https://owddm.com/discord)\n\njoin us at https://owddm.com/discord to discuss about next meetup.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "292890108",
+          "image": {
+            "caption": "OWDDM - Colorful Web Meetup - Sat. 2023 / 06 / 17 - 17:00\n",
+            "date": 1684562223000,
+            "location": "images/events/5/1/2/983535.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 3,
+          "time": 1686988800000,
+          "title": "Colorful Web Meetup",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
+        },
+        {
+          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
+          "duration": 14400000,
+          "feeSettings": null,
+          "id": "293779684",
+          "image": {
+            "date": 1685433600000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 8,
+          "numberOfAllowedGuests": 1,
+          "time": 1685433600000,
+          "title": "(Casual)  Programming Night",
+          "topics": [
+            "Cloud Computing",
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27584681"
         }
       ],
       "foundedAt": 1404989737000,
@@ -1973,7 +2019,7 @@
             "location": "images/events/5/1/2/760988.webp"
           },
           "maxTickets": 10,
-          "numberOfAllowedGuests": 2,
+          "numberOfAllowedGuests": 0,
           "time": 1684569600000,
           "title": "With No-Code to Business",
           "topics": [
@@ -1984,6 +2030,43 @@
             "Web Design"
           ],
           "venue": "27573606"
+        },
+        {
+          "description": "Hi Friends, 👋\n\nwe are still putting together the whole plan for the June meetup, but we are happy to announce that [Helpfeel](https://helpfeel.com/en-us/) (prev. Nota) will be hosting us and we will be looking to find snacks right there.\n\nIf you are interested in speaking at the event we'd be happy to get your presentation proposal in through our [form](https://forms.gle/iY5uTdpRJkxDGFJw8) or the [#presentation](https://discord.com/invite/Sj2GRxHrce) discord channel.\n\nStay tuned for more details.",
+          "duration": 10800000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "In the 5F of above the Coco Ichibanya - Hard to miss.",
+          "id": "293731584",
+          "image": {
+            "caption": "KWDDM - June Web Meetup - Sat. 2023 / 06/ 24 - 17:00",
+            "date": 1685279703000,
+            "location": "images/events/5/1/3/204400.webp"
+          },
+          "maxTickets": 24,
+          "numberOfAllowedGuests": 0,
+          "time": 1687593600000,
+          "title": "June Friendly Meetup",
+          "topics": [
+            "New Technology",
+            "Open Source",
+            "PHP",
+            "Software Development",
+            "Web Design"
+          ],
+          "venue": "27585838"
         }
       ],
       "foundedAt": 1657415783000,
@@ -2396,6 +2479,18 @@
       "state": "al"
     },
     {
+      "address": "北区大深町 3-1, グランフロント大阪 Tower C 16F",
+      "city": "大阪市",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27553394",
+      "lat": 34.705925,
+      "lng": 135.49442,
+      "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA) ",
+      "postalCode": "",
+      "state": "al"
+    },
+    {
       "address": "Shimogyo Ward, Ōmandokorochō, ６８０−１, No8 Hase Building, 2F 3F（受付",
       "city": "Kyoto",
       "country": "jp",
@@ -2405,6 +2500,30 @@
       "lng": 135.75932,
       "name": "share KARASUMA",
       "postalCode": "600-8413",
+      "state": ""
+    },
+    {
+      "address": "530-0005 Osaka, Kita Ward, Nakanoshima, 3 Chome−1−8,",
+      "city": "Osaka",
+      "country": "JP",
+      "crossStreet": null,
+      "id": "27584681",
+      "lat": 34.691803,
+      "lng": 135.49329,
+      "name": "co-ba nakanoshima",
+      "postalCode": "meetup3",
+      "state": ""
+    },
+    {
+      "address": "Kamigyo Ward, Goshohachimanchō, １１０−１６ かわもとビル 5F",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27585838",
+      "lat": 35.030567,
+      "lng": 135.75914,
+      "name": "株式会社Helpfeel",
+      "postalCode": "602-0023",
       "state": ""
     }
   ]
