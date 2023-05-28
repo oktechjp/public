@@ -1511,6 +1511,9 @@
     {
       "content": "Astro.build Workshop by Tamas Piros",
       "event": "292146517",
+      "discordId": [
+        "1109350244296183848"
+      ],
       "photos": [
         {
           "date": 1684489416000,
@@ -1520,16 +1523,7 @@
           "caption": "Exercise time!",
           "date": 1684542077000,
           "location": "images/events/5/1/2/979393.webp"
-        }
-      ],
-      "timestamp": 1684490400000
-    },
-    {
-      "content": "Photos from yesterday's event",
-      "discordId": [
-        "1109350244296183848"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1109350244296183848/1109350243084021801/IMG_20230519_1906472.webp"
         },
@@ -1543,13 +1537,14 @@
           "location": "images/discord/event-photos/1109350244296183848/1109350243994185818/IMG_20230519_1906383.webp"
         }
       ],
-      "timestamp": 1684560108971
+      "timestamp": 1684490400000
     },
     {
       "content": "Fotos from today's event, nice conversations 'all",
       "discordId": [
         "1109485177417248768"
       ],
+      "event": "293291174",
       "photos": [
         {
           "location": "images/discord/event-photos/1109485177417248768/1109485176561610822/IMG_20230520_1723082.webp"
