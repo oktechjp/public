@@ -1557,6 +1557,24 @@
         }
       ],
       "timestamp": 1684569600000
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1113030359634944000"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1113030359634944000/1113030356732485682/IMG_2412.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1113030359634944000/1113030357672022036/IMG_2413.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1113030359634944000/1113030358737358899/IMG_2414.webp"
+        }
+      ],
+      "timestamp": 1685437516841
     }
   ]
 }
