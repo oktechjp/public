@@ -1,7 +1,7 @@
 {
-  "responses": 36,
+  "responses": 37,
   "location": {
-    "osaka": 17,
+    "osaka": 18,
     "kyoto": 11,
     "kobe": 4,
     "Not in Japan  😢": 2,
@@ -9,15 +9,15 @@
     "nara": 1
   },
   "english": {
-    "count": 36,
+    "count": 37,
     "min": 2,
     "max": 4,
-    "mean": 3.388888888888889,
+    "mean": 3.3783783783783785,
     "median": 4,
     "mode": 4,
     "byValue": {
       "2": 8,
-      "3": 6,
+      "3": 7,
       "4": 22
     }
   },
@@ -50,13 +50,13 @@
       "mode": [
         "learn_new_things",
         "get_to_know_others",
+        "find_collaborators",
         "find_friends",
         "learn_kansai",
         "share_knowledge",
         "share_experience",
         "find_new_business",
         "gain_reputation",
-        "find_collaborators",
         "practice_english"
       ]
     },
@@ -77,64 +77,64 @@
         }
       },
       "share_knowledge": {
-        "count": 34,
+        "count": 35,
         "min": 1,
         "max": 4,
-        "mean": 2.6470588235294117,
+        "mean": 2.6857142857142855,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 4,
           "2": 14,
           "3": 6,
-          "4": 10
+          "4": 11
         }
       },
       "share_experience": {
-        "count": 34,
+        "count": 35,
         "min": 1,
         "max": 4,
-        "mean": 2.4705882352941178,
+        "mean": 2.5142857142857142,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 5,
           "2": 15,
           "3": 7,
-          "4": 7
+          "4": 8
         }
       },
       "learn_new_things": {
-        "count": 36,
+        "count": 37,
         "min": 2,
         "max": 4,
-        "mean": 3.5833333333333335,
+        "mean": 3.5945945945945947,
         "median": 4,
         "mode": 4,
         "byValue": {
           "2": 2,
           "3": 11,
-          "4": 23
+          "4": 24
         }
       },
       "get_to_know_others": {
-        "count": 36,
+        "count": 37,
         "min": 2,
         "max": 4,
-        "mean": 3.4722222222222223,
+        "mean": 3.4864864864864864,
         "median": 4,
         "mode": 4,
         "byValue": {
           "2": 2,
           "3": 15,
-          "4": 19
+          "4": 20
         }
       },
       "gain_reputation": {
-        "count": 33,
+        "count": 34,
         "min": 0,
         "max": 4,
-        "mean": 1.5757575757575757,
+        "mean": 1.6470588235294117,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -142,14 +142,14 @@
           "1": 9,
           "2": 13,
           "3": 3,
-          "4": 2
+          "4": 3
         }
       },
       "find_new_business": {
-        "count": 36,
+        "count": 37,
         "min": 0,
         "max": 4,
-        "mean": 2.2777777777777777,
+        "mean": 2.324324324324324,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -157,28 +157,28 @@
           "1": 3,
           "2": 10,
           "3": 9,
-          "4": 8
+          "4": 9
         }
       },
       "find_friends": {
-        "count": 34,
+        "count": 35,
         "min": 1,
         "max": 4,
-        "mean": 3.0294117647058822,
+        "mean": 3.057142857142857,
         "median": 3,
         "mode": 3,
         "byValue": {
           "1": 1,
           "2": 8,
           "3": 14,
-          "4": 11
+          "4": 12
         }
       },
       "learn_kansai": {
-        "count": 34,
+        "count": 35,
         "min": 0,
         "max": 4,
-        "mean": 1.9411764705882353,
+        "mean": 2,
         "median": 2,
         "mode": 3,
         "byValue": {
@@ -186,41 +186,41 @@
           "1": 5,
           "2": 7,
           "3": 9,
-          "4": 5
+          "4": 6
         }
       },
       "find_collaborators": {
-        "count": 36,
+        "count": 37,
         "min": 0,
         "max": 4,
-        "mean": 2.4444444444444446,
-        "median": 2.5,
-        "mode": 1,
+        "mean": 2.4864864864864864,
+        "median": 3,
+        "mode": 4,
         "byValue": {
           "0": 1,
           "1": 10,
           "2": 7,
           "3": 8,
-          "4": 10
+          "4": 11
         }
       }
     }
   },
   "topics": {
-    "frontend": 32,
-    "scripting": 27,
+    "frontend": 33,
+    "scripting": 28,
+    "webdesign": 25,
     "backend": 25,
-    "webdesign": 24,
     "usability": 22,
     "databases": 22,
-    "career": 20,
+    "career": 21,
     "accessibility": 17,
     "web-sec": 17,
     "hosting": 16,
+    "activism": 13,
     "intl": 13,
     "hacks": 13,
     "planning": 12,
-    "activism": 12,
     "dataviz": 12,
     "irl-connection": 12,
     "web3": 10,
@@ -260,16 +260,16 @@
     },
     "detail": {
       "in_person_meetups": {
-        "count": 36,
+        "count": 37,
         "min": 2,
         "max": 4,
-        "mean": 3.5833333333333335,
+        "mean": 3.5945945945945947,
         "median": 4,
         "mode": 4,
         "byValue": {
           "2": 2,
           "3": 11,
-          "4": 23
+          "4": 24
         }
       },
       "online_meetups": {
@@ -394,16 +394,16 @@
     },
     "detail": {
       "formal": {
-        "count": 33,
+        "count": 34,
         "min": 0,
         "max": 4,
-        "mean": 1.4545454545454546,
+        "mean": 1.4705882352941178,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 10,
           "1": 4,
-          "2": 15,
+          "2": 16,
           "3": 2,
           "4": 2
         }
@@ -423,14 +423,14 @@
         }
       },
       "end_on_time": {
-        "count": 33,
+        "count": 34,
         "min": 0,
         "max": 4,
-        "mean": 2.090909090909091,
+        "mean": 2.0294117647058822,
         "median": 2,
         "mode": 2,
         "byValue": {
-          "0": 2,
+          "0": 3,
           "1": 3,
           "2": 21,
           "3": 4,
@@ -452,24 +452,24 @@
         }
       },
       "be_montly": {
-        "count": 33,
+        "count": 34,
         "min": 1,
         "max": 4,
-        "mean": 2.787878787878788,
+        "mean": 2.823529411764706,
         "median": 3,
         "mode": 3,
         "byValue": {
           "1": 1,
           "2": 11,
           "3": 15,
-          "4": 6
+          "4": 7
         }
       },
       "held_in_english": {
-        "count": 34,
+        "count": 35,
         "min": 0,
         "max": 4,
-        "mean": 2.4411764705882355,
+        "mean": 2.4857142857142858,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -477,7 +477,7 @@
           "1": 1,
           "2": 17,
           "3": 8,
-          "4": 6
+          "4": 7
         }
       },
       "be_annonymous": {
@@ -498,12 +498,12 @@
   "times": {
     "saturday-evening": 28,
     "saturday-noon": 22,
-    "sunday-noon": 18,
+    "sunday-noon": 19,
     "friday": 18,
     "sunday-evening": 13
   },
   "fee": {
-    "500yen": 32,
+    "500yen": 33,
     "choose": 1
   },
   "sns": {
@@ -521,8 +521,8 @@
         "github",
         "discord",
         "meetup",
-        "slack",
         "line",
+        "slack",
         "twitter",
         "fb"
       ],
@@ -552,32 +552,32 @@
         }
       },
       "github": {
-        "count": 25,
+        "count": 26,
         "min": 1,
         "max": 4,
-        "mean": 2.8,
+        "mean": 2.8461538461538463,
         "median": 3,
         "mode": 3,
         "byValue": {
           "1": 1,
           "2": 7,
           "3": 13,
-          "4": 4
+          "4": 5
         }
       },
       "line": {
-        "count": 26,
+        "count": 27,
         "min": 0,
         "max": 4,
-        "mean": 2.576923076923077,
-        "median": 2.5,
+        "mean": 2.6296296296296298,
+        "median": 3,
         "mode": 2,
         "byValue": {
           "0": 2,
           "1": 1,
           "2": 10,
           "3": 6,
-          "4": 7
+          "4": 8
         }
       },
       "fb": {
