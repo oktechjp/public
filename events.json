@@ -1745,7 +1745,7 @@
           "venue": "27394125"
         },
         {
-          "description": "Good Summer everyone! 👋\n\nThe [workshop in the Gusuku Ashibinaa](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/292146517/) space was awesome which is why we will do our next one there as well!\n\nThis time on Sat. June 17th we like to invite you to a presentation by the always awesome Alexey from [Evil Martians](https://evilmartians.com/) presenting about [OKLCH](https://oklch.com/) \\- a new way to specify colors that has found it's way into the CSS specification and has some very nice properties\\.\n\nWe also have still space for a second presentation. If you feel like taking your ideas in front of a stage, please send a presentation proposal using our [Google Form](https://forms.gle/iY5uTdpRJkxDGFJw8) or via the [#presentation-proposals](https://discord.gg/Sj2GRxHrce) channel on discord.\n\nFeel free to join discord also for some small talk and to ask questions and share thoughts with the community. → [https://owddm.com/discord](https://owddm.com/discord)\n\njoin us at https://owddm.com/discord to discuss about next meetup.",
+          "description": "Good Summer everyone! 👋\n\nThe [workshop in the Gusuku Ashibinaa](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/292146517/) space was awesome which is why we will do our next one there as well!\n\nThis time on Sat. June 17th we like to invite you to a presentation by the always awesome Alexey from [Evil Martians](https://evilmartians.com/) presenting about [OKLCH](https://oklch.com/) \\- a new way to specify colors that has found it's way into the CSS specification and has some very nice properties\\.\n\nIn our second presentation, Abhishek Oza will be giving us an Introduction of Docker for Frontend people in his first presentation at OWDDM. This should be particularly enlightening for people that don't know why it would be good for Frontend people to know Docker. 😉\n\nWe have monthly presentations and if you feel like taking your ideas in front of a stage, please send a presentation proposal using our [Google Form](https://forms.gle/iY5uTdpRJkxDGFJw8) or via the [#presentation-proposals](https://discord.gg/Sj2GRxHrce) channel on discord so we can consider you in our next events.\n\nFeel free to join discord also for some small talk and to ask questions and share thoughts with the community. → [https://owddm.com/discord](https://owddm.com/discord)",
           "duration": 7200000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
@@ -1773,6 +1773,50 @@
           "duration": 14400000,
           "feeSettings": null,
           "id": "293779684",
+          "image": {
+            "date": 1685433600000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 8,
+          "numberOfAllowedGuests": 0,
+          "time": 1685433600000,
+          "title": "(Casual)  Programming Night",
+          "topics": [
+            "Cloud Computing",
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27584681"
+        },
+        {
+          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
+          "duration": 14400000,
+          "feeSettings": null,
+          "id": "293779846",
+          "image": {
+            "date": 1685433600000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 8,
+          "numberOfAllowedGuests": 1,
+          "time": 1685433600000,
+          "title": "(Casual)  Programming Night",
+          "topics": [
+            "Cloud Computing",
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27584681"
+        },
+        {
+          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
+          "duration": 14400000,
+          "feeSettings": null,
+          "id": "293820864",
           "image": {
             "date": 1685433600000,
             "location": "images/events/5/1/1/506739.webp"
