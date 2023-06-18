@@ -1575,6 +1575,33 @@
         }
       ],
       "timestamp": 1685437516841
+    },
+    {
+      "content": "06/17 Colorful Web Meetup@R3 Institute Ltd.",
+      "discordId": [
+        "1119784322304577646"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1119784322304577646/1119784315413336124/IMG_1624.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1119784322304577646/1119784316390617128/IMG_1625.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1119784322304577646/1119784317716013056/IMG_1632.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1119784322304577646/1119784319267901491/IMG_1633.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1119784322304577646/1119784320379400242/IMG_1634.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1119784322304577646/1119784321625104474/IMG_1641.webp"
+        }
+      ],
+      "timestamp": 1687047787024
     }
   ]
 }
