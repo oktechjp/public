@@ -1791,13 +1791,58 @@
           "venue": "27584681"
         },
         {
+          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
+          "duration": 14400000,
+          "feeSettings": null,
+          "id": "293779846",
+          "image": {
+            "date": 1685433600000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 8,
+          "numberOfAllowedGuests": 1,
+          "time": 1685433600000,
+          "title": "(Casual)  Programming Night",
+          "topics": [
+            "Cloud Computing",
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27584681"
+        },
+        {
+          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
+          "duration": 14400000,
+          "feeSettings": null,
+          "id": "293820864",
+          "image": {
+            "date": 1685433600000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 8,
+          "numberOfAllowedGuests": 1,
+          "time": 1685433600000,
+          "title": "(Casual)  Programming Night",
+          "topics": [
+            "Cloud Computing",
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27584681"
+        },
+        {
           "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about ReactJS, VueJS, Python, ML, Rust, Databases, Docker, IoT, or something else you're interested in!\n\n😄",
           "duration": 9000000,
           "feeSettings": null,
           "id": "293876831",
           "image": {
-            "date": 1686984796000,
-            "location": "images/events/5/1/3/723619.webp"
+            "caption": "OWDMD - (Casual Programming Night)",
+            "date": 1687197125000,
+            "location": "images/events/5/1/3/801884.webp"
           },
           "maxTickets": 8,
           "numberOfAllowedGuests": 0,
@@ -1811,6 +1856,41 @@
             "Web Development"
           ],
           "venue": "27584681"
+        },
+        {
+          "description": "Join us [on discord](https://owddm.com/discord) to organize our next meetup.",
+          "duration": 9000000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "294290319",
+          "image": {
+            "date": 1690012800000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 1,
+          "time": 1690012800000,
+          "title": "TBA",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2054,7 +2134,7 @@
           "venue": "27573606"
         },
         {
-          "description": "Hi Friends, 👋\n\nwe are still putting together the whole plan for the June meetup, but we are happy to announce that [Helpfeel](https://helpfeel.com/en-us/) *(prev. Nota)* will be hosting us and we will be looking to find snacks right there.\n\nIn our first presentation Jake will look behind the curtain of how webpages are rendered! He will have a closer look \"**the HTML DOM\"** and we may find out how React interacts with the DOM. 🙀\n\nOur second presentation will also be React-focused. Martin will stay a little bit more surface level and look at \"**TypeScript Tips and Tricks for React\"**. 😛 Maybe you can catch some new and old reasons on what power to get from using TypeScript.\n\nAfter that **(!)** Parama will be hosting a brief Discussion and round table on the topic of **Relational Databases or Not** in which she would like to figure out with us what we think is better and why.\n\nThis is going to be a full evening and we hope to see you there! If you can't make it this time, [join the Discord](https://owddm.com/discord) to figure out when the next one is and maybe share if you feel like presenting something yourself.",
+          "description": "Hi Friends, 👋\n\nwe are still putting together the whole plan for the June meetup, but we are happy to announce that [Helpfeel](https://helpfeel.com/en-us/) *(prev. Nota)* will be hosting us and we will be looking to find snacks right there.\n\n*(Update: Jake has initially been scheduled to present on React and the DOM but he has been covered with work this week and will need to hold it at another time.)*\n\nIn our presentation of the day, Martin will take a look at \"**TypeScript Tips and Tricks for React\"**. In it he will attempt to share how he uses TypeScript with React and how he notices that it can be difficult to use TypeScript. Maybe you can catch some new and old reasons on what power to get from using TypeScript.\n\nAfter that we will be having two discussions. The first will be by **Parama** who will be hosting a round table on the topic of **Relational Databases or Not** in which she would like to figure out with us what we think is better and why.\n\nAnd... we have a second discussion this Saturday! Sacha will be reflecting a little bit about things **he learned in the past**. Things that are outdated by now, and that he will probably not use again. In a conversation he would like to explore how knowledge becomes less important over time and what we can treat as experience.\n\nThis is going to be a full evening and we hope to see you there! If you can't make it this time, [join the Discord](https://owddm.com/discord) to figure out when the next one is and maybe share if you feel like presenting something yourself.\n\n*Photos: Volunteers are usually taking photos at the events for ourselves and to be presented at our homepage. If you find a photo of yourself on our homepage that you have a problem with, please let us know through GitHub or at the event itself, thanks.*",
           "duration": 10800000,
           "feeSettings": {
             "accepts": "CASH",
@@ -2073,14 +2153,14 @@
           "howToFindUs": "In the 5F of above the Coco Ichibanya - Hard to miss.",
           "id": "293731584",
           "image": {
-            "caption": "KWDDM - DOM, React, TS and Databases - Sat. 2023 / 06 / 24 - 17:00",
-            "date": 1686932017000,
-            "location": "images/events/5/1/3/711649.webp"
+            "caption": "KWDDM - React, TypeScript and Discussions - Sat. 2023 / 06 / 24 - 17:00",
+            "date": 1687196506000,
+            "location": "images/events/5/1/3/801628.webp"
           },
           "maxTickets": 24,
           "numberOfAllowedGuests": 0,
           "time": 1687593600000,
-          "title": "DOM, React, TS and Databases",
+          "title": "React, TypeScript and Discussions",
           "topics": [
             "Database Backends",
             "HTML5",
