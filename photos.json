@@ -1559,11 +1559,11 @@
       "timestamp": 1684569600000
     },
     {
-      "content": "(Casual)  Programming Night",
+      "content": "",
+      "event": "293779684",
       "discordId": [
         "1113030359634944000"
       ],
-      "event": "293779684",
       "photos": [
         {
           "location": "images/discord/event-photos/1113030359634944000/1113030356732485682/IMG_2412.webp"
@@ -1575,15 +1575,15 @@
           "location": "images/discord/event-photos/1113030359634944000/1113030358737358899/IMG_2414.webp"
         }
       ],
-      "timestamp": 1685433600000
+      "timestamp": 1685437516841
     },
     {
-      "content": "Colorful Web Meetup",
+      "content": "06/17 Colorful Web Meetup@R3 Institute Ltd.",
+      "event": "292890108",
       "discordId": [
         "1119784322304577646",
         "1120395360641232916"
       ],
-      "event": "292890108",
       "photos": [
         {
           "location": "images/discord/event-photos/1119784322304577646/1119784315413336124/IMG_1624.webp"
@@ -1615,24 +1615,9 @@
         },
         {
           "location": "images/discord/event-photos/1120395360641232916/1120395360431505619/IMG_20230617_1731332.webp"
-        },
-        {
-          "date": 1686988451000,
-          "location": "images/events/5/1/3/724308.webp"
         }
       ],
-      "timestamp": 1686988800000
-    },
-    {
-      "content": "(Casual)  Programming Night",
-      "event": "293876831",
-      "photos": [
-        {
-          "date": 1686984796000,
-          "location": "images/events/5/1/3/723619.webp"
-        }
-      ],
-      "timestamp": 1687852800000
+      "timestamp": 1687193469916
     }
   ]
 }
