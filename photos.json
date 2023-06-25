@@ -1624,6 +1624,42 @@
       "timestamp": 1686988800000
     },
     {
+      "content": "",
+      "discordId": [
+        "1122103116301611098"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1122103116301611098/1122103115492114462/IMG_4427.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1122103116301611098/1122103116020580412/IMG_4423.webp"
+        }
+      ],
+      "timestamp": 1687600630594
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1122159286911512666"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1122159286911512666/1122159285254754354/IMG_2169.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1122159286911512666/1122159285590306896/IMG_2167.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1122159286911512666/1122159286072660130/IMG_2166.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1122159286911512666/1122159286584348682/IMG_2164.webp"
+        }
+      ],
+      "timestamp": 1687614022711
+    },
+    {
       "content": "(Casual)  Programming Night",
       "event": "293876831",
       "photos": [
