@@ -1669,6 +1669,36 @@
         }
       ],
       "timestamp": 1687852800000
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1123425278736224297"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1123425278736224297/1123425278056734762/IMG_20230627_1910502.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1123425278736224297/1123425278367109190/IMG_20230627_1910542.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1123425278736224297/1123425278761377911/IMG_20230627_1928592.webp"
+        }
+      ],
+      "timestamp": 1687915858683
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1123429804155359272"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1123429804155359272/1123429803882709103/Screenshot_2023-06-28-10-48-44-230_org.mozilla.firefox.webp"
+        }
+      ],
+      "timestamp": 1687916937627
     }
   ]
 }
