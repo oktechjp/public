@@ -1891,6 +1891,37 @@
             "Web Development"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "Hi everyone!\n\nit is summer and a few of our members are heading back to home country. To properly send them off, we are going to an nice Italian cafe in Kyobashi.\n\nJoin us, Webbies, for good food and nice conversations.\n\n*Note:* To book the place we need to know the number of people to join by 4th July.\n\nThe 3300 yen set menu contains:\n\n* Prosciutto and Frittatas\n* Marinated smoked salmon\n* Fried Chicken breast\n* Caesar Salad with Shrimps\n* Grilled Sausage with fried Potatos\n* Beef and Aubergine Tomatopasta",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 3300,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "294290340",
+          "image": {
+            "date": 1688724000000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 40,
+          "numberOfAllowedGuests": 4,
+          "time": 1688724000000,
+          "title": "Summer Night Dinner",
+          "topics": [
+            "Dinner"
+          ],
+          "venue": "27606535"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2626,6 +2657,18 @@
       "lng": 135.75914,
       "name": "株式会社Helpfeel",
       "postalCode": "602-0023",
+      "state": ""
+    },
+    {
+      "address": "Miyakojima Ward, Higashinodamachi, 2-chōme−7−１２",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27606535",
+      "lat": 34.697456,
+      "lng": 135.53036,
+      "name": "Aggre cafe the terrace",
+      "postalCode": "534-0024",
       "state": ""
     }
   ]
