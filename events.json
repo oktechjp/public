@@ -1792,50 +1792,6 @@
           "venue": "27584681"
         },
         {
-          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
-          "duration": 14400000,
-          "feeSettings": null,
-          "id": "293779846",
-          "image": {
-            "date": 1685433600000,
-            "location": "images/events/5/1/1/506739.webp"
-          },
-          "maxTickets": 8,
-          "numberOfAllowedGuests": 1,
-          "time": 1685433600000,
-          "title": "(Casual)  Programming Night",
-          "topics": [
-            "Cloud Computing",
-            "Computer Programming",
-            "Software Development",
-            "Web Design",
-            "Web Development"
-          ],
-          "venue": "27584681"
-        },
-        {
-          "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about Front End, Back End, and/or Cloud Computing.\n\n😄",
-          "duration": 14400000,
-          "feeSettings": null,
-          "id": "293820864",
-          "image": {
-            "date": 1685433600000,
-            "location": "images/events/5/1/1/506739.webp"
-          },
-          "maxTickets": 8,
-          "numberOfAllowedGuests": 1,
-          "time": 1685433600000,
-          "title": "(Casual)  Programming Night",
-          "topics": [
-            "Cloud Computing",
-            "Computer Programming",
-            "Software Development",
-            "Web Design",
-            "Web Development"
-          ],
-          "venue": "27584681"
-        },
-        {
           "description": "Join us for our first _\"Programming night\"_: a smaller and more casual event. Talk and work together on code in a relaxed environment.\n\nAll expertise levels and backgrounds are welcome! Come to practice your English, learn a new Programming Language, talk about ReactJS, VueJS, Python, ML, Rust, Databases, Docker, IoT, or something else you're interested in!\n\n😄",
           "duration": 9000000,
           "feeSettings": null,
