@@ -1815,7 +1815,7 @@
           "venue": "27584681"
         },
         {
-          "description": "Hello awesome People! 🤩\n\nSummer is upon us and we plan to hide away over the roofs of Osaka for a nice summer meeting.\n\nFor our first presentation, *Gregory* will be looking into the anti-chrome, specifically: Rust. In his presentation on the \"**State of Rust for Webdevelopment\",** we will get a glimpse on how it is to use Rust (the programming language) both for both the Frontend as well as Backend.\n\nAfter that, *Andrey* will be introducing us to [Imgproxy](https://github.com/imgproxy/imgproxy) and share with us how to **handle user-uploaded images with ease and confidence**. There are a lot of things to do with user images such as create previews *(or thumbnails)* of different sizes, add watermarks, crop to aspect ratio and so on and so forth. Andrey will look at what the challenges are and how imgproxy solves them.\n\nWe are looking forward to see you. 😍\n\nIn case you wonder how we are choosing the topics for the meetups: We have a presentation [proposal form](https://forms.gle/KifJzLSmcXUPxSFk7) and a channel in our discord group that we use. If there is something you wish to talk about or hope to hear something about, join us [on discord](https://owddm.com/discord) and let us know, so we can organize the meetups together.",
+          "description": "Hello awesome people! 🤩\n\nSummer is upon us and we plan to hide away over the roofs of Osaka for a nice summer meeting.\n\nFor our first presentation, *Gregory* will be looking into the anti-chrome, specifically: Rust. In his presentation on the \"**State of Rust for Web Development\",** we will get a glimpse on how it is to use Rust (the programming language) both for the Frontend, the Backend and other stuff in between.\n\nAfter that, *Andrey* will be introducing us to [Imgproxy](https://github.com/imgproxy/imgproxy) and share with us how to **handle user-uploaded images with ease and confidence**. There are a lot of things to do with user images such as create previews *(or thumbnails)* of different sizes, add watermarks, crop to aspect ratio and so on and so forth. Andrey will look at what the challenges are and how imgproxy solves them.\n\nWe are looking forward to see you. 😍\n\nIn case you wonder how we are choosing the topics for the meetups: We have a presentation [proposal form](https://forms.gle/KifJzLSmcXUPxSFk7) and a channel in our discord group that we use. If there is something you wish to talk about or hope to hear something about, join us [on discord](https://owddm.com/discord) and let us know, so we can organize the meetups together.",
           "duration": 9000000,
           "feeSettings": {
             "accepts": "CASH",
@@ -1872,8 +1872,8 @@
             "date": 1688724000000,
             "location": "images/events/5/1/1/506739.webp"
           },
-          "maxTickets": 40,
-          "numberOfAllowedGuests": 4,
+          "maxTickets": 18,
+          "numberOfAllowedGuests": 0,
           "time": 1688724000000,
           "title": "Summer Night Dinner",
           "topics": [
@@ -2575,8 +2575,8 @@
       "country": "jp",
       "crossStreet": null,
       "id": "27553394",
-      "lat": 34.705925,
-      "lng": 135.49442,
+      "lat": 0,
+      "lng": 0,
       "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA) ",
       "postalCode": "",
       "state": "al"
