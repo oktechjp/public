@@ -1838,7 +1838,7 @@
             "location": "images/events/5/1/4/196039.webp"
           },
           "maxTickets": 50,
-          "numberOfAllowedGuests": 3,
+          "numberOfAllowedGuests": 99,
           "time": 1690012800000,
           "title": "Chrome Summer Photos",
           "topics": [
@@ -1873,13 +1873,30 @@
             "location": "images/events/5/1/1/506739.webp"
           },
           "maxTickets": 18,
-          "numberOfAllowedGuests": 0,
+          "numberOfAllowedGuests": 99,
           "time": 1688724000000,
           "title": "Summer Night Dinner",
           "topics": [
             "Dinner"
           ],
           "venue": "27606535"
+        },
+        {
+          "description": "Escape the summer heat at our August Web Developer and Designer meetup!\n\n2 slots remain open for those who would like to present!",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "295357543",
+          "image": {
+            "date": 1693036800000,
+            "location": "images/events/5/1/5/028301.webp"
+          },
+          "maxTickets": 30,
+          "numberOfAllowedGuests": 0,
+          "time": 1693036800000,
+          "title": "August Meetup",
+          "topics": [
+          ],
+          "venue": "24529555"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2158,6 +2175,29 @@
             "Web Design"
           ],
           "venue": "27585838"
+        },
+        {
+          "description": "For this month's gathering of webdevs and designers in Kyoto we have 3 short talks and plenty of discussion. Come out to meet fellow professionals and practitioners, and share your experiences.\n\n* **Jake** (@Jake S on Discord/[@NakajimaYosh](https://twitter.com/NakajimaYosh) on Twitter) will be relating his adventures at [IVS Kyoto](https://www.ivs.events/2023), the largest startup conference in Japan.\n* **Joseph Curtin** ( jbcurtin) will give a machine learning lightning talk, reviewing graphing and how to render graphs using Python. We'll then train a Linear Regression on financial data and graph the Regression Line.\n* **Chad Kohalyk** (@chadkoh) will then give an overview of recent trends on open source funding, covering models for getting projects and maintainers the monetary resources they need to do their work.\n\nEach talk will be about 15 minutes with plenty of time for Q&A.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "South of Goichi Pizza on Takatsuji. Here is a visual guide: https://kyososha.jp/access/index.html",
+          "id": "294488629",
+          "image": {
+            "date": 1690619400000,
+            "location": "images/events/5/1/1/506744.webp"
+          },
+          "maxTickets": 14,
+          "numberOfAllowedGuests": 2,
+          "time": 1690619400000,
+          "title": "#IVSKyoto2023, machine learning, and open source funding",
+          "topics": [
+            "Business Funding",
+            "Machine Learning",
+            "New Technology",
+            "Open Source",
+            "Software Development"
+          ],
+          "venue": "27621042"
         }
       ],
       "foundedAt": 1657415783000,
@@ -2627,6 +2667,18 @@
       "lng": 135.53036,
       "name": "Aggre cafe the terrace",
       "postalCode": "534-0024",
+      "state": ""
+    },
+    {
+      "address": "519 Tsuzurayachō, Shimogyo Ward, Kyoto",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27621042",
+      "lat": 34.999386,
+      "lng": 135.76292,
+      "name": "コワーキング∞ラボ京創舎",
+      "postalCode": "600-8085",
       "state": ""
     }
   ]
