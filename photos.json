@@ -1699,6 +1699,36 @@
         }
       ],
       "timestamp": 1687916937627
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1144983371471138896"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983368732250163/IMG_2318.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983369067798638/IMG_2316.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983369445289994/IMG_2315.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983369894076526/IMG_2312.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983370347065497/IMG_2313.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983370762293321/IMG_2314.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1144983371471138896/1144983371164950608/IMG_2311.webp"
+        }
+      ],
+      "timestamp": 1693055708521
     }
   ]
 }
