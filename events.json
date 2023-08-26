@@ -1897,6 +1897,28 @@
           "topics": [
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "September shenanigans up ahead,\n\nWe don't know what we're up to yet, but the [Gusuku Ashibinaa](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/292146517/) is going to be hosting us once more in September.\n\nWe usually have monthly presentations. If you feel like taking your ideas in front of a stage, please send a presentation proposal via the [#presentation-proposals](https://discord.gg/Sj2GRxHrce) channel our use our [Google Form](https://forms.gle/iY5uTdpRJkxDGFJw8) so we can scribble you in.\n\nFeel free to join discord also for some small talk and to ask questions and share thoughts with the community. → [https://owddm.com/discord](https://owddm.com/discord)",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "295693488",
+          "image": {
+            "date": 1695456000000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1695456000000,
+          "title": "September Meetup (TBD)",
+          "topics": [
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2615,8 +2637,8 @@
       "country": "jp",
       "crossStreet": null,
       "id": "27553394",
-      "lat": 0,
-      "lng": 0,
+      "lat": 34.705925,
+      "lng": 135.49442,
       "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA) ",
       "postalCode": "",
       "state": "al"
