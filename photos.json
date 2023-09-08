@@ -1698,6 +1698,31 @@
       "timestamp": 1687916937627
     },
     {
+      "content": "Chrome Summer Photos",
+      "event": "294290340",
+      "discordId": [
+        "1149507698912673882"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1149507698912673882/1149507697104932995/IMG_20230722_1731313.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1149507698912673882/1149507697637593139/IMG_20230722_1747423.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1149507698912673882/1149507697931206706/IMG_20230722_1746372.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1149507698912673882/1149507698258366464/IMG_20230722_1810042.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1149507698912673882/1149507698635837490/IMG_20230722_1859192.webp"
+        }
+      ],
+      "timestamp": 1690012800000
+    },
+    {
       "content": "HTMX & CSS",
       "discordId": [
         "1144983371471138896"
