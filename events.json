@@ -1899,7 +1899,7 @@
           "venue": "24529555"
         },
         {
-          "description": "September shenanigans up ahead 🚄\n\nand we should have a good reason to get out of the house! In the [Gusuku Ashibinaa](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/292146517/) our September will have two presentations waiting for us.\n\nWe have *Christian Ulbrich* from the [dresdenjs](https://dresdenjs.github.io/dresdenjs.io/) and tc38 as guest this month with a presentation on the \"**Practical Problems with Visual Testing**\". Talking about the perils that come when testing web-component based UI libraries.\n\nOn a more basic topic, local *Mr. Kangorooman* is going to look into \"**Traceroute and Networking**\". Foundational to the internet and how we interact, this is going give some insight on why some things work and how to debug networking issues.\n\nWe are looking forward to joining us. 😃\n\nWe usually have monthly presentations, and we are inviting any If you feel like taking your ideas in front of a stage, please send a presentation proposal via the [#presentation-proposals](https://discord.gg/Sj2GRxHrce) channel our use our [Google Form](https://forms.gle/iY5uTdpRJkxDGFJw8) so we can scribble you in.\n\nFeel free to join discord also for some small talk and to ask questions and share thoughts with the community. → [https://owddm.com/discord](https://owddm.com/discord)",
+          "description": "September shenanigans up ahead 🚄\n\nand we should have a good reason to get out of the house! In the [Gusuku Ashibinaa](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/292146517/) our September will have two presentations waiting for us.\n\nWe have *Christian Ulbrich* from the [dresdenjs](https://dresdenjs.github.io/dresdenjs.io/) and tc39 as guest this month with a presentation on the \"**Practical Problems with Visual Testing**\". Talking about the perils that come when testing web-component based UI libraries.\n\nOn a more basic topic, local *Mr. Kangorooman* is going to look into \"**Traceroute and Networking**\". Foundational to the internet and how we interact, this is going give some insight on why some things work and how to debug networking issues.\n\nWe are looking forward to joining us. 😃\n\nWe usually have monthly presentations, and we are inviting any If you feel like taking your ideas in front of a stage, please send a presentation proposal via the [#presentation-proposals](https://discord.gg/Sj2GRxHrce) channel our use our [Google Form](https://forms.gle/iY5uTdpRJkxDGFJw8) so we can scribble you in.\n\nFeel free to join discord also for some small talk and to ask questions and share thoughts with the community. → [https://owddm.com/discord](https://owddm.com/discord)",
           "duration": 7200000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
@@ -2223,7 +2223,7 @@
           "venue": "27621042"
         },
         {
-          "description": "Hi Friends, 👋\n\nwe are still putting together the whole plan for the June meetup, but we are happy to announce that [Helpfeel](https://helpfeel.com/en-us/) *(prev. Nota)* will be hosting us (this time actually) and we will be looking to find snacks right there.",
+          "description": "BRING OUT YOUR KEYBOARDS! ⌨️ 🙌\n\n[Helpfeel](https://helpfeel.com/en-us/) *(prev. Nota)* will be hosting a **mechanical keyboard** social. We will line up some desks and set up our keyboards giving everyone a chance to wander around and try out different setups. Bring some drinks and snacks, and we will bring the hand sanitizer!\n\nIf you have ever considered buying a mechanical keyboard, but were intimidated by the options and the cost, this is your chance to try out a bunch in purchase before you decide how to spend your money.\n\nIf you are already in the hobby, bring your keyboards, keycaps, switches, wristrests, and all your keyboard paraphenalia! (NOTE: please post some pics of some of your stuff below in order to give people an idea of what kind of keyboards we will have at the meetup!)\n\nDo you like your keyboard to CLACK? Or prefer THOCK? Let's talk about how to achieve these sounds, what are the \"best\" switch-types\nCome and hang out with us! *Clickety-clack!*\n\n**POSTNOTE on TALKS:** Ben might give us a short lightning talk on keyboard design. If anyone else wants to give a short lightning talk please reach out to us in the comments below or [on the Discord →](https://discord.com/channels/1034792577293094972/1122354952120045628)",
           "duration": 10800000,
           "feeSettings": null,
           "howToFindUs": "In the 5F of above the Coco Ichibanya - Hard to miss.",
@@ -2232,10 +2232,10 @@
             "date": 1696060800000,
             "location": "images/events/5/1/1/506744.webp"
           },
-          "maxTickets": 24,
+          "maxTickets": 22,
           "numberOfAllowedGuests": 99,
           "time": 1696060800000,
-          "title": "September Event. TBA",
+          "title": "Mechanical Keyboard Social",
           "topics": [
             "Database Backends",
             "HTML5",

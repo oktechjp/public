@@ -1752,6 +1752,33 @@
         }
       ],
       "timestamp": 1693036800000
+    },
+    {
+      "content": "Mechanical Keyboard Social",
+      "event": "295865712",
+      "photos": [
+        {
+          "caption": "Some example of what I will bring",
+          "date": 1694517804000,
+          "location": "images/events/5/1/5/822324.webp"
+        },
+        {
+          "caption": "low profile Keychrone with wood wrist rest",
+          "date": 1694517885000,
+          "location": "images/events/5/1/5/822336.webp"
+        },
+        {
+          "caption": "My current fleet of Keychron keyboards",
+          "date": 1694517855000,
+          "location": "images/events/5/1/5/822337.webp"
+        },
+        {
+          "caption": "KWDDM - Mechanical Keyboard Social - Sat. 2023 / 09 / 30 - 17:00",
+          "date": 1694520184000,
+          "location": "images/events/5/1/5/822720.webp"
+        }
+      ],
+      "timestamp": 1696060800000
     }
   ]
 }
