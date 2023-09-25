@@ -1754,6 +1754,39 @@
       "timestamp": 1693036800000
     },
     {
+      "content": "Photos of yesterday's event at R3 Institute.",
+      "discordId": [
+        "1155366953645510728"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366951296712725/IMG_20230923_1711182.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366951569326120/IMG_20230923_1718432.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366951825182750/IMG_20230923_1738203.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366952286568448/IMG_20230923_1738202.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366952584347748/IMG_20230923_1758012.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366952869564466/IMG_20230923_1739012.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366953142206474/IMG_20230923_1825502.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1155366953645510728/1155366953419014225/IMG_20230923_1929424.webp"
+        }
+      ],
+      "timestamp": 1695531347429
+    },
+    {
       "content": "Mechanical Keyboard Social",
       "event": "295865712",
       "photos": [
@@ -1773,9 +1806,9 @@
           "location": "images/events/5/1/5/822337.webp"
         },
         {
-          "instructional": true,
           "caption": "KWDDM - Mechanical Keyboard Social - Sat. 2023 / 09 / 30 - 17:00",
           "date": 1694520184000,
+          "instructional": true,
           "location": "images/events/5/1/5/822720.webp"
         }
       ],
