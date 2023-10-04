@@ -1920,6 +1920,28 @@
             "Web Development"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "Oh! The next meetup is soon, we get the details to you soon as well!\n\nHelp Organize this event on the discord: https://owddm.com/discord",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "296533401",
+          "image": {
+            "date": 1697875200000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 30,
+          "numberOfAllowedGuests": 99,
+          "time": 1697875200000,
+          "title": "October Event. TBA",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "24529555"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2237,6 +2259,29 @@
           "numberOfAllowedGuests": 99,
           "time": 1696060800000,
           "title": "Mechanical Keyboard Social",
+          "topics": [
+            "Database Backends",
+            "HTML5",
+            "ReactJS",
+            "Typescript",
+            "Web Design"
+          ],
+          "venue": "27585838"
+        },
+        {
+          "description": "TBA.",
+          "duration": 10800000,
+          "feeSettings": null,
+          "howToFindUs": "In the 5F of above the Coco Ichibanya - Hard to miss.",
+          "id": "296487079",
+          "image": {
+            "date": 1698480000000,
+            "location": "images/events/5/1/1/506744.webp"
+          },
+          "maxTickets": 22,
+          "numberOfAllowedGuests": 99,
+          "time": 1698480000000,
+          "title": "October Event. TBA",
           "topics": [
             "Database Backends",
             "HTML5",
