@@ -1756,7 +1756,9 @@
     {
       "content": "Photos of yesterday's event at R3 Institute.",
       "discordId": [
-        "1155366953645510728"
+        "1155366953645510728",
+        "1156140824552280126",
+        "1156140881812926485"
       ],
       "photos": [
         {
@@ -1782,16 +1784,7 @@
         },
         {
           "location": "images/discord/event-photos/1155366953645510728/1155366953419014225/IMG_20230923_1929424.webp"
-        }
-      ],
-      "timestamp": 1695531347429
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1156140824552280126"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1156140824552280126/1156140822010531931/20230923_170951_OWDDM_DMO05916.webp"
         },
@@ -1812,16 +1805,7 @@
         },
         {
           "location": "images/discord/event-photos/1156140824552280126/1156140824220946432/20230923_195315_OWDDM_DMO05940.webp"
-        }
-      ],
-      "timestamp": 1695715852631
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1156140881812926485"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1156140881812926485/1156140879015317586/20230923_195411_OWDDM_DMO05944.webp"
         },
@@ -1849,6 +1833,10 @@
     {
       "content": "Mechanical Keyboard Social",
       "event": "295865712",
+      "discordId": [
+        "1157668606470013059",
+        "1157691319746035773"
+      ],
       "photos": [
         {
           "caption": "Some example of what I will bring",
@@ -1903,16 +1891,7 @@
         {
           "date": 1696080311000,
           "location": "images/events/5/1/6/219227.webp"
-        }
-      ],
-      "timestamp": 1696060800000
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1157668606470013059"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1157668606470013059/1157668604830044230/IMG_6068.webp"
         },
@@ -1924,16 +1903,7 @@
         },
         {
           "location": "images/discord/event-photos/1157668606470013059/1157668606075752508/IMG_6059.webp"
-        }
-      ],
-      "timestamp": 1696080104225
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1157691319746035773"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1157691319746035773/1157691319456645161/IMG_6060.webp"
         }
