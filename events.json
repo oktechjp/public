@@ -1942,6 +1942,28 @@
             "Web Development"
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "Event Details TBA.\n\nHelp organize it on discord: https://owddm.com/discord",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "296533487",
+          "image": {
+            "date": 1700294400000,
+            "location": "images/events/5/1/1/506739.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1700294400000,
+          "title": "November Event TBA.",
+          "topics": [
+            "Computer Programming",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2371,8 +2393,8 @@
       "country": "jp",
       "crossStreet": null,
       "id": "24529555",
-      "lat": 34.702309,
-      "lng": 135.498764,
+      "lat": 34.70231,
+      "lng": 135.49876,
       "name": "Cybozu Osaka Office",
       "postalCode": "",
       "state": ""
