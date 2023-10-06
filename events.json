@@ -1922,18 +1922,19 @@
           "venue": "27553394"
         },
         {
-          "description": "Oh! The next meetup is soon, we get the details to you soon as well!\n\nHelp Organize this event on the discord: https://owddm.com/discord",
+          "description": "Hello web friends!\n\nfinally, we don't sweat at night anymore and in this busy October, we are kindly hosted by [Cybozu](https://cybozu.co.jp) and would like to invite you for a bit more reflective event.\n\nHow can we notice planned obsolescence in tools? Is it better to plan obsolescence? How do budgets control the obsolescence in the digital world?\nIn **\"(un)planned obsolescence\"** Martin would like to invite to explore new perspectives in project planning, feature creep and power. With a focus on the web, he will show how this concept is not limited to the physical world.\n\nThere is also time for a second presentation! If you have a topic that you would like to talk about, take the chance and let us know via the [→ Discord](https://owddm.com/discord)\n\nWe hope you will join us and have a nice October! 👋",
           "duration": 7200000,
           "feeSettings": null,
           "id": "296533401",
           "image": {
-            "date": 1697875200000,
-            "location": "images/events/5/1/1/506739.webp"
+            "caption": "OWDDM - Conceptual October - Sat. 2023 / 10 / 21 - 17:00",
+            "date": 1696524023000,
+            "location": "images/events/5/1/6/353221.webp"
           },
           "maxTickets": 30,
           "numberOfAllowedGuests": 99,
           "time": 1697875200000,
-          "title": "October Event. TBA",
+          "title": "Conceptual October",
           "topics": [
             "Computer Programming",
             "Internet Professionals",
