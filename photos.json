@@ -1909,6 +1909,30 @@
         }
       ],
       "timestamp": 1696060800000
+    },
+    {
+      "content": "I should’ve taken more but I realized that we were at the end",
+      "discordId": [
+        "1165297358553239713"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1165297358553239713/1165297354874818662/IMG_0246.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1165297358553239713/1165297355881455626/IMG_0245.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1165297358553239713/1165297356707729438/IMG_0244.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1165297358553239713/1165297357534011483/IMG_0243.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1165297358553239713/1165297358318342154/IMG_0242.webp"
+        }
+      ],
+      "timestamp": 1697898940457
     }
   ]
 }
