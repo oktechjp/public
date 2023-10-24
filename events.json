@@ -2292,19 +2292,20 @@
           "venue": "27585838"
         },
         {
-          "description": "TBA.",
+          "description": "*Have you heard?* Judging from the weather, its a bit hard to to guess, but we already have the end of October! 🍁\n\nThis month, [Helpfeel](https://helpfeel.com/) will be hosting us, while we are are sharing stories over pizza. 🍕\n\nIt is perfectly fine if all you bring is yourself. 🤗 *But,* if you have something nice to share *– vaguely related to work on the web −* everyone would be happy to hear about it! ✨\n\nIf you want to share your topic in advance: you can mention it → [here](https://docs.google.com/spreadsheets/d/1rc_hHNFDp4CDsVKSIlAVKmHela7Agw22L_L01bhaSTU/edit?usp=sharing)\n\nJoin us in the discord for more conversations and updates: [https://owddm.com/discord](https://owddm.com/discord)",
           "duration": 10800000,
           "feeSettings": null,
           "howToFindUs": "In the 5F of above the Coco Ichibanya - Hard to miss.",
           "id": "296487079",
           "image": {
-            "date": 1698480000000,
-            "location": "images/events/5/1/1/506744.webp"
+            "caption": "KWDDM - All Hallows Eve Social - Sat. 2023 / 10 / 28 - 17:00",
+            "date": 1698170050000,
+            "location": "images/events/5/1/6/796490.webp"
           },
           "maxTickets": 22,
           "numberOfAllowedGuests": 99,
           "time": 1698480000000,
-          "title": "October Event. TBA",
+          "title": "All Hallows Eve Social",
           "topics": [
             "Database Backends",
             "HTML5",
