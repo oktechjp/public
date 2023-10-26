@@ -491,7 +491,8 @@
         },
         {
           "date": 1553341035000,
-          "location": "images/events/4/7/9/727383.webp"
+          "location": "images/events/4/7/9/727383.webp",
+          "removed": true
         },
         {
           "date": 1553341361000,
@@ -907,10 +908,12 @@
           "location": "images/flickr/522/49/289653.webp"
         },
         {
-          "location": "images/flickr/522/49/561739.webp"
+          "location": "images/flickr/522/49/561739.webp",
+          "removed": true
         },
         {
-          "location": "images/flickr/522/49/776955.webp"
+          "location": "images/flickr/522/49/776955.webp",
+          "removed": true
         },
         {
           "location": "images/flickr/522/49/776985.webp"
@@ -1239,10 +1242,12 @@
           "location": "images/discord/event-photos/1079551238435254292/1079551235448909854/IMG_0008.webp"
         },
         {
-          "location": "images/discord/event-photos/1079551238435254292/1079551236073857134/IMG_0016.webp"
+          "location": "images/discord/event-photos/1079551238435254292/1079551236073857134/IMG_0016.webp",
+          "removed": true
         },
         {
-          "location": "images/discord/event-photos/1079551238435254292/1079551236677840976/IMG_0023.webp"
+          "location": "images/discord/event-photos/1079551238435254292/1079551236677840976/IMG_0023.webp",
+          "removed": true
         },
         {
           "location": "images/discord/event-photos/1079551238435254292/1079551237378285708/IMG_0024.webp"
@@ -1730,10 +1735,12 @@
       "event": "295357543",
       "photos": [
         {
-          "location": "images/discord/event-photos/1144983371471138896/1144983368732250163/IMG_2318.webp"
+          "location": "images/discord/event-photos/1144983371471138896/1144983368732250163/IMG_2318.webp",
+          "removed": true
         },
         {
-          "location": "images/discord/event-photos/1144983371471138896/1144983369067798638/IMG_2316.webp"
+          "location": "images/discord/event-photos/1144983371471138896/1144983369067798638/IMG_2316.webp",
+          "removed": true
         },
         {
           "location": "images/discord/event-photos/1144983371471138896/1144983369445289994/IMG_2315.webp"
