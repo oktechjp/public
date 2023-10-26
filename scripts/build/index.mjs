@@ -237,8 +237,8 @@ async function processPhotoAlbums ({ targetFolder, cwd, transforms }) {
       ...group,
       photos: []
     }
+    group.photos = group.photos.filter(photo => !photo.removed)
     for (const photo of group.photos) {
-      if (photo.removed) continue;
       const target = {
         file: photo.location,
         instructional: photo.instructional,
