@@ -371,7 +371,7 @@
   "meetup_opinion": {
     "ranked": {
       "mean": [
-        "be_montly",
+        "be_monthly",
         "rotate_presenters",
         "personal",
         "held_in_english",
@@ -380,7 +380,7 @@
         "be_annonymous"
       ],
       "median": [
-        "be_montly",
+        "be_monthly",
         "rotate_presenters",
         "personal",
         "held_in_english",
@@ -389,7 +389,7 @@
         "be_annonymous"
       ],
       "mode": [
-        "be_montly",
+        "be_monthly",
         "rotate_presenters",
         "personal",
         "held_in_english",
@@ -457,7 +457,7 @@
           "4": 6
         }
       },
-      "be_montly": {
+      "be_monthly": {
         "count": 44,
         "min": 1,
         "max": 4,
