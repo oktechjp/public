@@ -1950,10 +1950,7 @@
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "296533487",
-          "image": {
-            "date": 1700294400000,
-            "location": "images/events/5/1/1/506739.webp"
-          },
+          "image": "511506739",
           "maxTickets": 50,
           "numberOfAllowedGuests": 5,
           "time": 1700294400000,
@@ -2315,36 +2312,6 @@
             "Web Design"
           ],
           "venue": "27585838"
-        },
-        {
-          "description": "Hello Everyone,\n\nThis December, we are attempting to connect the local tech communities.\nWe hope you join us for our last even of the year to exchange about topics that you are interested. We will bring light food and soft drinks, you bring things you would like to have a conversation about or an open mind to talk to us.\n\nIf you know already what you want to talk about, you can share your topic in advance here: [https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing)\n\nWe are currently in the process of planning a End-of-Year dinner for our sister-meetup OWDDM. In the → [Discord](https://owddm.com/discord) we will have conversations about this.\n\nWe hope to see you soon!",
-          "duration": 14400000,
-          "feeSettings": {
-            "accepts": "CASH",
-            "amount": 500,
-            "currency": "JPY",
-            "refundPolicy": {
-              "days": 0,
-              "notes": "",
-              "policies": [
-                "event_cancellation",
-                "event_rescheduled"
-              ]
-            },
-            "required": false
-          },
-          "id": "297504073",
-          "image": {
-            "date": 1702195200000,
-            "location": "images/events/e/_/2/97504073_img.webp"
-          },
-          "maxTickets": 14,
-          "numberOfAllowedGuests": 99,
-          "time": 1702195200000,
-          "title": "Light December Talks",
-          "topics": [
-          ],
-          "venue": "27705586"
         },
         {
           "description": "Hello Everyone,\n\nThis December, we are attempting to connect the local tech communities.\nWe hope you join us for our last even of the year to exchange about topics that you are interested. We will bring light food and soft drinks, you bring things you would like to have a conversation about or an open mind to talk to us.\n\nIf you know already what you want to talk about, you can share your topic in advance here: [https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing)\n\nWe are currently in the process of planning a End-of-Year dinner for our sister-meetup OWDDM. In the → [Discord](https://owddm.com/discord) we will have conversations about this.\n\nWe hope to see you soon!",
