@@ -1945,7 +1945,7 @@
           "venue": "24529555"
         },
         {
-          "description": "Event Details TBA.\n\nHelp organize it on discord: https://owddm.com/discord",
+          "description": "We are back with another OWDDM where Martin has abandoned us (he’s gone to JSCONF in Tokyo, lucky guy) and I, Destiny and friends fill in. We are happy to have you this month again! We are also very excited to see new faces! Welcome!\n\nIn this month’s meeting, Sacha joins us to give a preview of the 2023 TokyoDev Developer [Survey results](https://tokyodev-results.onrender.com/en-US/), which polled over 500 international developers working in Japan about their working conditions, as well as discuss the making of the final report.\n\nYou can learn more about Tokyo Dev [here](https://tokyodev.com/).\n\nCome with your questions! Come with your passion!! And be sure to come to mingle!\n\nIf you want to help organize, speak, or just keep in touch with us join us on our discord here: https://discord.gg/Fd4zcvUP\n\nSee you on the 18th!",
           "duration": 7200000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
@@ -1955,11 +1955,12 @@
             "location": "images/events/5/1/1/506739.webp"
           },
           "maxTickets": 50,
-          "numberOfAllowedGuests": 99,
+          "numberOfAllowedGuests": 5,
           "time": 1700294400000,
-          "title": "November Event TBA.",
+          "title": "Working Conditions in Japan Discussion",
           "topics": [
             "Computer Programming",
+            "New Technology",
             "Software Development",
             "Web Design",
             "Web Development"
@@ -2314,6 +2315,70 @@
             "Web Design"
           ],
           "venue": "27585838"
+        },
+        {
+          "description": "Hello Everyone,\n\nThis December, we are attempting to connect the local tech communities.\nWe hope you join us for our last even of the year to exchange about topics that you are interested. We will bring light food and soft drinks, you bring things you would like to have a conversation about or an open mind to talk to us.\n\nIf you know already what you want to talk about, you can share your topic in advance here: [https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing)\n\nWe are currently in the process of planning a End-of-Year dinner for our sister-meetup OWDDM. In the → [Discord](https://owddm.com/discord) we will have conversations about this.\n\nWe hope to see you soon!",
+          "duration": 14400000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "297504073",
+          "image": {
+            "date": 1702195200000,
+            "location": "images/events/e/_/2/97504073_img.webp"
+          },
+          "maxTickets": 14,
+          "numberOfAllowedGuests": 99,
+          "time": 1702195200000,
+          "title": "Light December Talks",
+          "topics": [
+          ]
+        },
+        {
+          "description": "Hello Everyone,\n\nThis December, we are attempting to connect the local tech communities.\nWe hope you join us for our last even of the year to exchange about topics that you are interested. We will bring light food and soft drinks, you bring things you would like to have a conversation about or an open mind to talk to us.\n\nIf you know already what you want to talk about, you can share your topic in advance here: [https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing)\n\nWe are currently in the process of planning a End-of-Year dinner for our sister-meetup OWDDM. In the → [Discord](https://owddm.com/discord) we will have conversations about this.\n\nWe hope to see you soon!",
+          "duration": 14400000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "297504081",
+          "image": {
+            "date": 1702195200000,
+            "location": "images/events/5/1/7/443598.webp"
+          },
+          "maxTickets": 14,
+          "numberOfAllowedGuests": 99,
+          "time": 1702195200000,
+          "title": "Light December Talks",
+          "topics": [
+            "New Technology",
+            "Open Source",
+            "PHP",
+            "Software Development",
+            "Web Design"
+          ],
+          "venue": "27705586"
         }
       ],
       "foundedAt": 1657415783000,
@@ -2796,6 +2861,18 @@
       "name": "コワーキング∞ラボ京創舎",
       "postalCode": "600-8085",
       "state": ""
+    },
+    {
+      "address": "153 Tennocho, Shimogyo Ward",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27705586",
+      "lat": 35.001156,
+      "lng": 135.76956,
+      "name": "Kamogawa Creative Base",
+      "postalCode": "meetup8",
+      "state": "id"
     }
   ]
 }
