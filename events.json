@@ -1950,7 +1950,10 @@
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "296533487",
-          "image": "511506739",
+          "image": {
+            "date": 1700294400000,
+            "location": "images/events/2/9/6/533487p.webp"
+          },
           "maxTickets": 50,
           "numberOfAllowedGuests": 5,
           "time": 1700294400000,
