@@ -1720,7 +1720,7 @@
             "Web Design",
             "Web Development"
           ],
-          "venue": "27553386"
+          "venue": "27553394"
         },
         {
           "description": "Happy Spring!👋\n\nThis is not a mistake! We have **two Hanamis** this year!\nTo make it easier for people from other parts of Kansai to join and also because the weather is sometimes tricky, we decided to have a second Hanami one week after [our other Hanami event in Kyoto](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/292145752/). 🌸\n\nOur friends at [HNKansai](https://www.meetup.com/hacker-news-kansai/events/292273445/) decided to join us and we would like to invite you to hang out together. 🤗 Bring nice snacks and drinks that we share and let's have easy conversations.\n\nWe plan to start around noon and will be there until evening. Of course you are free to join/leave as it suits you ☺️\n\n*Note:* We are a group of grown-ups but some of us have kids and we want to welcome them and their families at the meetup too!\n\nIf you have any questions are want to connect on other ways, please [join us in the discord](https://owddm.com/discord).",
@@ -1966,6 +1966,41 @@
             "Web Development"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "Can you believe it? 2023 is coming to an end. 🤯\n\nAnd how busy of a year it was! We certainly are finding us looking forward for a bit of a rest and push a bit of a break on the regular events for our End-of-Year dinner.\n\nThis year we are having it at [Nanone](https://maps.app.goo.gl/sye9edTB7uxUBFe46) this year, a nice Izakaya with an excellent kitchen. Join us at 17:00 for a 3h dinner with 飲み放題 (all-you-can-drink). ( [Countdown](https://www.timeanddate.com/countdown/generic?iso=20231223T17&p0=671) )\n\nWe hope that you can join us, but if not, maybe you want to come by at our Kyoto event this month: [KWDDM - Light December Talks - 2023/12/10](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/297504081/)\n\nIn any case, we hope you have a good end of year and we see you again in 2024!",
+          "duration": 10800000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 4500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "297594896",
+          "image": {
+            "date": 1703318400000,
+            "location": "images/events/5/1/7/528173.webp"
+          },
+          "maxTickets": 30,
+          "numberOfAllowedGuests": 99,
+          "time": 1703318400000,
+          "title": "End of 2023 Dinner",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27707749"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2366,75 +2401,80 @@
   },
   "venues": [
     {
-      "address": "3 Chome-6-3 Awajimachi Chūō-ku, Ōsaka-shi",
-      "city": "Osaka-Fu",
-      "country": "jp",
-      "crossStreet": null,
-      "id": "21427172",
-      "lat": 0,
-      "lng": 0,
-      "name": "Caffe Pascucci",
-      "postalCode": "",
-      "state": ""
-    },
-    {
-      "address": "Housen Bldg B1F 2-16-13 Nishi-shinsaibashi Chuo-ku | 大阪府大阪市中央区西心斎橋２丁目１６−１３",
+      "address": "3 Chome-6-3 Awajimachi Chūō-ku",
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/t6MWWptqjio2EyHU8",
+      "id": "21427172",
+      "lat": 34.6866328,
+      "lng": 135.4986822,
+      "name": "Caffe Pascucci",
+      "postalCode": "541-0047",
+      "state": ""
+    },
+    {
+      "address": "Housen Bldg B1F 2-16-13 Nishi-shinsaibashi Chuo-ku",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/EG1Wss9BEakpHsQK7",
       "id": "22372122",
-      "lat": 0,
-      "lng": 0,
+      "lat": 34.6694421,
+      "lng": 135.4946349,
       "name": "L & L",
-      "postalCode": "",
+      "postalCode": "542-0086",
       "state": ""
     },
     {
       "address": "大阪市北区大深町3-1, 7F (北３エレベーター)",
-      "city": "〒530-0011 ",
+      "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/6FMbXVASmWySBJFr7",
       "id": "22577042",
-      "lat": 0,
-      "lng": 0,
+      "lat": 34.7053655,
+      "lng": 135.4917877,
       "name": "Knowledge Salon",
-      "postalCode": "",
+      "postalCode": "530-0011",
       "state": ""
     },
     {
-      "address": "553-0003大阪市福島区福島 6-12-13",
+      "address": "大阪市福島区福島 6-12-13",
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
       "id": "23994174",
-      "lat": 0,
-      "lng": 0,
+      "lat": 34.6996201,
+      "lng": 135.4850541,
       "name": "C7 Coworking",
-      "postalCode": "",
+      "postalCode": "553-0003",
       "state": ""
     },
     {
-      "address": "18th Floor, Grand Front Tower B, Ofukacho 3-1, Kita-ku, Osaka-shi, Osaka, Japan Zipcode: 530-0011",
+      "address": "18th Floor, Grand Front Tower B, Ofukacho 3-1, Kita-ku",
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/qqYJ2aQjYTCDvxnRA",
       "id": "24213835",
       "lat": 34.703922,
       "lng": 135.49338,
       "name": "Aiming Inc",
-      "postalCode": "",
+      "postalCode": "530-0011",
       "state": ""
     },
     {
-      "address": "〒530-0017 大阪府大阪市北区角田町8番1号 梅田阪急ビルオフィスタワー 35階",
+      "address": "大阪府大阪市北区角田町8番1号 梅田阪急ビルオフィスタワー 35階",
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/ckLcuHaSLL439o4c6",
       "id": "24529555",
       "lat": 34.70231,
       "lng": 135.49876,
       "name": "Cybozu Osaka Office",
-      "postalCode": "",
+      "postalCode": "530-0017",
       "state": ""
     },
     {
@@ -2442,11 +2482,12 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/phHJLfsA1NTxQr5k8",
       "id": "24870768",
       "lat": 34.696903,
       "lng": 135.496399,
       "name": "Synergy Marketing",
-      "postalCode": "",
+      "postalCode": "530-0003",
       "state": ""
     },
     {
@@ -2454,11 +2495,12 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/DKKHPreHeHKQX2pN9",
       "id": "24945450",
       "lat": 34.698864,
       "lng": 135.49643,
       "name": "Maharaja",
-      "postalCode": "",
+      "postalCode": "530-0001",
       "state": ""
     },
     {
@@ -2466,23 +2508,25 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/HScS8JFzRjPBC33R7",
       "id": "25085262",
       "lat": 34.719547,
       "lng": 135.484604,
       "name": "Juso Coworking",
-      "postalCode": "",
+      "postalCode": "532-0023",
       "state": ""
     },
     {
-      "address": "今出川通 Kamigyo Ward,",
+      "address": "今出川通 Kamigyo Ward",
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/AnXDUxmQNzeK2Eqk9",
       "id": "25472037",
       "lat": 35.029816,
       "lng": 135.77087,
       "name": "Kamogawa delta",
-      "postalCode": "",
+      "postalCode": "602-0822",
       "state": ""
     },
     {
@@ -2490,11 +2534,12 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/XPWj7kkTjnwb1mWz6",
       "id": "25511520",
       "lat": 34.693317,
       "lng": 135.49469,
       "name": "住友中之島ビル",
-      "postalCode": "",
+      "postalCode": "530-0005",
       "state": ""
     },
     {
@@ -2502,11 +2547,12 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/8xrT3QR2nUWmYoxs8",
       "id": "25620385",
       "lat": 34.702446,
       "lng": 135.49004,
       "name": "Galleria Pizza",
-      "postalCode": "",
+      "postalCode": "553-0003",
       "state": ""
     },
     {
@@ -2514,11 +2560,12 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/8UkNEmL4zoaTz9Z36",
       "id": "25630979",
       "lat": 34.704445,
       "lng": 135.50116,
       "name": "阪急ファイブアネックスビル　GVH#5",
-      "postalCode": "",
+      "postalCode": "530-0017",
       "state": ""
     },
     {
@@ -2526,11 +2573,12 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/hDEjypf9xAp84ead7",
       "id": "25928725",
       "lat": 34.704113,
       "lng": 135.49483,
-      "name": "Sakura  Internet",
-      "postalCode": "meetup3",
+      "name": "Sakura Internet",
+      "postalCode": "530-0011",
       "state": "al"
     },
     {
@@ -2538,6 +2586,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/1BLky3NbedFyiida6",
       "id": "26262059",
       "lat": 34.684658,
       "lng": 135.5069,
@@ -2550,6 +2599,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/1BLky3NbedFyiida6",
       "id": "26378946",
       "lat": 34.684658,
       "lng": 135.5069,
@@ -2570,22 +2620,11 @@
       "state": ""
     },
     {
-      "address": "Kyoto",
-      "city": "Kyoto",
-      "country": "jp",
-      "crossStreet": null,
-      "id": "26534916",
-      "lat": 35.031002,
-      "lng": 135.77028,
-      "name": "Kamo River",
-      "postalCode": "",
-      "state": ""
-    },
-    {
       "address": "信濃橋三井 ビルディング 7 階, １丁目-１１ 靱本町 西区 大阪市西区靱本町",
       "city": "大阪府",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/6Bd2sy5FPuoyb9FV9",
       "id": "26539881",
       "lat": 34.68406,
       "lng": 135.49634,
@@ -2610,6 +2649,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/LnUJk1aa5ko4V57w7",
       "id": "26936190",
       "lat": 34.711544,
       "lng": 135.5782,
@@ -2622,6 +2662,7 @@
       "city": "Hyogo",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/koWHoizQB6n97mVq7",
       "id": "27024215",
       "lat": 34.737232,
       "lng": 135.23344,
@@ -2634,10 +2675,11 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/DNLfWXdqkEJkxMJT9",
       "id": "27310813",
       "lat": 34.65817,
       "lng": 135.5177,
-      "name": "9-chōme-3-1 Uehonmachi",
+      "name": "Laugh Rough Laugh",
       "postalCode": "543-0001",
       "state": ""
     },
@@ -2646,18 +2688,20 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/hBpjfE2L3sX5npXw9",
       "id": "27370028",
       "lat": 34.726078,
       "lng": 135.4972,
       "name": "Kai Share Office - Shin Osaka",
-      "postalCode": "meetup3",
-      "state": "al"
+      "postalCode": "532-0011",
+      "state": ""
     },
     {
       "address": "Nakagyo Ward, Tearaimizuchō, 670番地 京都フクトクビル 2F",
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/oRLi1iRQeEwTFBuJ6",
       "id": "27370201",
       "lat": 35.005253,
       "lng": 135.76003,
@@ -2670,6 +2714,7 @@
       "city": "京都府",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/mg9dc7h75jaesQWWA",
       "id": "27382018",
       "lat": 34.99429,
       "lng": 135.7654,
@@ -2682,6 +2727,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/2SLtfV2mr7WyC63VA",
       "id": "27394125",
       "lat": 34.700623,
       "lng": 135.52222,
@@ -2694,6 +2740,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/3oZvajWNEkQTwuA29",
       "id": "27398802",
       "lat": 34.680374,
       "lng": 135.51807,
@@ -2706,6 +2753,7 @@
       "city": "京都府",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/aMSpGqw4rG9aa9A58",
       "id": "27423406",
       "lat": 35.01456,
       "lng": 135.7352,
@@ -2718,6 +2766,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/fFiTEZXKEJXKqC4U6",
       "id": "27479006",
       "lat": 34.700348,
       "lng": 135.5005,
@@ -2726,22 +2775,11 @@
       "state": ""
     },
     {
-      "address": "北区大深町４−20, Grandfront C Tower",
-      "city": "大阪市",
-      "country": "jp",
-      "crossStreet": null,
-      "id": "27540345",
-      "lat": 34.704254,
-      "lng": 135.49474,
-      "name": "Gusuku Ashibinaa Osaka",
-      "postalCode": "",
-      "state": "al"
-    },
-    {
       "address": "Nakagyo Ward, Tearaimizuchō, ６４７ トキワビル 4-B",
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/TkT4Z7FTRa58Bdmk7",
       "id": "27544400",
       "lat": 35.00591,
       "lng": 135.76,
@@ -2751,33 +2789,23 @@
     },
     {
       "address": "北区大深町 3-1, グランフロント大阪 Tower C 16F",
-      "city": "Osaka",
-      "country": "jp",
-      "crossStreet": null,
-      "id": "27553386",
-      "lat": 34.70587,
-      "lng": 135.49481,
-      "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA)",
-      "postalCode": "meetup3",
-      "state": "al"
-    },
-    {
-      "address": "北区大深町 3-1, グランフロント大阪 Tower C 16F",
       "city": "大阪市",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/sgjS8rojzDs8TRTe8",
       "id": "27553394",
       "lat": 34.705925,
       "lng": 135.49442,
       "name": "R3 Institute Ltd. (gusuku Ashibinaa OSAKA) ",
-      "postalCode": "",
-      "state": "al"
+      "postalCode": "530-0011",
+      "state": ""
     },
     {
       "address": "Shimogyo Ward, Ōmandokorochō, ６８０−１, No8 Hase Building, 2F 3F（受付",
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/Lgpx3XK7YBeE42RcA",
       "id": "27573606",
       "lat": 35.001007,
       "lng": 135.75932,
@@ -2786,15 +2814,16 @@
       "state": ""
     },
     {
-      "address": "530-0005 Osaka, Kita Ward, Nakanoshima, 3 Chome−1−8,",
+      "address": "Kita Ward, Nakanoshima, 3 Chome−1−8",
       "city": "Osaka",
       "country": "JP",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/j2WsFabatYRuYv2g9",
       "id": "27584681",
       "lat": 34.691803,
       "lng": 135.49329,
       "name": "co-ba nakanoshima",
-      "postalCode": "meetup3",
+      "postalCode": "530-0005",
       "state": ""
     },
     {
@@ -2802,6 +2831,7 @@
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/nGHGqWBjS3j7ugyv5",
       "id": "27585838",
       "lat": 35.030567,
       "lng": 135.75914,
@@ -2814,6 +2844,7 @@
       "city": "Osaka",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/yjs9GLMkRGu5C9h87",
       "id": "27606535",
       "lat": 34.697456,
       "lng": 135.53036,
@@ -2826,6 +2857,7 @@
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/koFkMbNWZb23JDnR7",
       "id": "27621042",
       "lat": 34.999386,
       "lng": 135.76292,
@@ -2838,12 +2870,26 @@
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/DLx8gy7RjQsfnyx16",
       "id": "27705586",
       "lat": 35.001156,
       "lng": 135.76956,
       "name": "Kamogawa Creative Base",
-      "postalCode": "meetup8",
-      "state": "id"
+      "postalCode": "600-8013",
+      "state": ""
+    },
+    {
+      "address": "7-chōme-2-6 Fukushima, Fukushima Ward, Osaka",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "gmaps": "https://maps.app.goo.gl/FBQxFzfAR8wMfAFa9",
+      "id": "27707749",
+      "lat": 34.69632,
+      "lng": 135.4851,
+      "name": "Vegetables Sushi Nanone",
+      "postalCode": "553-0003",
+      "state": ""
     }
   ]
 }
