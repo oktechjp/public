@@ -2374,8 +2374,8 @@
           "venue": "27585838"
         },
         {
-          "description": "Hello Everyone,\n\nThis December, we are attempting to connect the local tech communities.\nWe hope you join us for our last even of the year to exchange about topics that you are interested. We will bring light food and soft drinks, you bring things you would like to have a conversation about or an open mind to talk to us.\n\nIf you know already what you want to talk about, you can share your topic in advance here: [https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing)\n\nWe are currently in the process of planning a End-of-Year dinner for our sister-meetup OWDDM. In the → [Discord](https://owddm.com/discord) we will have conversations about this.\n\nWe hope to see you soon!",
-          "duration": 14400000,
+          "description": "Hello Everyone,\n\n**Important:** Time change from 17:00 → **18:00** *(door open 17:45)*\n\nThis December, we are attempting to connect the local tech communities.\nWe hope you join us for our last event of the year to exchange topics that you are interested in. We will bring light food and soft drinks, you bring things you would like to have a conversation about or an open mind to talk to us.\n\nIf you know already what you want to talk about, you can share your topic in advance here: [https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1LjyLyFPHmNlSp6uiVgnTfIY5VV9T9y9WQP0g5iITL7M/edit?usp=sharing)\n\nWe are currently in the process of planning an End-of-Year dinner for our sister-meetup OWDDM. In the → [Discord](https://owddm.com/discord) we will have conversations about this. You can also follow us on [LinkedIn](https://www.instagram.com/grottadellamore/) for more updates.\n\nWe hope to see you soon!",
+          "duration": 10800000,
           "feeSettings": {
             "accepts": "CASH",
             "amount": 500,
@@ -2392,12 +2392,13 @@
           },
           "id": "297504081",
           "image": {
-            "date": 1702195200000,
-            "location": "images/events/5/1/7/443598.webp"
+            "caption": "KWDDM - Light December Talks - Sun. 2023 / 12 / 10 - 18:00",
+            "date": 1702179715000,
+            "location": "images/events/5/1/7/812304.webp"
           },
-          "maxTickets": 14,
+          "maxTickets": 15,
           "numberOfAllowedGuests": 99,
-          "time": 1702195200000,
+          "time": 1702198800000,
           "title": "Light December Talks",
           "topics": [
             "New Technology",
