@@ -1989,6 +1989,7 @@
             "date": 1703318400000,
             "location": "images/events/5/1/7/528173.webp"
           },
+          "isCancelled": true,
           "maxTickets": 30,
           "numberOfAllowedGuests": 99,
           "time": 1703318400000,
@@ -2033,7 +2034,7 @@
       "state": "",
       "timezone": "Asia/Tokyo",
       "urlname": "osaka-web-designers-and-developers-meetup",
-      "welcomeBlurb": "Hey,\n\nWelcome to OWDDM! \n\nWe appreciate you joining us. \n\nIf you have any questions, let us know and we will do our best to clarify.\nCurrently we are running a survey, it would be awesome if you could take a few minutes to fill it out: https://forms.gle/2PLnwwhyiiGGZ9bd9\n\nWe look forward to working with you! :)\n\nCheers!\n\nThe Organizers @\nOsaka Web Designers and Developers Meetup",
+      "welcomeBlurb": "Hey,\n\nWelcome to OWDDM! \n\nWe appreciate you joining us. \n\nIf you have any questions, let us know and we will do our best to clarify.\nCurrently we are running a survey, it would be awesome if you could take a few minutes to fill it out: https://forms.gle/2PLnwwhyiiGGZ9bd9\n\nAlso, we are using Discord to chat outside of our meetups. Feel free to join us here: https://owddm.com/discord\n\nWe look forward to working with you! :)\n\nCheers!\n\nThe Organizers @\nOsaka Web Designers and Developers Meetup",
       "zip": "meetup3"
     },
     "36450361": {
