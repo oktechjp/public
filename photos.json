@@ -2050,6 +2050,97 @@
         }
       ],
       "timestamp": 1700314114268
+    },
+    {
+      "content": "Light December Talks",
+      "event": "297504081",
+      "photos": [
+        {
+          "date": 1702198544000,
+          "location": "images/events/5/1/7/818857.webp"
+        },
+        {
+          "date": 1702198741000,
+          "location": "images/events/5/1/7/818867.webp"
+        },
+        {
+          "date": 1702215829000,
+          "location": "images/events/5/1/7/821977.webp"
+        },
+        {
+          "date": 1702215807000,
+          "location": "images/events/5/1/7/821979.webp"
+        },
+        {
+          "date": 1702215821000,
+          "location": "images/events/5/1/7/821983.webp"
+        },
+        {
+          "date": 1702215830000,
+          "location": "images/events/5/1/7/821984.webp"
+        },
+        {
+          "date": 1702215836000,
+          "location": "images/events/5/1/7/821986.webp"
+        },
+        {
+          "date": 1702215832000,
+          "location": "images/events/5/1/7/821996.webp"
+        },
+        {
+          "date": 1702215837000,
+          "location": "images/events/5/1/7/822006.webp"
+        },
+        {
+          "date": 1702229871000,
+          "location": "images/events/5/1/7/827796.webp"
+        },
+        {
+          "date": 1702229874000,
+          "location": "images/events/5/1/7/827797.webp"
+        },
+        {
+          "date": 1702229874000,
+          "location": "images/events/5/1/7/827798.webp"
+        },
+        {
+          "date": 1702229873000,
+          "location": "images/events/5/1/7/827799.webp"
+        },
+        {
+          "date": 1702229873000,
+          "location": "images/events/5/1/7/827800.webp"
+        },
+        {
+          "date": 1702229873000,
+          "location": "images/events/5/1/7/827801.webp"
+        },
+        {
+          "date": 1702229864000,
+          "location": "images/events/5/1/7/827802.webp"
+        },
+        {
+          "date": 1702229872000,
+          "location": "images/events/5/1/7/827803.webp"
+        },
+        {
+          "date": 1702229873000,
+          "location": "images/events/5/1/7/827804.webp"
+        },
+        {
+          "date": 1702229875000,
+          "location": "images/events/5/1/7/827805.webp"
+        },
+        {
+          "date": 1702229871000,
+          "location": "images/events/5/1/7/827806.webp"
+        },
+        {
+          "date": 1702229873000,
+          "location": "images/events/5/1/7/827807.webp"
+        }
+      ],
+      "timestamp": 1702198800000
     }
   ]
 }
