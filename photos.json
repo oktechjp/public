@@ -1918,10 +1918,11 @@
       "timestamp": 1696060800000
     },
     {
-      "content": "I should’ve taken more but I realized that we were at the end",
+      "content": "Conceptual October",
       "discordId": [
         "1165297358553239713"
       ],
+      "event": "296533401",
       "photos": [
         {
           "location": "images/discord/event-photos/1165297358553239713/1165297354874818662/IMG_0246.webp"
@@ -1939,7 +1940,7 @@
           "location": "images/discord/event-photos/1165297358553239713/1165297358318342154/IMG_0242.webp"
         }
       ],
-      "timestamp": 1697898940457
+      "timestamp": 1697875200000
     },
     {
       "content": "Working Conditions in Japan Discussion",
@@ -1947,11 +1948,13 @@
       "photos": [
         {
           "date": 1700294400000,
-          "location": "images/events/2/9/6/533487_add.webp"
+          "location": "images/events/2/9/6/533487_add.webp",
+          "instructional": true
         },
         {
           "date": 1700294400000,
-          "location": "images/events/2/9/6/533487p.webp"
+          "location": "images/events/2/9/6/533487p.webp",
+          "instructional": true
         },
         {
           "date": 1700299648000,
@@ -2013,16 +2016,19 @@
       "timestamp": 1700294400000
     },
     {
-      "content": "",
+      "content": "Light December Talks",
+      "event": "297504081",
       "discordId": [
         "1175427331729399899"
       ],
       "photos": [
         {
-          "location": "images/discord/event-photos/1175427331729399899/1175427324380975174/IMG_1487.webp"
+          "location": "images/discord/event-photos/1175427331729399899/1175427324380975174/IMG_1487.webp",
+          "instructional": true
         },
         {
-          "location": "images/discord/event-photos/1175427331729399899/1175427325056266350/IMG_1486.webp"
+          "location": "images/discord/event-photos/1175427331729399899/1175427325056266350/IMG_1486.webp",
+          "instructional": true
         },
         {
           "location": "images/discord/event-photos/1175427331729399899/1175427325777682562/IMG_1485.webp"
