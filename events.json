@@ -1952,7 +1952,7 @@
           "id": "296533487",
           "image": {
             "date": 1700294400000,
-            "location": "images/events/2/9/6/533487p.webp"
+            "location": "images/events/5/1/1/506739.webp"
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 5,
@@ -2411,18 +2411,19 @@
           "venue": "27705586"
         },
         {
-          "description": "Hello Friends, we have a date and a location for our January 2024 event but we are still working on the topic/schedule.\n\nIn the meantime, please consider joining our other events:\n\n* [Kyoto Light December Talks](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/297504081/) (Dec. 10th 2023)\n* [End of year Party](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/297594896/) (Dec. 23rd 2023)\n\nIf you have a topic that you would like to talk about, take the chance and let us know via the [→ Discord](https://owddm.com/discord)\n\nWe hope you will join us and have a nice end of year! 👋",
+          "description": "Hello Friends, and a Happy New Year to all!\n\nOur January 2024 meetup will be hosted at C2 Kyoto and feature new speaker Kévin Combriat. He will give an introduction to Rust for online services with a particular focus on Axum. 🦀\n\nAs always, if you'd like to get in touch or have any other topics that you would like to talk about, come and say hi in the [→ Discord](https://owddm.com/discord)\n\nWe look forward to welcoming you soon! 👋",
           "duration": 7200000,
           "feeSettings": null,
           "id": "297610678",
           "image": {
-            "date": 1705132800000,
-            "location": "images/events/5/1/1/506744.webp"
+            "caption": "KWDDM - Rust on the Web - Sat. 2024 / 01 / 13 - 17:00",
+            "date": 1704637099000,
+            "location": "images/events/5/1/8/354252.webp"
           },
           "maxTickets": 24,
           "numberOfAllowedGuests": 99,
           "time": 1705132800000,
-          "title": "TBA.",
+          "title": "Rust for the Web",
           "topics": [
             "New Technology",
             "Open Source",
@@ -2887,7 +2888,6 @@
       "city": "Kyoto",
       "country": "jp",
       "crossStreet": null,
-      "gmaps": "https://maps.app.goo.gl/nGHGqWBjS3j7ugyv5",
       "id": "27585838",
       "lat": 35.030567,
       "lng": 135.75914,
