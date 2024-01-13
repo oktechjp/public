@@ -2063,11 +2063,13 @@
       "photos": [
         {
           "date": 1702198544000,
-          "location": "images/events/5/1/7/818857.webp"
+          "location": "images/events/5/1/7/818857.webp",
+          "instructional": true
         },
         {
           "date": 1702198741000,
-          "location": "images/events/5/1/7/818867.webp"
+          "location": "images/events/5/1/7/818867.webp",
+          "instructional": true
         },
         {
           "date": 1702215829000,
