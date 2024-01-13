@@ -2004,18 +2004,18 @@
           "venue": "27707749"
         },
         {
-          "description": "Hello Friends, we have a date and a location for our January 2024 event but we are still working on the topic/schedule.\n\nIn the meantime, please consider joining our other events:\n\n* [Kyoto Light December Talks](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/297504081/) (Dec. 10th 2023)\n* [End of year Party](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/297594896/) (Dec. 23rd 2023)\n* [Kyoto - Jan. 2024](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/297610678/) (Jan. 13th 2024)\n\nIf you have a topic that you would like to talk about, take the chance and let us know via the [→ Discord](https://owddm.com/discord)\n\nWe hope you will join us and have a nice end of year! 👋",
+          "description": "Are you thinking about getting into tech? Here is your chance to learn from those who have gone before! OWWDM is kicking off a new series where members of our tech community share their path in tech. Each story is unique, and could inspire you to your own journey.\n\nThis month **Chad Kohalyk** introduces us to his 20 year career from being solopreneur to working inside a multinational, to running a remote-first global research startup. He will be joined by a panel to discuss the effects of macro technology trends, why being a generalist can be a *good* thing, and what he looks for when hiring.\n\nThe presentation will go for about 20 minutes, followed by discussion and socializing. Come learn from your peers, and share *your* story too!\n\nFurthermore, if you have a topic that you would like to talk about, take the chance and let us know via the [→ Discord](https://owddm.com/discord)\n\nHappy New Year!",
           "duration": 9000000,
           "feeSettings": null,
           "id": "297676223",
           "image": {
-            "date": 1706342400000,
-            "location": "images/events/5/1/1/506739.webp"
+            "date": 1705112815000,
+            "location": "images/events/5/1/8/457344.webp"
           },
           "maxTickets": 30,
           "numberOfAllowedGuests": 99,
           "time": 1706342400000,
-          "title": "TBA.",
+          "title": "How to Get into Tech: Part 1",
           "topics": [
             "Computer Programming",
             "Internet Professionals",
