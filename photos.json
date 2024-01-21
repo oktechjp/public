@@ -2063,13 +2063,13 @@
       "photos": [
         {
           "date": 1702198544000,
-          "location": "images/events/5/1/7/818857.webp",
-          "instructional": true
+          "instructional": true,
+          "location": "images/events/5/1/7/818857.webp"
         },
         {
           "date": 1702198741000,
-          "location": "images/events/5/1/7/818867.webp",
-          "instructional": true
+          "instructional": true,
+          "location": "images/events/5/1/7/818867.webp"
         },
         {
           "date": 1702215829000,
@@ -2149,6 +2149,77 @@
         }
       ],
       "timestamp": 1702198800000
+    },
+    {
+      "content": "Rust for the Web",
+      "event": "297610678",
+      "photos": [
+        {
+          "date": 1705209152000,
+          "location": "images/events/5/1/8/484623.webp"
+        },
+        {
+          "date": 1705209153000,
+          "location": "images/events/5/1/8/484631.webp"
+        },
+        {
+          "date": 1705209152000,
+          "location": "images/events/5/1/8/484635.webp"
+        },
+        {
+          "date": 1705209153000,
+          "location": "images/events/5/1/8/484636.webp"
+        },
+        {
+          "date": 1705209153000,
+          "location": "images/events/5/1/8/484641.webp"
+        },
+        {
+          "date": 1705209153000,
+          "location": "images/events/5/1/8/484642.webp"
+        },
+        {
+          "date": 1705209153000,
+          "location": "images/events/5/1/8/484643.webp"
+        },
+        {
+          "date": 1705210274000,
+          "location": "images/events/5/1/8/484916.webp"
+        },
+        {
+          "date": 1705210282000,
+          "location": "images/events/5/1/8/484917.webp"
+        },
+        {
+          "date": 1705210274000,
+          "location": "images/events/5/1/8/484918.webp"
+        },
+        {
+          "date": 1705210275000,
+          "location": "images/events/5/1/8/484919.webp"
+        },
+        {
+          "date": 1705210276000,
+          "location": "images/events/5/1/8/484920.webp"
+        },
+        {
+          "date": 1705210282000,
+          "location": "images/events/5/1/8/484921.webp"
+        },
+        {
+          "date": 1705210276000,
+          "location": "images/events/5/1/8/484922.webp"
+        },
+        {
+          "date": 1705210274000,
+          "location": "images/events/5/1/8/484923.webp"
+        },
+        {
+          "date": 1705210542000,
+          "location": "images/events/5/1/8/484971.webp"
+        }
+      ],
+      "timestamp": 1705132800000
     }
   ]
 }
