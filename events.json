@@ -2012,7 +2012,7 @@
             "date": 1705112815000,
             "location": "images/events/5/1/8/457344.webp"
           },
-          "maxTickets": 30,
+          "maxTickets": 50,
           "numberOfAllowedGuests": 99,
           "time": 1706342400000,
           "title": "How to Get into Tech: Part 1",
@@ -2424,6 +2424,28 @@
           "numberOfAllowedGuests": 99,
           "time": 1705132800000,
           "title": "Rust for the Web",
+          "topics": [
+            "New Technology",
+            "Open Source",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27513738"
+        },
+        {
+          "description": "Woohoo, January at C2 Kyoto was awesome,\n\nlet's figure out what to do in February! Join us in the [→ Discord](https://owddm.com/discord) for proposing _(or requesting)_ a presentation topic!\n\nWe look forward to welcoming you soon! 👋",
+          "duration": 10800000,
+          "feeSettings": null,
+          "id": "298711313",
+          "image": {
+            "date": 1705996800000,
+            "location": "images/events/5/1/1/506744.webp"
+          },
+          "maxTickets": 24,
+          "numberOfAllowedGuests": 99,
+          "time": 1705996800000,
+          "title": "February Event, Topic: TBA.",
           "topics": [
             "New Technology",
             "Open Source",
