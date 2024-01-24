@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-require('dotenv').config()
-
 ;(async () => {
   const { main } = await import('../index.mjs')
   const formats = ['jpg', 'webp']

@@ -1,5 +1,5 @@
 import sharp from 'sharp'
-import { readFile, writeFile, mkdir, access, cp, unlink, readdir } from 'node:fs/promises'
+import { readFile, writeFile, mkdir, access, cp, unlink } from 'node:fs/promises'
 import { join, relative, dirname } from 'node:path'
 import stringify from 'json-stringify-pretty-compact'
 import pmap from 'p-map'
