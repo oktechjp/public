@@ -2459,28 +2459,6 @@
           "venue": "27513738"
         },
         {
-          "description": "Woohoo, January at C2 Kyoto was awesome,\n\nlet's figure out what to do in February! Join us in the [→ Discord](https://owddm.com/discord) for proposing _(or requesting)_ a presentation topic!\n\nWe look forward to welcoming you soon! 👋",
-          "duration": 10800000,
-          "feeSettings": null,
-          "id": "298711313",
-          "image": {
-            "date": 1705996800000,
-            "location": "images/events/5/1/1/506744.webp"
-          },
-          "maxTickets": 24,
-          "numberOfAllowedGuests": 99,
-          "time": 1705996800000,
-          "title": "February Event, Topic: TBA.",
-          "topics": [
-            "New Technology",
-            "Open Source",
-            "Software Development",
-            "Web Design",
-            "Web Development"
-          ],
-          "venue": "27513738"
-        },
-        {
           "description": "Calling for all are curious about Web3 and distributed protocols!\n\nIn this small hangout is about [NOSTR](https://nostr.com/), which we had a talk before at the OWDDM. Why don't you deepen your understanding by touching actual applications?\n\nKohei will support you according to your level of understanding. - Learn the history and overview of Nostr - Introduction of existing applications/frameworks - Create a Nostr account/application.\n\n**Note:** Since we are holding this event at a Shisha Bar, you need to be 20 or older to attend - bring an ID!",
           "duration": 7200000,
           "feeSettings": {

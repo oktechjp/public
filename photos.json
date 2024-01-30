@@ -2216,7 +2216,6 @@
     },
     {
       "content": "How to Get into Tech: Part 1",
-      "event": "297676223",
       "discordId": [
         "1200808515518873650",
         "1201482372575658024",
@@ -2224,55 +2223,8 @@
         "1201576349178003546",
         "1200808817462608052"
       ],
+      "event": "297676223",
       "photos": [
-        {
-          "date": 1706341483000,
-          "location": "images/events/5/1/8/725901.webp"
-        },
-        {
-          "date": 1706498045000,
-          "location": "images/events/5/1/8/786178.webp"
-        },
-        {
-          "date": 1706498046000,
-          "location": "images/events/5/1/8/786179.webp"
-        },
-        {
-          "date": 1706498045000,
-          "location": "images/events/5/1/8/786180.webp"
-        },
-        {
-          "date": 1706498044000,
-          "location": "images/events/5/1/8/786181.webp"
-        },
-        {
-          "date": 1706498043000,
-          "location": "images/events/5/1/8/786182.webp"
-        },
-        {
-          "date": 1706498045000,
-          "location": "images/events/5/1/8/786183.webp"
-        },
-        {
-          "date": 1706498043000,
-          "location": "images/events/5/1/8/786184.webp"
-        },
-        {
-          "date": 1706498046000,
-          "location": "images/events/5/1/8/786185.webp"
-        },
-        {
-          "date": 1706498043000,
-          "location": "images/events/5/1/8/786186.webp"
-        },
-        {
-          "date": 1706498045000,
-          "location": "images/events/5/1/8/786187.webp"
-        },
-        {
-          "date": 1706498051000,
-          "location": "images/events/5/1/8/786188.webp"
-        },
         {
           "location": "images/discord/event-photos/1200808515518873650/1200808515221073940/IMG_7542.webp"
         },
@@ -2344,9 +2296,57 @@
         },
         {
           "location": "images/discord/event-photos/1201576349178003546/1201576348959920248/IMG_20240127_1854243.webp"
+        },
+        {
+          "date": 1706341483000,
+          "location": "images/events/5/1/8/725901.webp"
+        },
+        {
+          "date": 1706498045000,
+          "location": "images/events/5/1/8/786178.webp"
+        },
+        {
+          "date": 1706498046000,
+          "location": "images/events/5/1/8/786179.webp"
+        },
+        {
+          "date": 1706498045000,
+          "location": "images/events/5/1/8/786180.webp"
+        },
+        {
+          "date": 1706498044000,
+          "location": "images/events/5/1/8/786181.webp"
+        },
+        {
+          "date": 1706498043000,
+          "location": "images/events/5/1/8/786182.webp"
+        },
+        {
+          "date": 1706498045000,
+          "location": "images/events/5/1/8/786183.webp"
+        },
+        {
+          "date": 1706498043000,
+          "location": "images/events/5/1/8/786184.webp"
+        },
+        {
+          "date": 1706498046000,
+          "location": "images/events/5/1/8/786185.webp"
+        },
+        {
+          "date": 1706498043000,
+          "location": "images/events/5/1/8/786186.webp"
+        },
+        {
+          "date": 1706498045000,
+          "location": "images/events/5/1/8/786187.webp"
+        },
+        {
+          "date": 1706498051000,
+          "location": "images/events/5/1/8/786188.webp"
         }
       ],
-      "timestamp": 1706548525853
+      "timestamp": 1706342400000
     }
   ]
 }
