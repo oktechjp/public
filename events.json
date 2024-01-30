@@ -2007,6 +2007,7 @@
           "description": "Are you thinking about getting into tech? Here is your chance to learn from those who have gone before! OWDDM is kicking off a new series where members of our tech community share their path in tech. Each story is unique, and could inspire you to your own journey.\n\nThis month **Chad Kohalyk** introduces us to his 20 year career from being solopreneur to working inside a multinational, to running a remote-first global research startup. He will be joined by a panel to discuss the effects of macro technology trends, why being a generalist can be a *good* thing, and what he looks for when hiring.\n\nThe presentation will go for about 20 minutes, followed by discussion and socializing. Come learn from your peers, and share *your* story too!\n\nFurthermore, if you have a topic that you would like to talk about, take the chance and let us know via the [→ Discord](https://owddm.com/discord)\n\nYou can also keep in touch with us on our LinkedIn account [→ ](https://www.linkedin.com/company/owddm-kwddm/)[here](https://www.linkedin.com/company/owddm-kwddm/).\n\nHappy New Year!",
           "duration": 9000000,
           "feeSettings": null,
+          "howToFindUs": "In the Hankyu main building take the (huge) business elevator to the 15th floor Skylobby. Then take the far-back elevator to the 35th floor to join us in the Cybozu Office.",
           "id": "297676223",
           "image": {
             "date": 1705112815000,
@@ -2026,19 +2027,20 @@
           "venue": "24529555"
         },
         {
-          "description": "Topic to be announced shortly.",
+          "description": "We want to thank everyone for coming to hang out with us at our [last event](https://www.meetup.com/osaka-web-designers-and-developers-meetup/events/297676223). It was a hit! This month, join us again for part 2.\n\nAre you thinking about getting into tech? Are you worried about your previous career or education background? Join us this upcoming meet up featuring one of the members of our community.\n\nThis month, **Yuka Ishida** introduces us to her career journey from electrical engineer to front-end designer. She will cover the following topics:\n\n* After finding your first job in the tech industry, how do you continue improving your skills?\n* In team development, communication skills (teamwork) are just as crucial as technical skills.\n* Even when changing industries from other fields to the IT industry, professional experience from other industries will always be valuable.\n\nThe presentation will go for about 20\\~30 minutes, followed by discussion and then socializing amongst each other. Come learn from your peers, bring a business card or two, and share your story! You never know who will give you your big break!\n\nFurthermore, if you have a topic that you would like to talk about we want to hear it! Take the chance and let us know via the → [Discord](https://owddm.com/discord).\n\nYou can also keep in touch with us on our → [LinkedIn account](https://www.linkedin.com/company/owddm-kwddm/).\n\nYou can connect with Yuka [here on Instagram](https://www.linkedin.com/in/yuka-ishida-b7071a254/).\n\nHappy February!! 幸せな二月を！",
           "duration": 7200000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "298753297",
           "image": {
-            "date": 1708156800000,
-            "location": "images/events/5/1/1/506739.webp"
+            "caption": "OWDDM - How to Get into Tech: Part 2 - Sat. 2024 / 02 / 17 - 17:00",
+            "date": 1706633380000,
+            "location": "images/events/5/1/8/814765.webp"
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 5,
           "time": 1708156800000,
-          "title": "February Event, Topic: TBA.",
+          "title": "How to Get into Tech: Part 2",
           "topics": [
             "Computer Programming",
             "New Technology",
@@ -2447,6 +2449,28 @@
           "numberOfAllowedGuests": 99,
           "time": 1705132800000,
           "title": "Rust for the Web",
+          "topics": [
+            "New Technology",
+            "Open Source",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27513738"
+        },
+        {
+          "description": "Woohoo, January at C2 Kyoto was awesome,\n\nlet's figure out what to do in February! Join us in the [→ Discord](https://owddm.com/discord) for proposing _(or requesting)_ a presentation topic!\n\nWe look forward to welcoming you soon! 👋",
+          "duration": 10800000,
+          "feeSettings": null,
+          "id": "298711313",
+          "image": {
+            "date": 1705996800000,
+            "location": "images/events/5/1/1/506744.webp"
+          },
+          "maxTickets": 24,
+          "numberOfAllowedGuests": 99,
+          "time": 1705996800000,
+          "title": "February Event, Topic: TBA.",
           "topics": [
             "New Technology",
             "Open Source",
