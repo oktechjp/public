@@ -2304,23 +2304,23 @@
         },
         {
           "date": 1706498045000,
-          "removed": true,  
-          "location": "images/events/5/1/8/786178.webp"
+          "location": "images/events/5/1/8/786178.webp",
+          "removed": true
         },
         {
           "date": 1706498046000,
-          "removed": true,
-          "location": "images/events/5/1/8/786179.webp"
+          "location": "images/events/5/1/8/786179.webp",
+          "removed": true
         },
         {
           "date": 1706498045000,
-          "removed": true,
-          "location": "images/events/5/1/8/786180.webp"
+          "location": "images/events/5/1/8/786180.webp",
+          "removed": true
         },
         {
           "date": 1706498044000,
-          "removed": true,
-          "location": "images/events/5/1/8/786181.webp"
+          "location": "images/events/5/1/8/786181.webp",
+          "removed": true
         },
         {
           "date": 1706498043000,
@@ -2328,44 +2328,44 @@
         },
         {
           "date": 1706498045000,
-          "removed": true,
-          "location": "images/events/5/1/8/786183.webp"
+          "location": "images/events/5/1/8/786183.webp",
+          "removed": true
         },
         {
           "date": 1706498043000,
-          "removed": true,
-          "location": "images/events/5/1/8/786184.webp"
+          "location": "images/events/5/1/8/786184.webp",
+          "removed": true
         },
         {
           "date": 1706498046000,
-          "removed": true,
-          "location": "images/events/5/1/8/786185.webp"
+          "location": "images/events/5/1/8/786185.webp",
+          "removed": true
         },
         {
           "date": 1706498043000,
-          "removed": true,
-          "location": "images/events/5/1/8/786186.webp"
+          "location": "images/events/5/1/8/786186.webp",
+          "removed": true
         },
         {
           "date": 1706498045000,
-          "removed": true,
-          "location": "images/events/5/1/8/786187.webp"
+          "location": "images/events/5/1/8/786187.webp",
+          "removed": true
         },
         {
           "date": 1706498051000,
-          "removed": true,
-          "location": "images/events/5/1/8/786188.webp"
+          "location": "images/events/5/1/8/786188.webp",
+          "removed": true
         }
       ],
       "timestamp": 1706342400000
     },
     {
       "content": "Try Nostr with Shisha",
-      "event": "298753731",
       "discordId": [
         "1202277291502075904",
         "1202282522478915624"
       ],
+      "event": "298753731",
       "photos": [
         {
           "location": "images/discord/event-photos/1202277291502075904/1202277289912696923/IMG_4962.webp"
@@ -2390,9 +2390,21 @@
         },
         {
           "location": "images/discord/event-photos/1202282522478915624/1202282522218872883/IMG_20240131_190503.webp"
+        },
+        {
+          "date": 1706701543000,
+          "location": "images/events/5/1/8/829228.webp"
+        },
+        {
+          "date": 1706701551000,
+          "location": "images/events/5/1/8/829229.webp"
+        },
+        {
+          "date": 1706701553000,
+          "location": "images/events/5/1/8/829230.webp"
         }
       ],
-      "timestamp": 1706716890688
+      "timestamp": 1706691600000
     }
   ]
 }
