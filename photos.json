@@ -2304,18 +2304,22 @@
         },
         {
           "date": 1706498045000,
+          "removed": true,  
           "location": "images/events/5/1/8/786178.webp"
         },
         {
           "date": 1706498046000,
+          "removed": true,
           "location": "images/events/5/1/8/786179.webp"
         },
         {
           "date": 1706498045000,
+          "removed": true,
           "location": "images/events/5/1/8/786180.webp"
         },
         {
           "date": 1706498044000,
+          "removed": true,
           "location": "images/events/5/1/8/786181.webp"
         },
         {
@@ -2324,35 +2328,43 @@
         },
         {
           "date": 1706498045000,
+          "removed": true,
           "location": "images/events/5/1/8/786183.webp"
         },
         {
           "date": 1706498043000,
+          "removed": true,
           "location": "images/events/5/1/8/786184.webp"
         },
         {
           "date": 1706498046000,
+          "removed": true,
           "location": "images/events/5/1/8/786185.webp"
         },
         {
           "date": 1706498043000,
+          "removed": true,
           "location": "images/events/5/1/8/786186.webp"
         },
         {
           "date": 1706498045000,
+          "removed": true,
           "location": "images/events/5/1/8/786187.webp"
         },
         {
           "date": 1706498051000,
+          "removed": true,
           "location": "images/events/5/1/8/786188.webp"
         }
       ],
       "timestamp": 1706342400000
     },
     {
-      "content": "",
+      "content": "Try Nostr with Shisha",
+      "event": "298753731",
       "discordId": [
-        "1202277291502075904"
+        "1202277291502075904",
+        "1202282522478915624"
       ],
       "photos": [
         {
@@ -2363,16 +2375,7 @@
         },
         {
           "location": "images/discord/event-photos/1202277291502075904/1202277291238113290/IMG_4939.webp"
-        }
-      ],
-      "timestamp": 1706715643526
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1202282522478915624"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1202282522478915624/1202282520515977296/IMG_20240131_1850032.webp"
         },
