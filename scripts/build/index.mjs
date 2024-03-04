@@ -232,24 +232,26 @@ async function processPhotoAlbums ({ targetFolder, cwd, transforms }) {
   const copies = []
   const photos = await readJSON(join(cwd, 'photos.json'))
   const allPhotos = []
-  const groups = photos.groups.map(group => {
-    const targetGroup = {
-      ...group,
-      photos: []
-    }
-    group.photos = group.photos.filter(photo => !photo.removed)
-    for (const photo of group.photos) {
-      const target = {
-        file: photo.location,
-        instructional: photo.instructional,
-        caption: photo.caption,
-        res: {}
+  const groups = photos.groups
+    .filter(group => !group.removed)
+    .map(group => {
+      const targetGroup = {
+        ...group,
+        photos: []
       }
-      allPhotos.push(target)
-      targetGroup.photos.push(target)
-    }
-    return targetGroup
-  })
+      group.photos = group.photos.filter(photo => !photo.removed)
+      for (const photo of group.photos) {
+        const target = {
+          file: photo.location,
+          instructional: photo.instructional,
+          caption: photo.caption,
+          res: {}
+        }
+        allPhotos.push(target)
+        targetGroup.photos.push(target)
+      }
+      return targetGroup
+    })
   await pmap(allPhotos, async target =>
     await preparePhoto({
       cwd,
