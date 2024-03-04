@@ -2504,7 +2504,6 @@
       "discordId": [
         "1209682426503106621"
       ],
-      "removed": true,
       "photos": [
         {
           "location": "images/discord/event-photos/1209682426503106621/1209682424263479306/IMG_7852.webp"
@@ -2516,7 +2515,20 @@
           "location": "images/discord/event-photos/1209682426503106621/1209682425945530428/IMG_7856.webp"
         }
       ],
+      "removed": true,
       "timestamp": 1708481165291
+    },
+    {
+      "content": "Belated photo from the last C2Kyoto event by Seth.",
+      "discordId": [
+        "1214034638490701876"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1214034638490701876/1214034638260142130/ba7036dd2f0233a2.webp"
+        }
+      ],
+      "timestamp": 1709518813489
     }
   ]
 }

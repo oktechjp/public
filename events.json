@@ -2540,6 +2540,30 @@
           "venue": "27513738"
         },
         {
+          "description": "The cherry trees bloom soon!\n\nThe weather is getting warmer, and with spring nearly here? The cherry blossoms will be blooming very soon! How about we have a Hanami in Kyoto? From 4 pm to 7 pm, we want to gather all of our interested tech community members for a lovely day out. No more being cramped in an office! It’s time to touch grass with our peers!\n\nLet’s relax under the Sakura trees and make new connections.\n\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord here.\nYou can also keep an eye out by following us on LinkedIn here.\n\nWe hope you’re just as excited as we are for the Hanami! 🌸\nお花見を楽しみにしていますね！",
+          "duration": 10800000,
+          "feeSettings": null,
+          "howToFindUs": "We will share the GPS location on the day.",
+          "id": "299335103",
+          "image": {
+            "caption": "KWDDM - Arashiyama Hanami 2024 - Sun. 2024 / 03 / 24 - 16:00",
+            "date": 1709314484000,
+            "location": "images/events/5/1/9/463523.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 0,
+          "time": 1711263600000,
+          "title": "Arashiyama Hanami 2024",
+          "topics": [
+            "New Technology",
+            "Open Source",
+            "PHP",
+            "Software Development",
+            "Web Design"
+          ],
+          "venue": "27764496"
+        },
+        {
           "description": "More React in March, but this time with a twist and more 😱. Join us for this month, for a longer evening with two smaller workshops!\n\nIn the first hour, Jake will dive with *\"Sky High Code: Building and Monetizing MSFS Aircraft with React and WASM\"* into the cutting-edge world of Microsoft Flight Simulator development, where we will learn how to use React for intuitive UI/UX design and WebAssembly (WASM) for high-performance in-simulation experiences. *(More in our [discord thread](https://discord.com/channels/1034792577293094972/1205677359550701598)).*\n\nPlease, also bring a computer with more than 16G of RAM if you want to participate in our second workshop, later in the evening. We can learn together with Eduardo, how to set up a local LLM *(large language model)*. Get a hands-on experience on how to modern AI works. *(For questions, here is [the Discord thread](https://discord.com/channels/1034792577293094972/1202785893925261382))*\n\nAt the C2 in Kyoto we will be having a chance to socialize over drinks. Until then, here is the [→ Discord Invite](https://owddm.com/discord) to share your thoughts and suggest new topics for 2024!\n\nWe look forward to welcoming you soon! 👋",
           "duration": 10800000,
           "feeSettings": null,
@@ -3084,6 +3108,18 @@
       "lng": 135.77863,
       "name": "焔ノ香shisha cafe&bar",
       "postalCode": "605-0012",
+      "state": ""
+    },
+    {
+      "address": "17-21 Arashiyama Higashiichikawachō, Nishikyo Ward, Kyoto",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27764496",
+      "lat": 35.01168,
+      "lng": 135.6813,
+      "name": "河川広場",
+      "postalCode": "616-0001",
       "state": ""
     }
   ]
