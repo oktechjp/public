@@ -2409,6 +2409,11 @@
     {
       "content": "How to Get into Tech: Part 2",
       "event": "298753297",
+      "discordId": [
+        "1208375086248230942",
+        "1208589633630507068",
+        "1208589651065962578"
+      ],
       "photos": [
         {
           "date": 1708220539000,
@@ -2417,31 +2422,13 @@
         {
           "date": 1708220539000,
           "location": "images/events/5/1/9/193040.webp"
-        }
-      ],
-      "timestamp": 1708156800000
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1208375086248230942"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1208375086248230942/1208375085107249172/IMG_7769.webp"
         },
         {
           "location": "images/discord/event-photos/1208375086248230942/1208375085933793360/IMG_7770.webp"
-        }
-      ],
-      "timestamp": 1708169471085
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1208589633630507068"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1208589633630507068/1208589605545451620/IMG_3843.webp"
         },
@@ -2471,16 +2458,7 @@
         },
         {
           "location": "images/discord/event-photos/1208589633630507068/1208589633349226557/IMG_3831.webp"
-        }
-      ],
-      "timestamp": 1708220623167
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1208589651065962578"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1208589651065962578/1208589650579562556/IMG_3832.webp"
         }
@@ -2490,14 +2468,19 @@
     {
       "content": "We had a more intimate event yesterday in Kyoto but I still enjoyed it.",
       "discordId": [
-        "1208659911882440765"
+        "1208659911882440765",
+        "1214034638490701876"
       ],
+      "event": "298932038",
       "photos": [
         {
           "location": "images/discord/event-photos/1208659911882440765/1208659911656083506/IMG_20240217_1901002.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1214034638490701876/1214034638260142130/ba7036dd2f0233a2.webp"
         }
       ],
-      "timestamp": 1708237378808
+      "timestamp": 1709518813489
     },
     {
       "content": "From the HN Tokyo hntokyo.io meetup last night. About a 100 people on the PARCO rooftop in Shibuya. Gorgeous view. Tons of new friends made. I got up an front of the group during announcements and declared myself a \"Diplomat from HN Kansai and the OWDDM\". Invited people to stop by if they ever come to Kansai. (Also big-upped Fukuoka as well... the _other_ Japan tech/startup group I am still in touch with)",
@@ -2517,18 +2500,6 @@
       ],
       "removed": true,
       "timestamp": 1708481165291
-    },
-    {
-      "content": "Belated photo from the last C2Kyoto event by Seth.",
-      "discordId": [
-        "1214034638490701876"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1214034638490701876/1214034638260142130/ba7036dd2f0233a2.webp"
-        }
-      ],
-      "timestamp": 1709518813489
     }
   ]
 }
