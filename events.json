@@ -2073,6 +2073,30 @@
             "Web Development"
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "Another event in Osaka? Yes! 👽\n\nThe weather is getting warmer, and with spring nearly here? The cherry blossoms will be blooming very soon! How about we have a hanami in Osaka on March 30th? From 11 to 3 pm, we want to gather all of our interested tech community members for a lovely day out. No more being cramped in an office! It’s time to touch grass with our peers!\n\nLet’s relax under the Sakura trees and make new connections.\n\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord here.\nYou can also keep an eye out by following us on LinkedIn here.\n\nWe hope you’re just as excited as we are for the Hanami! 🌸\nお花見を楽しみにしていますね！",
+          "duration": 14400000,
+          "feeSettings": null,
+          "howToFindUs": "We will share photos and GPS of our spot on the day.",
+          "id": "299335046",
+          "image": {
+            "caption": "OWDDM - Osaka Hanami 2024 - Sat. 2024 / 03 / 30 - 11:00",
+            "date": 1709607495000,
+            "location": "images/events/5/1/9/553379.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 99,
+          "time": 1711764000000,
+          "title": "Osaka Hanami 2024",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27394125"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2928,8 +2952,8 @@
       "crossStreet": null,
       "gmaps": "https://maps.app.goo.gl/2SLtfV2mr7WyC63VA",
       "id": "27394125",
-      "lat": 34.700623,
-      "lng": 135.52222,
+      "lat": 34.70233,
+      "lng": 135.52138,
       "name": "Osaka Waterfront Park “Sakuranomiya Beach”",
       "postalCode": "534-0027",
       "state": ""
