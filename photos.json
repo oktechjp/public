@@ -2500,6 +2500,39 @@
       ],
       "removed": true,
       "timestamp": 1708481165291
+    },
+    {
+      "content": "Here's a few pictures! More in the folder!",
+      "discordId": [
+        "1219562608261337098"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562596223684669/IMG_9636.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562597859332148/IMG_9657.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562599201509386/IMG_9659.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562601248329839/IMG_9663.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562602666135564/IMG_9674.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562604834459719/IMG_9693.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562606273236992/IMG_9690.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1219562608261337098/1219562607741112393/IMG_9696.webp"
+        }
+      ],
+      "timestamp": 1710836784187
     }
   ]
 }
