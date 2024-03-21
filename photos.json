@@ -2502,10 +2502,11 @@
       "timestamp": 1708481165291
     },
     {
-      "content": "Here's a few pictures! More in the folder!",
+      "content": "WASM Airplanes and LLM",
       "discordId": [
         "1219562608261337098"
       ],
+      "event": "299455127",
       "photos": [
         {
           "location": "images/discord/event-photos/1219562608261337098/1219562596223684669/IMG_9636.webp"

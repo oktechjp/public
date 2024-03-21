@@ -2075,7 +2075,7 @@
           "venue": "24529555"
         },
         {
-          "description": "Another event in Osaka? Yes! 👽\n\nThe weather is getting warmer, and with spring nearly here? The cherry blossoms will be blooming very soon! How about we have a hanami in Osaka on March 30th? From 11 to 3 pm, we want to gather all of our interested tech community members for a lovely day out. No more being cramped in an office! It’s time to touch grass with our peers!\n\nLet’s relax under the Sakura trees and make new connections.\n\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord here.\nYou can also keep an eye out by following us on LinkedIn here.\n\nWe hope you’re just as excited as we are for the Hanami! 🌸\nお花見を楽しみにしていますね！",
+          "description": "Another event in Osaka? Yes! 👽\n\nThe weather is getting warmer, and with spring nearly here? The cherry blossoms will be blooming very soon! How about we have a hanami in Osaka on March 30th? From 11 to 3 pm, we want to gather all of our interested tech community members for a lovely day out. No more being cramped in an office! It’s time to touch grass with our peers!\n\nLet’s relax under the Sakura trees and make new connections.\n\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord [here](https://discord.gg/dncTu75rvM).\nYou can also keep an eye out by following us on LinkedIn [here](https://www.linkedin.com/company/owddm-kwddm/).\n\nWe hope you’re just as excited as we are for the Hanami! 🌸\nお花見を楽しみにしていますね！",
           "duration": 14400000,
           "feeSettings": null,
           "howToFindUs": "We will share photos and GPS of our spot on the day.",
@@ -2097,6 +2097,29 @@
             "Web Development"
           ],
           "venue": "27394125"
+        },
+        {
+          "description": "Hello everyone!\n\nThe Japanese New Year has started and we are kicking this April off with two presentations at R3 Institute. 🚀\n\nGreg King will be talking about text editors. Most people these days use VSCode but he will discuss using Vim in the upcoming event, ***\"To Vim or not to Vim. That's a question?\"***\n\nVim is a terminal only text editor that can be challenging to use on the first try. With Greg's help we will figure out why it is still relevant and why we may want to learn it. Be prepared you might not be able to exit. *(More in the [discord thread](https://discord.com/channels/1034792577293094972/1110872279845457920))*\n\nIn our second, more conceptual talk, Martin will be tackling the topic of ***\"Signal to Noise ratio\"*** Why? Because, content generation and the ever dropping price of storage and bandwidth is creating more and more Content (aka. Noise) and he is going to give some concepts and thoughts of how to extract useful information (aka. Signal) out of the web. (More in the [discord thread](https://discord.com/channels/1034792577293094972/1210071322193821796))\n\nFurthermore, if you have a topic that you would like to talk about we want to hear it! Take the chance and let us know via the → [Discord](https://owddm.com/discord).\n\nYou can also keep in touch with us on our → [LinkedIn account](https://www.linkedin.com/company/owddm-kwddm/).\n\nHappy April!",
+          "duration": 9000000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "299830334",
+          "image": {
+            "date": 1712995200000,
+            "location": "images/events/5/1/9/759804.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1712995200000,
+          "title": "Vim and Noise",
+          "topics": [
+            "Computer Programming",
+            "New Technology",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2564,19 +2587,19 @@
           "venue": "27513738"
         },
         {
-          "description": "The cherry trees bloom soon!\n\nThe weather is getting warmer, and with spring nearly here? The cherry blossoms will be blooming very soon! How about we have a Hanami in Kyoto? From 4 pm to 7 pm, we want to gather all of our interested tech community members for a lovely day out. No more being cramped in an office! It’s time to touch grass with our peers!\n\nLet’s relax under the Sakura trees and make new connections.\n\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord here.\nYou can also keep an eye out by following us on LinkedIn here.\n\nWe hope you’re just as excited as we are for the Hanami! 🌸\nお花見を楽しみにしていますね！",
-          "duration": 10800000,
+          "description": "**IN CASE OF RAIN** 🌧️\nWe will pack up our stuff and move it over to\nRestaurant Arashiyama. If a significant number of people arrive we will need to split into smaller groups.\n\nhttps://maps.app.goo.gl/iqWkVsE9fvnXKvKy5?g_st=ic\n\n🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸\n\nThe cherry trees bloom soon!\n\nThe weather is getting warmer, and with spring nearly here? The cherry blossoms will be blooming very soon! How about we have a Hanami in Kyoto? From 4 pm to 7 pm, we want to gather all of our interested tech community members for a lovely day out. No more being cramped in an office! It’s time to touch grass with our peers!\n\nLet’s relax under the Sakura trees and make new connections.\n\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord here.\nYou can also keep an eye out by following us on LinkedIn here.\n\nWe hope you’re just as excited as we are for the Hanami! 🌸\nお花見を楽しみにしていますね！",
+          "duration": 14400000,
           "feeSettings": null,
           "howToFindUs": "We will share the GPS location on the day.",
           "id": "299335103",
           "image": {
-            "caption": "KWDDM - Arashiyama Hanami 2024 - Sun. 2024 / 03 / 24 - 16:00",
-            "date": 1709314484000,
-            "location": "images/events/5/1/9/463523.webp"
+            "caption": "KWDDM - Arashiyama Hanami 2024 - Sun. 2024 / 03 / 24 - 13:00",
+            "date": 1711015335000,
+            "location": "images/events/5/1/9/888292.webp"
           },
           "maxTickets": 0,
           "numberOfAllowedGuests": 0,
-          "time": 1711263600000,
+          "time": 1711252800000,
           "title": "Arashiyama Hanami 2024",
           "topics": [
             "New Technology",
@@ -2601,6 +2624,28 @@
           "numberOfAllowedGuests": 99,
           "time": 1710576000000,
           "title": "WASM Airplanes and LLM",
+          "topics": [
+            "Open Source",
+            "ReactJS",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27513738"
+        },
+        {
+          "description": "Hello friends,\n\nbetween the cherry blossoms blooming and golden week flying in we are happy to invite you to another *very* cool topic.\n\nIn April, we will get to know Tauri which is getting its 2.0 release soon. [Tauri](https://tauri.app/) is an App framework that allows us to build applications for Desktop and Mobile using web technologies 🤩\n\nWe will be learning from [Tillmann](https://github.com/tweidinger) \\- the Security Engineer of Tauri \\- about how the security concepts of Tauri help develop any secure app\\. With a small workshop\\, we can learn how to build apps ourselves\\. *(More in our [discord thread](https://discord.com/channels/1034792577293094972/1209041811536871486)).*\n\nAt C2 in Kyoto, we will also have a chance to socialize over drinks. Until then, here is the [→ Discord Invite](https://owddm.com/discord) to share your thoughts and suggest new topics for 2024!\n\nWe look forward to welcoming you soon! 👋",
+          "duration": 10800000,
+          "feeSettings": null,
+          "id": "299829131",
+          "image": {
+            "date": 1713600000000,
+            "location": "images/events/5/1/9/757256.webp"
+          },
+          "maxTickets": 24,
+          "numberOfAllowedGuests": 99,
+          "time": 1713600000000,
+          "title": "Secure Cross Platform Apps",
           "topics": [
             "Open Source",
             "ReactJS",
