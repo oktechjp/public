@@ -2534,6 +2534,24 @@
         }
       ],
       "timestamp": 1710576000000
+    },
+    {
+      "content": "Just a few photos from yesterday.",
+      "discordId": [
+        "1221578996647460874"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1221578996647460874/1221578995284312094/IMG_20240324_164515.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1221578996647460874/1221578995804409876/IMG_20240324_141623.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1221578996647460874/1221578996228165682/IMG_20240324_141629.webp"
+        }
+      ],
+      "timestamp": 1711317528641
     }
   ]
 }
