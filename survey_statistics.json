@@ -1,8 +1,8 @@
 {
-  "responses": 62,
+  "responses": 63,
   "location": {
     "osaka": 30,
-    "kyoto": 16,
+    "kyoto": 17,
     "kobe": 6,
     "Not in Japan  😢": 2,
     "Osaka or Kyoto ": 1,
@@ -14,17 +14,17 @@
     "In between osaka and kyoto": 1
   },
   "english": {
-    "count": 61,
+    "count": 62,
     "min": 1,
     "max": 4,
-    "mean": 3.3934426229508197,
+    "mean": 3.403225806451613,
     "median": 4,
     "mode": 4,
     "byValue": {
       "1": 2,
       "2": 10,
       "3": 11,
-      "4": 38
+      "4": 39
     }
   },
   "goals": {
@@ -68,14 +68,14 @@
     },
     "detail": {
       "practice_english": {
-        "count": 56,
+        "count": 57,
         "min": 0,
         "max": 4,
-        "mean": 0.8392857142857143,
+        "mean": 0.8245614035087719,
         "median": 0,
         "mode": 0,
         "byValue": {
-          "0": 37,
+          "0": 38,
           "1": 2,
           "2": 10,
           "3": 3,
@@ -83,10 +83,10 @@
         }
       },
       "share_knowledge": {
-        "count": 59,
+        "count": 60,
         "min": 0,
         "max": 4,
-        "mean": 2.5254237288135593,
+        "mean": 2.55,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -94,14 +94,14 @@
           "1": 7,
           "2": 26,
           "3": 10,
-          "4": 15
+          "4": 16
         }
       },
       "share_experience": {
-        "count": 59,
+        "count": 60,
         "min": 0,
         "max": 4,
-        "mean": 2.440677966101695,
+        "mean": 2.466666666666667,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -109,33 +109,33 @@
           "1": 8,
           "2": 26,
           "3": 12,
-          "4": 12
+          "4": 13
         }
       },
       "learn_new_things": {
-        "count": 61,
+        "count": 62,
         "min": 2,
         "max": 4,
-        "mean": 3.557377049180328,
+        "mean": 3.564516129032258,
         "median": 4,
         "mode": 4,
         "byValue": {
           "2": 5,
           "3": 17,
-          "4": 39
+          "4": 40
         }
       },
       "get_to_know_others": {
-        "count": 61,
+        "count": 62,
         "min": 2,
         "max": 4,
-        "mean": 3.4754098360655736,
+        "mean": 3.4838709677419355,
         "median": 4,
         "mode": 4,
         "byValue": {
           "2": 4,
           "3": 24,
-          "4": 33
+          "4": 34
         }
       },
       "gain_reputation": {
@@ -169,17 +169,17 @@
         }
       },
       "find_friends": {
-        "count": 59,
+        "count": 60,
         "min": 1,
         "max": 4,
-        "mean": 2.983050847457627,
+        "mean": 3,
         "median": 3,
-        "mode": 3,
+        "mode": 4,
         "byValue": {
           "1": 2,
           "2": 17,
           "3": 20,
-          "4": 20
+          "4": 21
         }
       },
       "learn_kansai": {
@@ -198,10 +198,10 @@
         }
       },
       "find_collaborators": {
-        "count": 60,
+        "count": 61,
         "min": 0,
         "max": 4,
-        "mean": 2.55,
+        "mean": 2.5737704918032787,
         "median": 3,
         "mode": 3,
         "byValue": {
@@ -209,7 +209,7 @@
           "1": 15,
           "2": 10,
           "3": 18,
-          "4": 16
+          "4": 17
         }
       }
     }
@@ -219,22 +219,22 @@
     "scripting": 41,
     "backend": 40,
     "career": 37,
-    "webdesign": 35,
+    "webdesign": 36,
     "databases": 35,
     "usability": 34,
-    "web-sec": 28,
+    "web-sec": 29,
+    "accessibility": 28,
     "hacks": 28,
-    "accessibility": 27,
     "hosting": 26,
     "planning": 23,
-    "irl-connection": 22,
+    "irl-connection": 23,
     "activism": 21,
     "dataviz": 21,
     "intl": 20,
-    "art": 15,
+    "art": 16,
     "infrastructure": 15,
     "web3": 12,
-    "integration": 9
+    "integration": 10
   },
   "interest": {
     "ranked": {
@@ -268,17 +268,17 @@
     },
     "detail": {
       "in_person_meetups": {
-        "count": 60,
+        "count": 61,
         "min": 1,
         "max": 4,
-        "mean": 3.4833333333333334,
+        "mean": 3.4918032786885247,
         "median": 4,
         "mode": 4,
         "byValue": {
           "1": 1,
           "2": 6,
           "3": 16,
-          "4": 37
+          "4": 38
         }
       },
       "online_meetups": {
@@ -327,10 +327,10 @@
         }
       },
       "going_out": {
-        "count": 57,
+        "count": 58,
         "min": 0,
         "max": 4,
-        "mean": 2.456140350877193,
+        "mean": 2.4827586206896552,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -338,14 +338,14 @@
           "1": 7,
           "2": 18,
           "3": 11,
-          "4": 16
+          "4": 17
         }
       },
       "group_activities": {
-        "count": 58,
+        "count": 59,
         "min": 0,
         "max": 4,
-        "mean": 2.3448275862068964,
+        "mean": 2.3728813559322033,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -353,20 +353,20 @@
           "1": 10,
           "2": 18,
           "3": 10,
-          "4": 15
+          "4": 16
         }
       },
       "hangouts": {
-        "count": 59,
+        "count": 60,
         "min": 0,
         "max": 4,
-        "mean": 2.559322033898305,
-        "median": 3,
+        "mean": 2.55,
+        "median": 2.5,
         "mode": 2,
         "byValue": {
           "0": 1,
           "1": 10,
-          "2": 18,
+          "2": 19,
           "3": 15,
           "4": 15
         }
@@ -420,17 +420,17 @@
         }
       },
       "personal": {
-        "count": 58,
+        "count": 59,
         "min": 1,
         "max": 4,
-        "mean": 2.586206896551724,
+        "mean": 2.610169491525424,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 2,
           "2": 29,
           "3": 18,
-          "4": 9
+          "4": 10
         }
       },
       "end_on_time": {
@@ -509,7 +509,7 @@
   },
   "times": {
     "saturday-evening": 49,
-    "saturday-noon": 37,
+    "saturday-noon": 38,
     "sunday-noon": 34,
     "friday": 31,
     "sunday-evening": 27
@@ -576,10 +576,10 @@
         }
       },
       "line": {
-        "count": 47,
+        "count": 48,
         "min": 0,
         "max": 4,
-        "mean": 2.404255319148936,
+        "mean": 2.4375,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -587,7 +587,7 @@
           "1": 5,
           "2": 16,
           "3": 12,
-          "4": 10
+          "4": 11
         }
       },
       "fb": {
