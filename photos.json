@@ -2556,10 +2556,12 @@
       "timestamp": 1710576000000
     },
     {
-      "content": "Just a few photos from yesterday.",
+      "content": "Arashiyama Hanami",
       "discordId": [
-        "1221578996647460874"
+        "1221578996647460874",
+        "1221683864632823898"
       ],
+      "event": "299335103",
       "photos": [
         {
           "location": "images/discord/event-photos/1221578996647460874/1221578995284312094/IMG_20240324_164515.webp"
@@ -2569,15 +2571,25 @@
         },
         {
           "location": "images/discord/event-photos/1221578996647460874/1221578996228165682/IMG_20240324_141629.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1221683864632823898/1221683863152099449/IMG_3341.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1221683864632823898/1221683863949021214/IMG_3342.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1221683864632823898/1221683864422973571/IMG_3346.webp"
         }
       ],
       "timestamp": 1711317528641
     },
     {
-      "content": "",
+      "content": "Workshop: Create a blog/portfolio in Astro and Hygraph",
       "discordId": [
         "1221652229342105600"
       ],
+      "event": "299334647",
       "photos": [
         {
           "location": "images/discord/event-photos/1221652229342105600/1221652220731199519/IMG_9751.webp"
@@ -2599,24 +2611,6 @@
         }
       ],
       "timestamp": 1711334988676
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1221683864632823898"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1221683864632823898/1221683863152099449/IMG_3341.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1221683864632823898/1221683863949021214/IMG_3342.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1221683864632823898/1221683864422973571/IMG_3346.webp"
-        }
-      ],
-      "timestamp": 1711342531117
     }
   ]
 }
