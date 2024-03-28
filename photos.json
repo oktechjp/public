@@ -2611,6 +2611,45 @@
         }
       ],
       "timestamp": 1711252800000
+    },
+    {
+      "content": "Sorry for the delay but here is a picture from the meetup on Saturday at the Cybozu office. I also made a short video about it:https://youtube.com/shorts/Dm4SWxNg4TU?feature=share",
+      "discordId": [
+        "1222535298970554430"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1222535298970554430/1222535299603632138/IMG_8203.webp"
+        }
+      ],
+      "timestamp": 1711545528882
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1222551683154972813"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1222551683154972813/1222551682802520075/IMG_3347.webp"
+        }
+      ],
+      "timestamp": 1711549435176
+    },
+    {
+      "content": "Hidden Jinja from that day 🙂",
+      "discordId": [
+        "1222552367082242109"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1222552367082242109/1222552366457426011/IMG_1733.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1222552367082242109/1222552366881046538/IMG_1732.webp"
+        }
+      ],
+      "timestamp": 1711549598237
     }
   ]
 }
