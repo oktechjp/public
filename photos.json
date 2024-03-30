@@ -2650,6 +2650,18 @@
         }
       ],
       "timestamp": 1711549598237
+    },
+    {
+      "content": "this is the view from the village",
+      "discordId": [
+        "1223156771305029654"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1223156771305029654/1223156771057831956/IMG_3176.webp"
+        }
+      ],
+      "timestamp": 1711693699433
     }
   ]
 }
