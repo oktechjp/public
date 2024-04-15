@@ -2558,7 +2558,11 @@
     {
       "content": "Workshop: Create a blog/portfolio in Astro and Hygraph",
       "discordId": [
-        "1221652229342105600"
+        "1221652229342105600",
+        "1222535298970554430",
+        "1222551683154972813",
+        "1222552367082242109",
+        "1223156771305029654"
       ],
       "event": "299334647",
       "photos": [
@@ -2579,6 +2583,21 @@
         },
         {
           "location": "images/discord/event-photos/1221652229342105600/1221652228763553852/IMG_9863.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1222535298970554430/1222535299603632138/IMG_8203.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1222551683154972813/1222551682802520075/IMG_3347.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1222552367082242109/1222552366457426011/IMG_1733.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1222552367082242109/1222552366881046538/IMG_1732.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1223156771305029654/1223156771057831956/IMG_3176.webp"
         }
       ],
       "timestamp": 1711180800000
@@ -2611,33 +2630,6 @@
         }
       ],
       "timestamp": 1711252800000
-    },
-    {
-      "content": "Sorry for the delay but here is a picture from the meetup on Saturday at the Cybozu office. I also made a short video about it:https://youtube.com/shorts/Dm4SWxNg4TU?feature=share",
-      "discordId": [
-        "1222535298970554430",
-        "1222551683154972813",
-        "1222552367082242109",
-        "1223156771305029654"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1222535298970554430/1222535299603632138/IMG_8203.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1222551683154972813/1222551682802520075/IMG_3347.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1222552367082242109/1222552366457426011/IMG_1733.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1222552367082242109/1222552366881046538/IMG_1732.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1223156771305029654/1223156771057831956/IMG_3176.webp"
-        }
-      ],
-      "timestamp": 1711549435176
     },
     {
       "content": "Osaka Hanami 2024",
