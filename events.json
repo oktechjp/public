@@ -2678,6 +2678,28 @@
             "Web Development"
           ],
           "venue": "27513738"
+        },
+        {
+          "description": "Hello Friends,\n\nthis month we are happy for Helpfeel to host us and we are looking forward for you to join us near the Kyoto palace.\n\nFor this Saturday, [Sacha](https://sachagreif.com/) will be sharing the result of [\"State of HTML 2023\"](https://stateofhtml.com/en-US). He will go into the findings of last years survey, what we can take trend indicators for future work. Also we will get an insight into how the Survey was conducted and what techniques he developed. ([Discord Thread](https://discord.com/channels/1034792577293094972/1231496230023069706))\n\nIf you have something you would like to talk about. Maybe [join our discord](https://owddm.com/discord) and let us know. 😉\n\nWe are looking forward to meet you.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "300583797",
+          "image": {
+            "date": 1715414400000,
+            "location": "images/events/5/2/0/598643.webp"
+          },
+          "maxTickets": 20,
+          "numberOfAllowedGuests": 99,
+          "time": 1715414400000,
+          "title": "State of HTML",
+          "topics": [
+            "HTML & CSS",
+            "New Technology",
+            "Open Source",
+            "Software Development",
+            "Web Design"
+          ],
+          "venue": "27585838"
         }
       ],
       "foundedAt": 1657415783000,
