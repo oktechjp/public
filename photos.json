@@ -2695,6 +2695,39 @@
         }
       ],
       "timestamp": 1711764000000
+    },
+    {
+      "content": "A few photos from April's noise event!",
+      "discordId": [
+        "1240161572261724190"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1240161572261724190/1240161571024408596/IMG_20240413_1728023.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1240161572261724190/1240161571477651527/IMG_20240413_1847382.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1240161572261724190/1240161572052140062/IMG_20240413_1728142.webp"
+        }
+      ],
+      "timestamp": 1715747959915
+    },
+    {
+      "content": "And two from the State of HTML event 🤩",
+      "discordId": [
+        "1240162465958985848"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1240162465958985848/1240162465149616178/IMG_20240511_1736372.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1240162465958985848/1240162465757794304/IMG_20240511_1742402.webp"
+        }
+      ],
+      "timestamp": 1715748172989
     }
   ]
 }
