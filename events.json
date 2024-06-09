@@ -2700,6 +2700,29 @@
             "Web Design"
           ],
           "venue": "27585838"
+        },
+        {
+          "description": "Hello friends,\n\nthis June [Victor](https://www.linkedin.com/in/victor-t-5a880910/) is hosting the event for us and he brings with him an *\"Introduction to AWS connect\"*. Please join us for an evening dissecting an AWS service and getting to us it for reducing stress at work.\n\nWe have an open spot available for a second talk and are looking to fill it with another web-related presentation. If anyone is interested in delivering a talk, we'd love to hear from you.\n\nWe are happy to be hosted at [C2 Kyoto](https://c2kyoto.com/) once more! To support the venue the C2 is offering drinks. Please do not bring outside food or drinks. Thank you. Drink sales help us to support the event. (Also, please note that only cash is accepted at the moment 🙇🏻)",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "301456905",
+          "image": {
+            "caption": "KWDDM - Intro to AWS Connect - Sat. 2024 / 06 / 29 - 17:00",
+            "date": 1717912064000,
+            "location": "images/events/5/2/1/613174.webp"
+          },
+          "maxTickets": 40,
+          "numberOfAllowedGuests": 99,
+          "time": 1719648000000,
+          "title": "Intro to AWS Connect",
+          "topics": [
+            "Internet Professionals",
+            "Open Source",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27513738"
         }
       ],
       "foundedAt": 1657415783000,
