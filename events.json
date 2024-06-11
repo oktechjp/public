@@ -2144,6 +2144,42 @@
             "Workplace"
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "Hello Everyone!\n\nSummer is soon to put a fire under our servers and before we are heading into torching zone we are using June to introduce you to S3.\n\nBut first, this month we have not been able to secure our usual location. Luckily, [The DECK](https://thedeck.jp/) \\- the co\\-working space and community in Honmachi \\- is able to host us on short notice\\! This comes with coffee ☕️ and soft drinks 🥤 and a discount for your next visit of The Deck\\, but we also need to ask for a few yen \\(1100\\) from you this month\\. 😅\n\nAt the event, Martin is going to give a 1.5h\\~2h *\"workshop **like S3\"*** . S3 is one of the most important services of AWS. It offers a simple way to store files and it has changed the hosting world in the past 15 years and turned AWS into the hosting juggernaut that it is today. Martin had some sleepless nights with S3 in the last month. Join the workshop to learn how to not freak out when you use S3 for work or fun. Bring your notebook to try it out by yourself. *(By the way: did you know that S3 is useful even outside of AWS?)* [→ [Link on Discord](https://discord.com/channels/1034792577293094972/1249232144664891434)]\n\nDepending on the mood on the day, we can try out more things or have a networking session after the workshop.\n\n*If you are financially in a tight spot, please contact us at [mail@owddm.com](mailto:mail@owddm.com)*\n*and we can surely figure something out.*\n\nLooking forward to seeing you!\n\n[ [About OWDDM](https://owddm.com/about) ]",
+          "duration": 10800000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 1100,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "301456891",
+          "image": {
+            "caption": "OWDDM - Workshop Like S3  - The Deck - Sat. 2024 / 06 /22 - 17:00",
+            "date": 1718038365000,
+            "location": "images/events/5/2/1/656528.webp"
+          },
+          "maxTickets": 59,
+          "numberOfAllowedGuests": 99,
+          "time": 1719043200000,
+          "title": "Workshop Like S3",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27009944"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2712,7 +2748,7 @@
             "location": "images/events/5/2/1/613174.webp"
           },
           "maxTickets": 40,
-          "numberOfAllowedGuests": 99,
+          "numberOfAllowedGuests": 3,
           "time": 1719648000000,
           "title": "Intro to AWS Connect",
           "topics": [
@@ -2992,6 +3028,18 @@
       "lng": 135.5782,
       "name": "Tsurumi Ryokuchi park large lawn area",
       "postalCode": "538-0036",
+      "state": ""
+    },
+    {
+      "address": "Chuo Ward, Minamihonmachi, 2-chōme−1−１ 本町サザンビル 1階",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27009944",
+      "lat": 34.68305,
+      "lng": 135.50623,
+      "name": "The DECK （ザ デッキ）",
+      "postalCode": "541-0054",
       "state": ""
     },
     {
