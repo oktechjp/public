@@ -2806,6 +2806,129 @@
         }
       ],
       "timestamp": 1719043200000
+    },
+    {
+      "content": "Hello everyone, here are a few photos from our past meetup. You can find them all in a folder here: https://drive.google.com/drive/u/0/folders/1S0qdDfv68RQ0EKjZXoGpzZx-IIMyRC6K",
+      "discordId": [
+        "1254622012266250261"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1254622012266250261/1254622014354886707/IMG_7656.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622012266250261/1254622015818825778/IMG_7659.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622012266250261/1254622017345425518/IMG_7663.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622012266250261/1254622019136520212/IMG_7664.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622012266250261/1254622020407132201/IMG_7677.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622012266250261/1254622021976064120/IMG_7675.webp"
+        }
+      ],
+      "timestamp": 1719195597474
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1254622978495348827"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622963433734144/IMG_7656.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622964771455046/IMG_7657.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622966281666581/IMG_7658.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622967908925460/IMG_7659.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622969586516052/IMG_7660.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622971360837672/IMG_7662.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622973025980416/IMG_7663.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622974732926996/IMG_7664.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622976222167172/IMG_7666.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254622978495348827/1254622977903820842/IMG_7667.webp"
+        }
+      ],
+      "timestamp": 1719195827841
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1254623051451203584"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623035361722468/IMG_7668.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623036825665587/IMG_7669.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623038419370054/IMG_7670.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623040315195552/IMG_7671.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623042307494009/IMG_7672.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623043884679258/IMG_7673.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623045562269756/IMG_7674.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623047399378975/IMG_7675.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623049119174707/IMG_7677.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623051451203584/1254623050931114014/IMG_7678.webp"
+        }
+      ],
+      "timestamp": 1719195845235
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1254623059449741312"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1254623059449741312/1254623055150448853/IMG_7679.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623059449741312/1254623056962387969/IMG_7681.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1254623059449741312/1254623058963206254/IMG_7682.webp"
+        }
+      ],
+      "timestamp": 1719195847142
     }
   ]
 }
