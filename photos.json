@@ -2959,6 +2959,30 @@
         }
       ],
       "timestamp": 1719666361713
+    },
+    {
+      "content": "Sorry for the late upload, here are some pics I took last Saturday event in Kyoto. Big thanks to everyone and well done Victor for your awesome presentation",
+      "discordId": [
+        "1257153703820136550"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1257153703820136550/1257153701294899230/IMG_20240629_183126.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1257153703820136550/1257153701911597167/IMG_20240629_175239.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1257153703820136550/1257153702595399790/IMG_20240629_175238.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1257153703820136550/1257153703136198698/IMG_20240629_174432.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1257153703820136550/1257153703618678794/IMG_20240629_174414.webp"
+        }
+      ],
+      "timestamp": 1719799199777
     }
   ]
 }
