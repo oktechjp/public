@@ -2226,6 +2226,26 @@
             "Web Development"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "Hello friends,\n\nas you may have heard: [we have had our first earthquake warning](https://asia.nikkei.com/Economy/Natural-disasters/Japan-s-Nankai-Trough-earthquake-advisory-5-things-to-know)! Now that the immediate alert has been lifted, doesn't mean that we can 100% relax.\n\nTo be prepared, we decided something different and have a little walking & talking day in Osaka. All steps are optional, you can depart at any time and join if you can catch us. Martin starts in the morning.\n\n* 9:45 - We meet at [Awaza Station](https://maps.app.goo.gl/pfmw4TvgJGcsTF128) (Exit 8)\n* 10:00 - Enter the [Tsunami Surge and Disaster Center](https://maps.app.goo.gl/aBuZsbPqyrS1CWax7) *(entrance free)* to see what Osaka has been thinking about what to do when an earthquake strikes.\n* \\~ 11:45 - Go to the excellent [Takamura Wine and Coffee roasters](https://maps.app.goo.gl/2y76nmgYJbXd3oNb6) *(the venue is quite big, and there should be space for us)* for coffee and a light snack - Talk about our thoughts on disaster prevention, SpaceLink and other things.\n* \\~ 13:30 - We go to the nearby [Ostec Exhibition Center](https://maps.app.goo.gl/teXvcG9Sd2LRWnMn6) *(entrance free)* a neat little science center that vibes with Martin.\n* \\~ 15:00 - We use the [Midosuji Line (240yen)](https://maps.app.goo.gl/L4ngbLPiZMWj4ZPGA) to get to the [Abeno Tasukaru Disaster Prevention Learning Center](https://maps.app.goo.gl/zi9bFeoZyzS4GZxm9) *(entrance free)*\n* \\~ 17:00 - We either go out for drinks or back home.\n\nSo, join us for a day of Disaster Prevention learning in order to work on our organizational safety for the tech staff. 😉",
+          "duration": 26100000,
+          "feeSettings": null,
+          "howToFindUs": "In front of Exit 8 at Awaza Station",
+          "id": "302843096",
+          "image": {
+            "date": 1724546700000,
+            "location": "images/events/5/2/2/932303.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 99,
+          "time": 1724546700000,
+          "title": "Quake Walk",
+          "topics": [
+            "Injury Prevention",
+            "Walking"
+          ],
+          "venue": "27868919"
         }
       ],
       "foundedAt": 1404989737000,
@@ -2805,6 +2825,26 @@
             "Web Development"
           ],
           "venue": "27513738"
+        },
+        {
+          "description": "Hello Friends,\n\nIts August and because Kyoto is a melting pot, we decided to escape it and have a day out of town. We have been talking about it in the [#meet-irl](https://discord.gg/EHFRBVMqnW) channel on our discord but the event publication here is on short notice and we understand that it might be difficult for you to join.\n\nThe plan is following:\n\n1. 11:30 - We meet at [Keihan Ishiyamadera station](https://maps.app.goo.gl/kTSbsfvEqEswbjcW8).\n2. 12:00 - We have lunch at [R's Happy Bake](https://maps.app.goo.gl/HpRM6KQZG7MWrtvUA). (We can take a reservation for people that RSVP)\n3. After lunch we go to [Ishiyama Temple](https://www.ishiyamadera.or.jp/) and look at all the temples. *(1100yen for the entrance fee, main hall and side temple, 600yen if you only wish to traverse the temple)*\n4. After the temple - we plan to visit an Onsen. We will decide together which to take, but possible options are:\n\n* Old and small [Yoki-yu Sento](https://maps.app.goo.gl/RH4LCXgaFTTjL6fH8) (490 yen) in the area, [9min (230yen)](https://maps.app.goo.gl/Wh1NHqewanrN7WeUA) by bus or 30min on foot\n* [Biwako-za](https://maps.app.goo.gl/HtZ4cCu841AyQyka6) (60min 650yen) - [380 yen for transport, 40 min](https://maps.app.goo.gl/ZikhZKtQgcPUhoYy6)\n* [Super Sento Suishun](https://maps.app.goo.gl/MPQ5NxdXZ8Mn7g7s7) ([1050yen](https://suisyun-ticket-shiga.com/items/6685ffa9f325fc0224847411)) - [470 yen for transport, 53min](https://maps.app.goo.gl/4DexrGFX78Thzr5r5)\n\nAfter that we may or may not head out for dinner or back home.*(depending how we feel)*\n\nBesides a towel and fresh underwear for the bath, please bring tech topics to talk about! If you have a special topic you are interested in, mention it in the comments so we maybe can prepare for it.",
+          "duration": 23400000,
+          "feeSettings": null,
+          "id": "302842348",
+          "image": {
+            "date": 1723948200000,
+            "location": "images/events/5/2/2/931967.webp"
+          },
+          "maxTickets": 20,
+          "numberOfAllowedGuests": 99,
+          "time": 1723948200000,
+          "title": "Ishiyamadera Escape",
+          "topics": [
+            "Onsen",
+            "Technology",
+            "Walking Tours"
+          ],
+          "venue": "27563617"
         }
       ],
       "foundedAt": 1657415783000,
@@ -3242,6 +3282,18 @@
       "state": "al"
     },
     {
+      "address": "5 Hotarudani, Otsu",
+      "city": "Shiga",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27563617",
+      "lat": 34.96708,
+      "lng": 135.9034,
+      "name": "Ishiyamadera Station",
+      "postalCode": "520-0853",
+      "state": ""
+    },
+    {
       "address": "Shimogyo Ward, Ōmandokorochō, ６８０−１, No8 Hase Building, 2F 3F（受付",
       "city": "Kyoto",
       "country": "jp",
@@ -3351,6 +3403,18 @@
       "lng": 135.6813,
       "name": "河川広場",
       "postalCode": "616-0001",
+      "state": ""
+    },
+    {
+      "address": "3-chōme-1 Nishihonmachi, Nishi Ward",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27868919",
+      "lat": 34.681625,
+      "lng": 135.48564,
+      "name": "Awaza Station",
+      "postalCode": "meetup3",
       "state": ""
     }
   ]
