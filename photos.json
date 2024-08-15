@@ -2796,18 +2796,6 @@
       "timestamp": 1716636080128
     },
     {
-      "content": "Workshop Like S3",
-      "event": "301456891",
-      "photos": [
-        {
-          "caption": "OWDDM - LinkedIn or S3  - THE Deck - Sat. 2024 / 06 / 22 - 17:00",
-          "date": 1717909777000,
-          "location": "images/events/5/2/1/612461.webp"
-        }
-      ],
-      "timestamp": 1719043200000
-    },
-    {
       "content": "Hello everyone, here are a few photos from our past meetup. You can find them all in a folder here: https://drive.google.com/drive/u/0/folders/1S0qdDfv68RQ0EKjZXoGpzZx-IIMyRC6K",
       "discordId": [
         "1254622012266250261"
@@ -2835,11 +2823,21 @@
       "timestamp": 1719195597474
     },
     {
-      "content": "",
+      "content": "Workshop Like S3",
+      "event": "301456891",
       "discordId": [
+        "1256081366882455573",
+        "1254623059449741312",
+        "1254623051451203584",
         "1254622978495348827"
       ],
       "photos": [
+        {
+          "caption": "OWDDM - LinkedIn or S3  - THE Deck - Sat. 2024 / 06 / 22 - 17:00",
+          "date": 1717909777000,
+          "location": "images/events/5/2/1/612461.webp",
+          "instructional": true
+        },
         {
           "location": "images/discord/event-photos/1254622978495348827/1254622963433734144/IMG_7656.webp"
         },
@@ -2869,16 +2867,7 @@
         },
         {
           "location": "images/discord/event-photos/1254622978495348827/1254622977903820842/IMG_7667.webp"
-        }
-      ],
-      "timestamp": 1719195827841
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1254623051451203584"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1254623051451203584/1254623035361722468/IMG_7668.webp"
         },
@@ -2908,16 +2897,7 @@
         },
         {
           "location": "images/discord/event-photos/1254623051451203584/1254623050931114014/IMG_7678.webp"
-        }
-      ],
-      "timestamp": 1719195845235
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1254623059449741312"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1254623059449741312/1254623055150448853/IMG_7679.webp"
         },
@@ -2926,16 +2906,7 @@
         },
         {
           "location": "images/discord/event-photos/1254623059449741312/1254623058963206254/IMG_7682.webp"
-        }
-      ],
-      "timestamp": 1719195847142
-    },
-    {
-      "content": "Photos from The DECK team of the last event.",
-      "discordId": [
-        "1256081366882455573"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1256081366882455573/1256081366185934888/20240628_055430.webp"
         },
@@ -2949,23 +2920,16 @@
       "timestamp": 1719543534728
     },
     {
-      "content": "Thank you very much for today.\nIn some cases, digitization is a burden.\nIt was also an opportunity to think about what kind of digitization would improve efficiency.\nI also enjoyed the interaction afterwards.",
+      "event": "301456905",
+      "content": "Photos in the event in Kyoto",
       "discordId": [
+        "1257153703820136550",
         "1256596540596686848"
       ],
       "photos": [
         {
           "location": "images/discord/event-photos/1256596540596686848/1256596540139638906/IMG_20240629_170825-01.webp"
-        }
-      ],
-      "timestamp": 1719666361713
-    },
-    {
-      "content": "Sorry for the late upload, here are some pics I took last Saturday event in Kyoto. Big thanks to everyone and well done Victor for your awesome presentation",
-      "discordId": [
-        "1257153703820136550"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1257153703820136550/1257153701294899230/IMG_20240629_183126.webp"
         },
@@ -2986,8 +2950,10 @@
     },
     {
       "content": "",
+      "event": "301574205",
       "discordId": [
-        "1265487224158421042"
+        "1265487224158421042",
+        "1265487250506907670"
       ],
       "photos": [
         {
@@ -3019,16 +2985,7 @@
         },
         {
           "location": "images/discord/event-photos/1265487224158421042/1265487223697051688/IMG_0364.webp"
-        }
-      ],
-      "timestamp": 1721786065855
-    },
-    {
-      "content": "Some event photos!",
-      "discordId": [
-        "1265487250506907670"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1265487250506907670/1265487242575740928/IMG_0349.webp"
         },
