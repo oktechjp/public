@@ -2146,7 +2146,7 @@
           "venue": "24529555"
         },
         {
-          "description": "Hello Everyone!\n\nSummer is soon to put a fire under our servers and before we are heading into torching zone we are using June to introduce you to S3.\n\nBut first, this month we have not been able to secure our usual location. Luckily, [The DECK](https://thedeck.jp/) \\- the co\\-working space and community in Honmachi \\- is able to host us on short notice\\! This comes with coffee ☕️ and soft drinks 🥤 and a discount for your next visit of The Deck\\, but we also need to ask for a few yen \\(1100\\) from you this month\\. 😅\n\nAt the event, Martin is going to give a 1.5h\\~2h *\"workshop **like S3\"*** . S3 is one of the most important services of AWS. It offers a simple way to store files and it has changed the hosting world in the past 15 years and turned AWS into the hosting juggernaut that it is today. Martin had some sleepless nights with S3 in the last month. Join the workshop to learn how to not freak out when you use S3 for work or fun. Bring your notebook to try it out by yourself. *(By the way: did you know that S3 is useful even outside of AWS?)* [→ [Link on Discord](https://discord.com/channels/1034792577293094972/1249232144664891434)]\n\nDepending on the mood on the day, we can try out more things or have a networking session after the workshop.\n\n*If you are financially in a tight spot, please contact us at [mail@owddm.com](mailto:mail@owddm.com)*\n*and we can surely figure something out.*\n\nLooking forward to seeing you!\n\n[ [About OWDDM](https://owddm.com/about) ]",
+          "description": "Hello Everyone!\n\nSummer is soon to put a fire under our servers and before we are heading into torching zone we are using June to introduce you to S3.\n\nBut first, this month we have not been able to secure our usual location. Luckily, [The DECK](https://thedeck.jp/) \\- the co\\-working space and community in Honmachi \\- is able to host us on short notice\\! This comes with coffee ☕️ and soft drinks 🥤 and a discount for your next visit of The Deck\\, but we also need to ask for a few yen \\(1100\\) from you this month\\. 😅\n\nAt the event, Martin is going to give a 1.5h\\~2h *\"workshop **like S3\"*** . S3 is one of the most important services of AWS. It offers a simple way to store files and it has changed the hosting world in the past 15 years and turned AWS into the hosting juggernaut that it is today. Martin had some sleepless nights with S3 in the last month. Join the workshop to learn how to not freak out when you use S3 for work or fun. Bring your notebook to try it out by yourself. *(By the way: did you know that S3 is useful even outside of AWS?)* [→ [Link on Discord](https://discord.com/channels/1034792577293094972/1249232144664891434)] [ → [Preparation Instructions](https://gist.github.com/martinheidegger/a815a8b3cc1d655f482320387d8a8214) ]\n\nDepending on the mood on the day, we can try out more things or have a networking session after the workshop.\n\n*If you are financially in a tight spot, please contact us at [mail@owddm.com](mailto:mail@owddm.com)*\n*and we can surely figure something out.*\n\nLooking forward to seeing you!\n\n[ [About OWDDM](https://owddm.com/about) ]",
           "duration": 10800000,
           "feeSettings": {
             "accepts": "CASH",
@@ -2180,6 +2180,52 @@
             "Web Development"
           ],
           "venue": "27009944"
+        },
+        {
+          "description": "Hello there fellow OWDDMers 👾\n\nIt's another hot and humid month but we've made it to July.\n\nWe welcome back Sacha to give a presentation on the recently released [State of JS](https://2023.stateofjs.com/en-US) 2023 survey results at this month's meetup. If you're curious about the recent innovations within JS, you won't be short of satisfied. He will also cover the recently released State of React survey results!\n\nJoin us at the Cybozu office for a presentation and networking with fellow developers and designers. Come with your questions and curiosity surrounding JS, and if you're lucky, other programming languages!\n\nWe are always looking for volunteers to hold workshops and give presentations. If you have something you want to share with or teach to your fellows in the tech community, please reach out to us. If you are a community member who wants to participate in a workshop, this is your time to shine!\n\nJoin our community on Discord to propose what you want to see in the community, keep in touch with other members, and stay updated on community happenings. [Click the link here to join us on Discord.](https://discord.gg/PG6n97NG2B)\n\nYou can also follow us on LinkedIn, we share updates there as well. [Click the link here to follow us on LinkedIn](https://www.linkedin.com/company/owddm-kwddm/).",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "In the Hankyu main building take the (huge) business elevator to the 15th floor Skylobby. Then take the far-back elevator to the 35th floor to join us in the Cybozu Office.",
+          "id": "301574205",
+          "image": {
+            "date": 1721462400000,
+            "location": "images/events/5/2/2/274679.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 3,
+          "time": 1721462400000,
+          "title": "The State of JS",
+          "topics": [
+            "Culture",
+            "Internet Professionals",
+            "Team Building",
+            "Technology",
+            "Workplace"
+          ],
+          "venue": "24529555"
+        },
+        {
+          "description": "Hello friends,\n\nlet's continue; move on; get it going again; proceed; resume, resume and Resumé with the summer. - *Martin doesn't have a heatstroke, just a case of bad joke* \\- Anyways: we are back after a summer break 😀\n\nWith a topical presentation on *\"Workshop for Job Seeking in Japan\"*. [Luna](https://www.linkedin.com/in/luna-katayama-92887b20/) will be giving us advice on things we need to think of while looking for a job here.\n\nAlso, in a technical topic, we are going to have a presentation by *Kinbiko* about *\"Commandline Foo: Tips and Tricks\"* where he is going to give some insight on how to enjoy the command line. ([discord thread](https://discord.com/channels/1034792577293094972/1246674317232701450))\n\nWe are looking forward for you to join us.\n\nUntil then, meet us in → [Discord](https://owddm.com/discord) and follow us on → [LinkedIn](https://www.linkedin.com/company/owddm-kwddm/).",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "302750416",
+          "image": {
+            "date": 1725696000000,
+            "location": "images/events/5/2/2/823615.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1725696000000,
+          "title": "Key to Resume",
+          "topics": [
+            "Computer Programming",
+            "New Technology",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
