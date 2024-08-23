@@ -2998,8 +2998,10 @@
     {
       "content": "Ishiyama-dera",
       "discordId": [
-        "1274916612943642736"
+        "1274916612943642736",
+        "1274956263461093376"
       ],
+      "event": "302842348",
       "photos": [
         {
           "location": "images/discord/event-photos/1274916612943642736/1274916606476161157/IMG_5357.webp"
@@ -3030,16 +3032,7 @@
         },
         {
           "location": "images/discord/event-photos/1274916612943642736/1274916612813885481/IMG_5380.webp"
-        }
-      ],
-      "timestamp": 1724034207331
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1274956263461093376"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1274956263461093376/1274956253269065738/IMG_1521.webp"
         },
