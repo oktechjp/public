@@ -2205,7 +2205,7 @@
           "venue": "24529555"
         },
         {
-          "description": "Hello friends,\n\nlet's continue; move on; get it going again; proceed; resume, resume and Resumé with the summer. - *Martin doesn't have a heatstroke, just a case of bad joke* \\- Anyways: we are back after a summer break 😀\n\nWith a topical presentation on *\"Workshop for Job Seeking in Japan\"*. [Luna](https://www.linkedin.com/in/luna-katayama-92887b20/) will be giving us advice on things we need to think of while looking for a job here.\n\nAlso, in a technical topic, we are going to have a presentation by *Kinbiko* about *\"Commandline Foo: Tips and Tricks\"* where he is going to give some insight on how to enjoy the command line. ([discord thread](https://discord.com/channels/1034792577293094972/1246674317232701450))\n\nWe are looking forward for you to join us.\n\nUntil then, meet us in → [Discord](https://owddm.com/discord) and follow us on → [LinkedIn](https://www.linkedin.com/company/owddm-kwddm/).",
+          "description": "Hello friends,\n\nlet's continue; move on; get it going again; proceed; resume, resume and Resumé with the summer. - *Martin doesn't have a heatstroke, just a case of bad joke* \\- Anyways: we are back after a summer break 😀\n\nWith a topical presentation on *\"Workshop for Job Seeking in Japan\"*. [Luna](https://www.linkedin.com/in/luna-katayama-92887b20/) will be giving us advice on things we need to think of while looking for a job here. ([discord thread](https://discord.com/channels/1034792577293094972/1271729858354876477))\n\nAlso, in a technical topic, we are going to have a presentation by *Kinbiko* about *\"Commandline Foo: Tips and Tricks\"* where he is going to give some insight on how to enjoy the command line. ([discord thread](https://discord.com/channels/1034792577293094972/1246674317232701450))\n\nWe are looking forward for you to join us.\n\nUntil then, meet us in → [Discord](https://owddm.com/discord) and follow us on → [LinkedIn](https://www.linkedin.com/company/owddm-kwddm/).",
           "duration": 7200000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
@@ -2845,6 +2845,42 @@
             "Walking Tours"
           ],
           "venue": "27563617"
+        },
+        {
+          "description": "Hello friends,\n\nwe are hosted by [Helpfeel](https://www.helpfeel.com/) this September again, for us to meet and step up our game together. 🚀\n\nBen is going to hold a little workshop for us. Let's learn how the [Cursor AI-native IDE](https://www.cursor.com/) can be used to save time writing code. The IDE can help us be faster writing simple web apps with LLMs. The talk will also cover using LLM APIs for building a simple web app with web scraping, custom prompts, and formatted responses.\n\nIf you have another topic you would like to talk about, please submit a #presentation-proposal in the [Discord](https://owddm.com/discord).\n\nTo join the event, a basic knowledge of web programming will be useful. Also, it would be good to bring your notebook if you want to try it out by yourself.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "302886855",
+          "image": {
+            "date": 1726905600000,
+            "location": "images/events/5/2/3/034595.webp"
+          },
+          "maxTickets": 20,
+          "numberOfAllowedGuests": 99,
+          "time": 1726905600000,
+          "title": "LLMs / GenAI in Practice",
+          "topics": [
+          ],
+          "venue": "27585838"
+        },
+        {
+          "description": "Hello Friends,\n\nGetting out at the weekend and talk over tech while on a hike can be a nice balance between learning new things and moving one's body. Also, In hot Kyoto its nice to get out as we recently figured out when we went to [Ishiyamadera](https://www.meetup.com/kyoto-web-designers-and-developers-meetup/events/302842348/).\n\nIn this extra-curricular event [Sacha](https://sachagreif.com/) is guiding us through Kyoto's mountains along the Kiyotaki river.\n\n9:32 Meet at [JR Hozukyo Station](https://maps.app.goo.gl/nbDJYZD5nUHVEm9n9)\n\\~11:00 Pass the [Atago Torii Gate](https://maps.app.goo.gl/Dxb933ZpopJtn6Jm8) in Kiyotaki Village\n\\~12:30 Visit the [Kuya Waterfall](https://maps.app.goo.gl/G9YkJjtxryiaX96i7)\n\\~16:00 Visit [Saimyo temple](https://maps.app.goo.gl/KsDUTLFNJwPLahUa7) (optional, visit the main hall for 500yen)\n\\~16:30 Return via [Takao Bus Station](https://maps.app.goo.gl/CJmjpmEuPGVs6n8X6) to Kyoto Center\n\n**Note**: there is a bus going back from Kiyotaki Village to Arashiyama, so it's possible to **just do the first half** of the hike.\n\nPlease bring lunch and enough to drink. There may also be mosquitos and hot sun at the day. Also, if you want to head for a swim (there are multiple beautiful swimming spots along the river): swimwear and a towel might be a good idea.\n\n*Note:* Children welcome since the path is almost entirely flat and easy to walk, but it's a longer hike. It would be good if they are used to it.",
+          "duration": 25200000,
+          "feeSettings": null,
+          "id": "302939361",
+          "image": {
+            "date": 1727569800000,
+            "location": "images/events/5/2/3/033392.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 99,
+          "time": 1727569800000,
+          "title": "Kiyotakigawa Escape",
+          "topics": [
+            "Hiking",
+            "Technology"
+          ],
+          "venue": "27043438"
         }
       ],
       "foundedAt": 1657415783000,
@@ -3139,6 +3175,18 @@
       "lng": 135.23344,
       "name": "Rokko Cable Shita Station",
       "postalCode": "657-0001",
+      "state": ""
+    },
+    {
+      "address": "Hozuyama 2 Hozucho, Kameoka",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27043438",
+      "lat": 35.02316,
+      "lng": 135.6389,
+      "name": "Hozukyō Station",
+      "postalCode": "621-0005",
       "state": ""
     },
     {
