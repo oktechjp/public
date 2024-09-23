@@ -3083,6 +3083,33 @@
         }
       ],
       "timestamp": 1725767081264
+    },
+    {
+      "content": "Photos from last night's event. Thanks for joining 😍",
+      "discordId": [
+        "1287245242193543220"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1287245242193543220/1287245239899394070/IMG_20240921_1733422.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1287245242193543220/1287245240238866524/IMG_20240921_1733592.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1287245242193543220/1287245240792518666/IMG_20240921_1815012.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1287245242193543220/1287245241405018157/IMG_20240921_1908212.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1287245242193543220/1287245241816186921/IMG_20240921_1908092.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1287245242193543220/1287245242235621406/IMG_20240921_1832232.webp"
+        }
+      ],
+      "timestamp": 1726973581599
     }
   ]
 }
