@@ -2894,7 +2894,7 @@
             "date": 1726905600000,
             "location": "images/events/5/2/3/034595.webp"
           },
-          "maxTickets": 20,
+          "maxTickets": 30,
           "numberOfAllowedGuests": 99,
           "time": 1726905600000,
           "title": "LLMs / GenAI in Practice",
