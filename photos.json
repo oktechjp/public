@@ -3066,8 +3066,10 @@
     {
       "content": "I only took a few photos of yesterday's event 😓",
       "discordId": [
-        "1282184813012324423"
+        "1282184813012324423",
+        "1287245242193543220"
       ],
+      "event": "302750416",
       "photos": [
         {
           "location": "images/discord/event-photos/1282184813012324423/1282184812031115427/IMG_20240907_1732152.webp"
@@ -3080,16 +3082,7 @@
         },
         {
           "location": "images/discord/event-photos/1282184813012324423/1282184813058592810/IMG_20240907_1834393.webp"
-        }
-      ],
-      "timestamp": 1725767081264
-    },
-    {
-      "content": "Photos from last night's event. Thanks for joining 😍",
-      "discordId": [
-        "1287245242193543220"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1287245242193543220/1287245239899394070/IMG_20240921_1733422.webp"
         },
@@ -3114,6 +3107,12 @@
     {
       "content": "Kiyotakigawa Escape",
       "event": "302939361",
+      "discordId": [
+        "1289879349079834727",
+        "1289879479094607912",
+        "1289891941403594894",
+        "1289935352500584532"
+      ],
       "photos": [
         {
           "date": 1727735588000,
@@ -3126,16 +3125,7 @@
         {
           "date": 1727735588000,
           "location": "images/events/5/2/3/815200.webp"
-        }
-      ],
-      "timestamp": 1727569800000
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1289879349079834727"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1289879349079834727/1289879342259765320/IMG_20240929_090314.webp"
         },
@@ -3165,16 +3155,7 @@
         },
         {
           "location": "images/discord/event-photos/1289879349079834727/1289879348735639572/IMG_20240929_132136.webp"
-        }
-      ],
-      "timestamp": 1727601601620
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1289879479094607912"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1289879479094607912/1289879475890163813/IMG_20240929_132147.webp"
         },
@@ -3189,16 +3170,7 @@
         },
         {
           "location": "images/discord/event-photos/1289879479094607912/1289879478797078538/IMG_20240929_150619.webp"
-        }
-      ],
-      "timestamp": 1727601632618
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1289891941403594894"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1289891941403594894/1289891937163415552/IMG_2609.webp"
         },
@@ -3216,16 +3188,7 @@
         },
         {
           "location": "images/discord/event-photos/1289891941403594894/1289891941177229333/IMG_2626.webp"
-        }
-      ],
-      "timestamp": 1727604603864
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1289935352500584532"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1289935352500584532/1289935348264079413/IMG_20240929_0939342.webp"
         },
