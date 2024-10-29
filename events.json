@@ -2270,19 +2270,19 @@
           "venue": "24529555"
         },
         {
-          "description": "Hello Friends 👋\n\nWith the end of year coming our way quickly, we are getting back into the development saddle in this months meetup.\n\nDuring the first presentation we will look into SQL Databases. From \"Why are databases a thing?\" to how to start using them and why. Even in 2024 SQL still has its place in the development stack and we are happy to come back to it.\n\nThere is still space for another presentation on the date. If you have a topic you would like to talk about, please share it in our Discord channel → [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) ([join Discord](https://owddm.com/discord)).\n\nWe are looking forward for you to join us at the date.",
+          "description": "Hello Friends 👋\n\nWith the end of year coming our way quickly, we are getting back into the development saddle in this months meetup.\n\nFor the first presentation we will look into SQL Databases. From *\"Why are databases a thing?\"* to how to start using them and why. Even in 2024 SQL still has its place in the development stack and we are happy to come back to it. (→[Link](https://discord.com/channels/1034792577293094972/1226757582723612824))\n\nThe second presentation is going to be a meta presentation/workshop on the topic of *\"How to present\".* OWDDM was conceptualized to be a place where people can try to present things. In this second workshop we are going to try together to become better at presenting our work and passion. (→[Link](https://discord.com/channels/1034792577293094972/1300107151473377382))\n\nWe are looking forward for you to join us at the date and until then, see you in → [Discord](https://owddm.com/discord)",
           "duration": 9000000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "302995505",
           "image": {
             "date": 1731744000000,
-            "location": "images/events/5/2/4/117648.webp"
+            "location": "images/events/5/2/4/394023.webp"
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 99,
           "time": 1731744000000,
-          "title": "Intro SQL Databases",
+          "title": "How to Present and SQL",
           "topics": [
             "Computer Programming",
             "New Technology",
