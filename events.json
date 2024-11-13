@@ -2308,6 +2308,41 @@
           "topics": [
           ],
           "venue": "27278002"
+        },
+        {
+          "description": "The end of 2024 is upon us and we shall feast 🍽️\n\nIn December we always take it easy and to let the year end, we have organized a 2h menu in Osaka to come together at a nice Izakaya for a good meal and drinks at the end of the year. 🍾\n\nWe arranged for a 4500円 menu that looks quite nice but we have to ask you for advance payment *(as we will be charged if you don't show up* 😅).\\*\n\nPlease note that the sign-up finishes earlier than for our regular events and also see the text below regarding menu and payment.\n\nIf you can't join we hope you have a good end of year and see you in 2025 or [→ in our discord](https://owddm.com/discord).\n\n\\-\\-\\-\n\nThe menu of the venue is changing every month. We don't have the December menu yet, here is the November menu for now:\n\n* Sea urchin-flavored pudding, bacon and broccoli potato salad, chicken and autumn vegetables with black vinegar sauce.\n* Grape and bean salad with sesame dressing\n* Boiled edamame with salt\n* Assorted Sashimi\n* Tempura of red fish and squid with yuzu pepper sauce\n* Grilled pork with truffle sauce\n* Udon noodles with saury-tempura and large nameko mushrooms\n\n*About the venue & menu:* We are sorry to not be able to prepare a Vegetarian option this year. Trying to organize is somewhat stressful we simply had to give up for our sanity. If this or some other aspect is important to you: help us organize the next event! (See: [https://owddm.com/about/#organization](https://owddm.com/about/#organization))\n\n*About the payment*: Meetup has direct PayPal payments that add a charge on top, if you would like to save, that you can pay in advance with Martin (martin.heidegger) or Allan (aldras0290) using different means (Wise, PayPay, PayPal, Bank transfer) - please contact us [→ in Discord.](https://owddm.com/discord)",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "PAYPAL",
+            "amount": 4500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": true
+          },
+          "howToFindUs": "Next to the BigEcho in Umeda, we are in the 8F. Meet 19:45 in front of the building.",
+          "id": "304523898",
+          "image": {
+            "date": 1734173400000,
+            "location": "images/events/5/2/4/676857.webp"
+          },
+          "maxTickets": 30,
+          "numberOfAllowedGuests": 99,
+          "time": 1734173400000,
+          "title": "End of Year 2024",
+          "topics": [
+            "New Technology",
+            "Web Design",
+            "Web Development",
+            "Web Technology"
+          ],
+          "venue": "27921130"
         }
       ],
       "foundedAt": 1404989737000,
@@ -3558,6 +3593,18 @@
       "lat": 34.681625,
       "lng": 135.48564,
       "name": "Awaza Station",
+      "postalCode": "meetup3",
+      "state": ""
+    },
+    {
+      "address": "〒530-0018 Osaka, Kita Ward, Komatsubaracho, 1−10 梅田パルビル 8F",
+      "city": "Osaka",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27921130",
+      "lat": 34.70219,
+      "lng": 135.50069,
+      "name": "楽蔵 Rakuzo Fine Dining",
       "postalCode": "meetup3",
       "state": ""
     }
