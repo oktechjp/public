@@ -2986,6 +2986,23 @@
             "Web Development"
           ],
           "venue": "27513738"
+        },
+        {
+          "description": "Hello Everyone!\n\nThe end of the year we relax and would like to invite you for a lunch get-together with a few members.\n\nIf you have time, it would be lovely if you could join us. If you can't, we are looking forward to meet you again in 2025 and hope you have a good end of year and are happy to meet you in our [Discord](https://owddm.com/discord).\n\nNote: The event is free of charge but you do have to take care of your order.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "304775103",
+          "image": {
+            "date": 1734663600000,
+            "location": "images/events/5/2/5/010473.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 0,
+          "time": 1734663600000,
+          "title": "Year-End Lunch",
+          "topics": [
+          ],
+          "venue": "27929005"
         }
       ],
       "foundedAt": 1657415783000,
@@ -3592,6 +3609,18 @@
       "lng": 135.50069,
       "name": "楽蔵 Rakuzo Fine Dining",
       "postalCode": "meetup3",
+      "state": ""
+    },
+    {
+      "address": "〒600-8022 Kyoto, Shimogyo Ward, Inaricho, 318-6 4階",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27929005",
+      "lat": 35.002525,
+      "lng": 135.76889,
+      "name": "Hyssop",
+      "postalCode": "meetup8",
       "state": ""
     },
     {
