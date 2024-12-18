@@ -2318,7 +2318,7 @@
             "date": 1734168600000,
             "location": "images/events/5/2/4/923448.webp"
           },
-          "maxTickets": 10,
+          "maxTickets": 12,
           "numberOfAllowedGuests": 99,
           "time": 1734168600000,
           "title": "End of Year 2024",
@@ -3000,6 +3000,23 @@
           "numberOfAllowedGuests": 0,
           "time": 1734663600000,
           "title": "Year-End Lunch",
+          "topics": [
+          ],
+          "venue": "27929005"
+        },
+        {
+          "description": "Hello Everyone!\n\n*Sadly, we couldn't manage to secure a location for the Year-end Lunch so we moved to have this Year-start Lunch instead.* 🥳\n\nTo kick the year off we like to invite you for a lunch get-together with a few members.\n\nIf you have time, it would be lovely if you could join us. If not, we are happy to see you at a future event or on [Discord](https://owddm.com/discord).\n\n*Note:* The event is free of charge but you do have to take care of your order.",
+          "duration": 7200000,
+          "feeSettings": null,
+          "id": "305142313",
+          "image": {
+            "date": 1736478000000,
+            "location": "images/events/5/2/5/277879.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 0,
+          "time": 1736478000000,
+          "title": "Year-Start Lunch",
           "topics": [
           ],
           "venue": "27929005"
