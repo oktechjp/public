@@ -2996,6 +2996,7 @@
             "date": 1734663600000,
             "location": "images/events/5/2/5/010473.webp"
           },
+          "isCancelled": true,
           "maxTickets": 0,
           "numberOfAllowedGuests": 0,
           "time": 1734663600000,
