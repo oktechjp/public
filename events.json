@@ -2351,6 +2351,29 @@
             "Web Development"
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "Let's use the cold time to stack up on tools!\n\nThis February we bring our notebooks and let Kinbiko show us how Docker can expand our tool belt. Docker has been very important in the tech industry for quite some time now. We will take 2 hours to see if Docker is still useful, learn how we can apply it in our tasks and get better a technology hat has become standard at this point.\n\n*Beginner? Intermediate? Advanced?* Everyone is welcome! While it is going to be difficult to make sure that everyone gets the same amount out of the workshop, our goal is that there is something for every level. We are looking forward for you to join us.\n\n(Discord Thread for more information → [here](https://discord.com/channels/1034792577293094972/1227218881697812550))\n\nWe are looking forward for you to join us at the date and until then, see you in → [Discord](https://owddm.com/discord)",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "305374822",
+          "image": {
+            "date": 1739606400000,
+            "location": "images/events/5/2/5/512189.webp"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1739606400000,
+          "title": "Docker Deep Dive",
+          "topics": [
+            "Computer Programming",
+            "New Technology",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
