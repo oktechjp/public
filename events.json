@@ -2418,6 +2418,29 @@
             "Workplace"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "Let's enjoy spring together!\n\nThe winter has passed and spend a day in the sun to forget the winter is the one of the best things in Japan. Bring some snacks, good mood and let's enjoy a day under the cherry trees!\nLet's touch grass together and make new connections.\nBut before we do that, **we have a few ground rules:**\n\n* Please bring your mat to sit on\n* Please bring your preferred snacks and drinks\n* Please clean up after yourself\n* Be kind\n\nIf you want to stay connected with us, please join our discord [here](https://discord.gg/dncTu75rvM). You can also keep an eye out by following us on LinkedIn [here](https://www.linkedin.com/company/owddm-kwddm/).\nWe hope you’re just as excited as we are for the Hanami! 🌸 お花見を楽しみにしていますね！\n\n*Note:* Depending on the weather forecast and cherry's bloom we may update the date to be on April 5th.",
+          "duration": 21600000,
+          "feeSettings": null,
+          "howToFindUs": "We will share photos and GPS of our spot on the day.",
+          "id": "305805233",
+          "image": {
+            "date": 1743213600000,
+            "location": "images/events/5/2/5/887285.webp"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 99,
+          "time": 1743213600000,
+          "title": "Osaka Hanami 2025",
+          "topics": [
+            "Computer Programming",
+            "Internet Professionals",
+            "Software Development",
+            "Web Design",
+            "Web Development"
+          ],
+          "venue": "27964003"
         }
       ],
       "foundedAt": 1404989737000,
@@ -3740,6 +3763,18 @@
       "lng": 135.50374,
       "name": "Robatayaki Kakure Chaya",
       "postalCode": "meetup3",
+      "state": ""
+    },
+    {
+      "address": "7 Kawahigashichō",
+      "city": "Nishinomiya",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "27964003",
+      "lat": 34.732857,
+      "lng": 135.32928,
+      "name": "Sakurashukugawa Riverside",
+      "postalCode": "meetup32",
       "state": ""
     }
   ]
