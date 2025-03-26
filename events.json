@@ -2431,7 +2431,7 @@
           },
           "maxTickets": 0,
           "numberOfAllowedGuests": 99,
-          "time": 1743901200,
+          "time": 1743901200000,
           "title": "Osaka Hanami 2025",
           "topics": [
             "Computer Programming",
