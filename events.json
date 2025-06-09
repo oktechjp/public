@@ -2486,6 +2486,42 @@
             "Web Development"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session** a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nIn this session, we’ll explore the **Walking Skeleton**, a software development technique introduced by Alistair Cockburn. It’s a deceptively simple yet powerful practice that helps you deliver value early, validate architecture choices, and build iteratively without getting lost in over engineering.\n\nWe’ll kick off with a short, practical introduction to the concept, followed by break out session to brainstorm about the topic and an open discussion to share perspectives, challenges, and real-world experiences. Whether you're already familiar with the idea or hearing about it for the first time, this session is designed to deepen your understanding through collaboration.\n\nSessions difficulty: Medium (2+ years in tech)\nMeeting Content:\n\n* Introduction (10 minutes)\n* Presentation (30 minutes)\n* Break out groups (15 minutes)\n* Discussion (25 minutes)\n* Feedback (10 minutes)\n\nDiscussion Style:\n\n* Raise your hand when you’d like to speak\n* After finishing your point, indicate who should go next\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "id": "307774539",
+          "image": {
+            "date": 1753005600000,
+            "location": "images/events/5/2/8/458708.webp"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1753005600000,
+          "title": "OKTech Study Session - A Walking Skeleton Approach",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
         }
       ],
       "foundedAt": 1404989737000,
@@ -3372,6 +3408,18 @@
       "name": "Sakura Internet",
       "postalCode": "530-0011",
       "state": "al"
+    },
+    {
+      "address": "大阪市東淀川区東中島1-13-13",
+      "city": "Osaka Prefecture",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "25963776",
+      "lat": 34.732063,
+      "lng": 135.5037,
+      "name": "KOKOPLAZA",
+      "postalCode": "",
+      "state": ""
     },
     {
       "address": "Chuo Ward, Azuchimachi, 1-chōme−8−１５, Nre Osaka Building, 3F",
