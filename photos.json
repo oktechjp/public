@@ -3450,7 +3450,8 @@
       "content": "Osaka Hanami 2025",
       "event": "305805233",
       "discordId": [
-        "1358708495217725461"
+        "1358708495217725461",
+        "1360071332435464255"
       ],
       "photos": [
         {
@@ -3482,6 +3483,18 @@
         {
           "date": 1744011722000,
           "location": "images/discord/meet-irl/1358708495217725461/1358708493292408915/IMG_4570.webp"
+        },
+        {
+          "date": 1744336620000,
+          "location": "images/discord/meet-irl/1360071332435464255/1360071329335742585/DSCF4919.webp"
+        },
+        {
+          "date": 1744336620000,
+          "location": "images/discord/meet-irl/1360071332435464255/1360071330560741437/DSCF4918.webp"
+        },
+        {
+          "date": 1744336620000,
+          "location": "images/discord/meet-irl/1360071332435464255/1360071331898458213/DSCF4917.webp"
         }
       ],
       "timestamp": 1743901200000
