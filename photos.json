@@ -3582,6 +3582,27 @@
         }
       ],
       "timestamp": 1748073600000
+    },
+    {
+      "content": "From last meetup",
+      "discordId": [
+        "1388093862811140219"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1388093862811140219/1388093859891904572/PXL_20250621_0420331092.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1388093862811140219/1388093861393469490/PXL_20250621_0425287982.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1388093862811140219/1388093861875945573/PXL_20250621_0438453472.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1388093862811140219/1388093862467080263/PXL_20250621_0629562173.webp"
+        }
+      ],
+      "timestamp": 1751017766431
     }
   ]
 }
