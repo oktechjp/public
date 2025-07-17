@@ -2511,9 +2511,45 @@
             "location": "images/events/5/2/8/458708.webp"
           },
           "maxTickets": 10,
-          "numberOfAllowedGuests": 2,
+          "numberOfAllowedGuests": 1,
           "time": 1753005600000,
           "title": "OKTech Study Session - A Walking Skeleton Approach",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nIn this first session in a 3-part series on **Domain-Driven Design (DDD)** we will dive into, understanding a set of principles and practices that help teams model complex software systems more effectively. Rather than just another buzzword, DDD is a collaborative approach that connects your code to the real-world domain it serves, enabling cleaner designs and more maintainable systems.\n\nWe’ll kick off with a clear, practical introduction to DDD and its key concepts, followed by breakout sessions where we explore how to *identify domains*, explain the *technical concepts* and speak a *ubiquitous language* with stakeholders. We’ll wrap up with an open discussion to share insights, challenges, and real-world experiences applying these ideas.\n\nWhether you’re completely new to DDD or looking to sharpen your understanding, these sessions are designed to help you take your first steps toward using DDD in practice. It is not problem to join only one of the sessions, but this series builds on previous sessions. **Therefore we encourage you to join all three to get the most out of it.**\n\nSession description:\n\n1. Not Another Acronym? -> Explaining the basic concepts of DDD\n2. A New Product Emerges -> Start Domain Modelling together\n3. DDD in Practice -> Explore ways to introduce DDD in your company\n\n**Session difficulty:** Medium (2+ years in tech)\n\n**Meeting Content:**\n\n* Introduction\n* Presentation: Not Another Acronym?\n* Breakout groups\n* Discussion\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* After finishing your point, indicate who should go next\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
+          "id": "308421828",
+          "image": {
+            "date": 1754215200000,
+            "location": "images/events/5/2/9/122169.webp"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 0,
+          "time": 1754215200000,
+          "title": "OKTech Study Session - DDD part 1: Not Another Acronym? ",
           "topics": [
             "Design Patterns",
             "Engineering Leadership",
