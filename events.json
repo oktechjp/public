@@ -2511,7 +2511,7 @@
             "location": "images/events/5/2/8/458708.webp"
           },
           "maxTickets": 10,
-          "numberOfAllowedGuests": 1,
+          "numberOfAllowedGuests": 0,
           "time": 1753005600000,
           "title": "OKTech Study Session - A Walking Skeleton Approach",
           "topics": [
@@ -3272,6 +3272,24 @@
           "topics": [
           ],
           "venue": "27929005"
+        },
+        {
+          "description": "Come escape the summer heat with Eduardo & Jake at the MoneyForward office in Kyoto!\n\nFor this session Eduardo will be discussing Omega Programming, a proposed framework for how to enhance the **programming workflow** between autonomous agents, and humans.\n\nAfterwards, Jake will be delving into the world of fonts and typography, with a hands on interactive demo and surprise towards the end.\n\nA special thank you to @luccafort and [MoneyForward](https://kyoto.moneyforward.com/en/) for lending us this space!",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "Find us in the 4th floor of the Meiji-ya Kyoto building",
+          "id": "310102122",
+          "image": {
+            "date": 1755921600000,
+            "location": "images/events/5/2/9/222484.webp"
+          },
+          "maxTickets": 30,
+          "numberOfAllowedGuests": 3,
+          "time": 1755921600000,
+          "title": "Omega Programming and Fonts",
+          "topics": [
+          ],
+          "venue": "28095701"
         }
       ],
       "foundedAt": 1657415783000,
@@ -3926,6 +3944,18 @@
       "lng": 135.32928,
       "name": "Sakurashukugawa Riverside",
       "postalCode": "meetup32",
+      "state": ""
+    },
+    {
+      "address": "〒604-8004 Kyoto, Nakagyo Ward, Nakajimacho, 78 明治屋京都ビル 4F",
+      "city": "Kyoto",
+      "country": "jp",
+      "crossStreet": null,
+      "id": "28095701",
+      "lat": 35.009003,
+      "lng": 135.76978,
+      "name": "MoneyForward Kyoto Office",
+      "postalCode": "meetup8",
       "state": ""
     }
   ]
