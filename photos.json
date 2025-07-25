@@ -3609,6 +3609,7 @@
       "discordId": [
         "1396667808653246514"
       ],
+      "event": "308580120",
       "photos": [
         {
           "location": "images/discord/event-photos/1396667808653246514/1396667805348135004/PXL_20250719_0823103382.webp"
@@ -3640,8 +3641,10 @@
     {
       "content": "",
       "discordId": [
-        "1396667961682559026"
+        "1396667961682559026",
+        "1397455655610220556"
       ],
+      "event": "307774539",
       "photos": [
         {
           "location": "images/discord/event-photos/1396667961682559026/1396667960449302538/PXL_20250720_0955503162.webp"
@@ -3651,16 +3654,7 @@
         },
         {
           "location": "images/discord/event-photos/1396667961682559026/1396667961455935638/PXL_20250720_1159016552.webp"
-        }
-      ],
-      "timestamp": 1753061990901
-    },
-    {
-      "content": "The lighting was not the best but I think we made it work! And for people who think we are struggling, the pictures are from doing an interesting exercise of figuring out what will be included in an Walking Skeleton or not. It allowed us to create a shared understanding of the concept and triggered a lot of discussions. It was a fun exercise to do 😃.",
-      "discordId": [
-        "1397455655610220556"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1397455655610220556/1397455654440140813/WhatsApp_Image_2025-07-21_at_00.19.58_048527d1.webp"
         },
