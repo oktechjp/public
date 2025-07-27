@@ -2560,6 +2560,42 @@
           "venue": "25963776"
         },
         {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nIn the second session in a 3-part series on **Domain-Driven Design (DDD)** we’ll move into **collaborative modeling**. Using a brand-new product idea as our case study, we’ll work with a *domain expert* to explore how DDD helps us shape software through a shared understanding of the problem space.\n\nWhether you’re completely new to DDD or looking to sharpen your understanding, these sessions are designed to help you take your first steps toward using DDD in practice. It is not a problem to join only one of the sessions, but this series builds on previous sessions. **Therefore we encourage you to join all three to get the most out of it.**\n\nSession description:\n\n1. Not Another Acronym? -> Explaining the basic concepts of DDD\n2. **A New Product Emerges -> Start Domain Modelling together**\n3. DDD in Practice -> Explore ways to introduce DDD in your company\n\n**Meeting Content:**\n\n* Introduction\n* Presentation: A new product emerges\n* Introduction of Domain Expert\n* Mini-Event Storming practice\n* Discussions\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "id": "308421830",
+          "image": {
+            "date": 1755424800000,
+            "location": "images/events/5/2/9/122188.webp"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1755424800000,
+          "title": "OKTech Study Session - DDD part 2: A new product emerges",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
+        },
+        {
           "description": "Big buzzwords are on the menu for this Summer where we are happy to invite both techy and non-techy people.\n\n[Karim](https://github.com/greenstorm) will be looking into a language processing topic and check out a classic machine learning topic which have become much easier. In his presentation on *\"Japanese Text Classification with Sentiment Analysis\"* he will show how to automatically try to understand japanese text. [→Thread](https://discord.com/channels/1034792577293094972/1323896484051030016)\n\nAfter that, in a pretty modern topic, [クリス](https://クリス.コム/) will be tackling a \"Agentic Coding\". He is looking at how to use AI agents to write code for you to avoid writing code yourself. [→ Thread](https://discord.com/channels/1034792577293094972/1365473022508535828)\n\nTo stay connected before/after the event, please join [→ Discord](https://owddm.com/discord)\nIn the [#presentation-proposal](https://discord.com/channels/1034792577293094972/1034862103653257306) channel we are happy to hear if you want to hold a presentation/lightning talk or workshop.",
           "duration": 7200000,
           "feeSettings": null,
