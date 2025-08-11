@@ -2576,14 +2576,14 @@
             },
             "required": false
           },
-          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
           "id": "308421830",
           "image": {
             "date": 1755424800000,
             "location": "images/events/5/2/9/122188.webp"
           },
           "maxTickets": 10,
-          "numberOfAllowedGuests": 2,
+          "numberOfAllowedGuests": 1,
           "time": 1755424800000,
           "title": "OKTech Study Session - DDD part 2: A new product emerges",
           "topics": [
@@ -2616,6 +2616,42 @@
             "Web Development"
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nIn this third session, we’ll bridge the gap between **problem space and solution space**. Building on the domain model from Part 2, we’ll explore how to translate it into working code using DDD’s tactical patterns: **Entities, Value Objects, Aggregates, and Invariants**. Through practical examples, we’ll see how to preserve business meaning in code and ensure it stays aligned with the domain over time.\n\nWhether you’re completely new to DDD or looking to sharpen your understanding, these sessions are designed to help you take your first steps toward using DDD in practice. It is not a problem to join only one of the sessions, but this series builds on previous sessions. **Therefore we encourage you to join all three to get the most out of it.**\n\n**Session description:**\n\n1. Not Another Acronym? → Explaining the basic concepts of DDD\n2. A New Product Emerges → Start Domain Modelling together\n3. **Putting the Model into Practice → Implementing the model in code**\n\n**Meeting Content:**\n\n* Introduction\n* Presentation: Putting the Model into Practice\n* Group exercise: Identify tactical patterns in our model\n* Discussion\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
+          "id": "309961693",
+          "image": {
+            "date": 1756634400000,
+            "location": "images/events/5/2/9/580731.webp"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1756634400000,
+          "title": "OKTech Study Session - DDD part 3: Putting the model into practice",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
         }
       ],
       "foundedAt": 1404989737000,
