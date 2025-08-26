@@ -2583,7 +2583,7 @@
             "location": "images/events/5/2/9/122188.webp"
           },
           "maxTickets": 10,
-          "numberOfAllowedGuests": 1,
+          "numberOfAllowedGuests": 2,
           "time": 1755424800000,
           "title": "OKTech Study Session - DDD part 2: A new product emerges",
           "topics": [
@@ -2644,6 +2644,42 @@
           "numberOfAllowedGuests": 2,
           "time": 1756634400000,
           "title": "OKTech Study Session - DDD part 3: Putting the model into practice",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nThis time, we’ll explore **Hexagonal Architecture** (also called the “Ports and Adapters” pattern). It’s a way of structuring software so that your core logic is independent from external concerns like databases, user interfaces, or third-party services. The goal: keep your application flexible, testable, and resilient to change.\n\nWe’ll kick things off with a clear, practical introduction to Hexagonal Architecture. Why it was created, what problems it solves, and how it compares to more traditional layered architectures. Then we’ll shift gears into an interactive workshop where you’ll **design a small system using hexagonal principles**, sketching out the “ports” and “adapters” that define how your application communicates with the outside world.\n\nWhether you’re new to the concept or looking to sharpen your understanding, this session is all about translating abstract principles into concrete design skills you can bring back to your projects.\n\n**Session difficulty:** Junior (familiarity with basic software architecture is helpful).\n\n**Meeting Content:**\n\n* Introduction\n* Presentation: Basics of Hexagonal Architecture\n* Breakout exercise: Designing a system together\n* Discussion\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
+          "id": "310707456",
+          "image": {
+            "date": 1757844000000,
+            "location": "images/events/5/2/9/839879.webp"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1757844000000,
+          "title": "OKTech Study Session - Breaking Boundaries with Hexagonal Architecture",
           "topics": [
             "Design Patterns",
             "Engineering Leadership",
