@@ -23,7 +23,7 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Cache Public
         id: cache-public
         uses: actions/cache@v4
@@ -33,10 +33,10 @@ jobs:
           restore-keys: |
             public-7
       - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - uses: actions/setup-node@v4
+        uses: actions/configure-pages@v5
+      - uses: actions/setup-node@v5
         with:
-          node-version: 18
+          node-version: 24
       - run: mkdir -p public; cp survey_statistics.json public/survey_statistics
       - run: npm ci
         working-directory: scripts/build

@@ -4,14 +4,15 @@
   "private": true,
   "module": "index.mjs",
   "scripts": {
-    "start": "bin/build"
+    "start": "bin/build",
+    "lint:fix": "npx prettier -w ."
   },
   "author": "Martin Heidegger <martin.heidegger@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "json-stringify-pretty-compact": "^4.0.0",
-    "p-map": "^7.0.1",
-    "sharp": "^0.33.2"
+    "p-map": "^7.0.3",
+    "sharp": "^0.34.3"
   },
   "devDependencies": {
     "@types/sharp": "^0.32.0"

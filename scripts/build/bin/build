@@ -1,39 +1,39 @@
 #!/usr/bin/env node
-;(async () => {
-  const { main } = await import('../index.mjs')
-  const formats = ['jpg', 'webp']
+(async () => {
+  const { main } = await import("../index.mjs");
+  const formats = ["jpg", "webp"];
   await main({
-    cwd: '../../',
+    cwd: "../../",
     stats: {
-      survey: 'survey_statistics.json'
+      survey: "survey_statistics.json",
     },
     transforms: {
       s: {
         formats,
         resize: {
           height: 200,
-          fit: 'inside'
-        }
+          fit: "inside",
+        },
       },
       m: {
         formats,
         resize: {
           width: 720,
           height: 720,
-          fit: 'inside'
-        }
+          fit: "inside",
+        },
       },
       l: {
         formats,
         resize: {
           width: 1600,
           height: 1600,
-          fit: 'inside'
-        }
-      }
-    }
-  })
-})().catch(err => {
-  console.error(err.stack)
-  process.exit(1)
-})
+          fit: "inside",
+        },
+      },
+    },
+  });
+})().catch((err) => {
+  console.error(err.stack);
+  process.exit(1);
+});
