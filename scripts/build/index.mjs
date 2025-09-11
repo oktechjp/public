@@ -12,7 +12,12 @@ export async function main({ cwd, stats, transforms }) {
   const [{ events, photos }, statistics, logo] = await Promise.all([
     processImages({ targetFolder, cwd, transforms }),
     processStatistics({ targetFolder, stats, cwd }),
-    copyFolderWithIndex({ targetFolder, cwd, folder: "images/logo-and-design" })
+    copyFolderWithIndex({
+      targetFolder,
+      cwd,
+      folder: "images/logo-and-design",
+      json: {},
+    }),
   ]);
   await writeJSON(join(targetFolder, "index.json"), {
     ...(await readJSON(join(cwd, "index.json"))),

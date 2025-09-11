@@ -1,7 +1,7 @@
 import stringify from "json-stringify-pretty-compact";
 import { readFile, writeFile, mkdir, access, cp, glob } from "node:fs/promises";
 import { dirname, join } from "node:path";
-import pmap from 'p-map';
+import pmap from "p-map";
 
 const start = Date.now();
 export function log(group, msg) {
@@ -38,19 +38,15 @@ export const copy = async (src, target, soft = false) => {
 export const readJSON = async (path) =>
   JSON.parse(await readFile(path, "utf8"));
 
-export async function copyFolderWithIndex({ targetFolder, cwd, folder }) {
+export async function copyFolderWithIndex({ targetFolder, cwd, folder, json }) {
   const source = join(cwd, folder);
   const target = join(targetFolder, folder);
   const files = await Array.fromAsync(glob("**/*", { cwd: source }));
-  await pmap(
+  await pmap(files, (file) => copy(join(source, file), join(target, file)), {
+    concurrency: 10,
+  });
+  return await writeJSON(join(target, "index.json"), {
+    ...json,
     files,
-    file => copy(
-      join(source, file),
-      join(target, file)
-    ),
-    {
-      concurrency: 10
-    }
-  )
-  return await writeJSON(join(target, 'index.json'), files)
+  });
 }
