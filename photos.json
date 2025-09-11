@@ -1687,13 +1687,13 @@
       "discordId": [
         "1123429804155359272"
       ],
-      "removed": true,
       "photos": [
         {
           "instructional": true,
           "location": "images/discord/event-photos/1123429804155359272/1123429803882709103/Screen_a_WDPr_-qnUlBNiefI98buR.webp"
         }
       ],
+      "removed": true,
       "timestamp": 1687916937627
     },
     {
@@ -3579,7 +3579,7 @@
       "timestamp": 1748073600000
     },
     {
-      "content": "From last meetup",
+      "content": "Go Workshop",
       "discordId": [
         "1388093862811140219"
       ],
@@ -3598,7 +3598,7 @@
           "location": "images/discord/event-photos/1388093862811140219/1388093862467080263/PXL_20250621_0629562173.webp"
         }
       ],
-      "timestamp": 1751017766431
+      "timestamp": 1750478400000
     },
     {
       "content": "Agentic Sentiments",
@@ -3664,7 +3664,7 @@
       "timestamp": 1753005600000
     },
     {
-      "content": "Omega Programming and Typography",
+      "content": "Omega Programming and Fonts",
       "discordId": [
         "1408748692726480927",
         "1408759624781271040",
@@ -3709,7 +3709,7 @@
           "location": "images/discord/event-photos/1408760283387662407/1408760283110965289/event-image-2.webp"
         }
       ],
-      "timestamp": 1755945025060
+      "timestamp": 1755921600000
     }
   ]
 }
