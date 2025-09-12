@@ -3414,6 +3414,9 @@
             "date": 1755921600000,
             "location": "images/events/5/2/9/222484.webp"
           },
+          "links": {
+            "linkedIn": "https://www.linkedin.com/events/7354435879374897152/"
+          },
           "maxTickets": 30,
           "numberOfAllowedGuests": 3,
           "time": 1755921600000,
