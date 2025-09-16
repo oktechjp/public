@@ -9,7 +9,7 @@ export async function main({ cwd, stats, transforms }) {
     .map((key) => ({ key, ...transforms[key] }));
   const targetFolder = join(cwd, "public");
   log("START", `Running with target folder ${targetFolder}`);
-  const [{ events, photos }, statistics, logo] = await Promise.all([
+  const [{ events, photos }, statistics, logo, docs] = await Promise.all([
     processImages({ targetFolder, cwd, transforms }),
     processStatistics({ targetFolder, stats, cwd }),
     copyFolderWithIndex({
@@ -18,6 +18,12 @@ export async function main({ cwd, stats, transforms }) {
       folder: "images/logo-and-design",
       json: {},
     }),
+    copyFolderWithIndex({
+      targetFolder,
+      cwd,
+      folder: 'docs',
+      json: {}
+    })
   ]);
   await writeJSON(join(targetFolder, "index.json"), {
     ...(await readJSON(join(cwd, "index.json"))),
@@ -26,6 +32,7 @@ export async function main({ cwd, stats, transforms }) {
     photos: relative(targetFolder, photos),
     events: relative(targetFolder, events),
     logo: relative(targetFolder, logo),
+    docs: relative(targetFolder, docs),
     statistics,
   });
   log("END", "done.");
