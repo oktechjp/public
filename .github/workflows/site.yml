@@ -55,6 +55,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.OWDDM_DEPLOY_GITHUB_TOKEN }}
       - run: |
-          gh workflow run astro.yml -R "owddm/chris-wireframe"
+          gh workflow run scheduler.yml -R "oktechjp/oktech.jp"
         env:
           GITHUB_TOKEN: ${{ secrets.DEPLOY_GITHUB_TOKEN }}
