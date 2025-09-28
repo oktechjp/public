@@ -8,29 +8,6 @@
       survey: "survey_statistics.json",
     },
     transforms: {
-      s: {
-        formats,
-        resize: {
-          height: 200,
-          fit: "inside",
-        },
-      },
-      m: {
-        formats,
-        resize: {
-          width: 720,
-          height: 720,
-          fit: "inside",
-        },
-      },
-      l: {
-        formats,
-        resize: {
-          width: 1600,
-          height: 1600,
-          fit: "inside",
-        },
-      },
     },
   });
 })().catch((err) => {
