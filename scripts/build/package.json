@@ -11,10 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "json-stringify-pretty-compact": "^4.0.0",
-    "p-map": "^7.0.3",
-    "sharp": "^0.34.3"
-  },
-  "devDependencies": {
-    "@types/sharp": "^0.32.0"
+    "p-map": "^7.0.3"
   }
 }
