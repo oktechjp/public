@@ -2677,7 +2677,7 @@
             "location": "images/events/5/2/9/839879.webp"
           },
           "maxTickets": 10,
-          "numberOfAllowedGuests": 2,
+          "numberOfAllowedGuests": 0,
           "time": 1759658400000,
           "title": "OKTech Study Session - Breaking Boundaries with Hexagonal Architecture",
           "topics": [
@@ -2690,19 +2690,19 @@
           "venue": "25963776"
         },
         {
-          "description": "Summer break - in case you had one - is over and the heat is still on! ☀️😎\n\nThis month we have two talks about how tech is going. Sacha will be talking about [State of HTML](https://stateofhtml.com/en-US) and the things he learned about how HTML developers are doing these days.\n\nAnd in our titular presentation, Martin will be exploring an aspect rarely reflected upon when talking about tech: Emotion, specifically *\"fears\"*. Over the years, he had many difficult situation and only now learned what they have in common. He will discuss fears such as *\"What if my code is breaks something?\"* , *\"What if I cant make the deadline?\"*, *\"What if my family hates me for staying up late?\"* and more. ([→ Discord Thread](https://discord.com/channels/1034792577293094972/1396842190453473280))\n\nOn a side note: This is going to be the last OWDDM Meetup.😳 Our name will change next month. 🎉 [Join our Discord](https://owddm.com/discord) and next meetup for more about it.",
+          "description": "Summer break - in case you had one - is over and the heat is still on! ☀️😎\n\nThis month we have two talks about how tech is going. Sacha will be talking about [State of HTML](https://stateofhtml.com/en-US) and the things he learned about how HTML developers are doing these days.\n\nAnd in our titular presentation, Martin will be exploring an aspect rarely reflected upon when talking about tech: Emotion, specifically *\"fears\"*. Over the years, he had many difficult situation and only now learned what they have in common. Looking at how fear impacts the technological progress. He will discuss fears such as *\"What if my code is breaks something?\"* , *\"What if I cant make the deadline?\"*, *\"What if my family hates me for staying up late?\"* and more. ([→ Discord Thread](https://discord.com/channels/1034792577293094972/1396842190453473280))\n\nOn a side note: This is going to be the last OWDDM Meetup.😳 Our name will change next month. 🎉 [Join our Discord](https://owddm.com/discord) and next meetup for more about it.",
           "duration": 7200000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "310853037",
           "image": {
             "date": 1758355200000,
-            "location": "images/events/5/3/0/013095.webp"
+            "location": "images/events/5/3/0/228191.webp"
           },
           "maxTickets": 40,
           "numberOfAllowedGuests": 99,
           "time": 1758355200000,
-          "title": "Fear & Coding in Osaka",
+          "title": "Fear in the Software Industry",
           "topics": [
             "Computers",
             "Psychology",
@@ -2711,6 +2711,44 @@
             "Workplace"
           ],
           "venue": "27553394"
+        },
+        {
+          "description": "OK... *What*? 🙀 Save the date! We celebrate! OK... **Tech**! 😎\n\nJoin us for the first official **OKTech** *Osaka Meetup*! We are ditching our super-long name for something easier to remember that gives more flexibility to do things. New Name, New Logo, New Homepage!\n\n*Come and celebrate with us! 🥂*\n\nFor our first official event we do something different! Meet us *for non-alcoholic drinks* and light networking at a special venue! Besides meeting interesting people we will also share a little with you what happened in the past years, how the logo and homepage came together and one or another technical note as well.\n\nIs this a paid event? Yes, but **two drinks are included with the price**! 🍸 Also, we will see to get some snacks to you. Stay tuned for updates!\n\nWe would be very happy if you could join and celebrate with us our the first proper **OKTech** Meetup!\n\nUntil then, see you [in Discord!](https://owddm.com/discord/)",
+          "duration": 10800000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 1000,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "id": "311083074",
+          "image": {
+            "date": 1761989400000,
+            "location": "images/events/5/3/0/438931.webp"
+          },
+          "links": {
+            "discord": "https://discord.gg/Ab94zz28?event=1422044821530476724",
+            "linkedIn": "https://www.linkedin.com/events/7378244133271846913/"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1761989400000,
+          "title": "Hello OKTech!",
+          "topics": [
+            "Community Building",
+            "Computer Programming",
+            "Logo Design",
+            "Web Development"
+          ],
+          "venue": "27398802"
         }
       ],
       "foundedAt": 1404989737000,
