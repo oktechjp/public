@@ -1,7 +1,6 @@
 #!/usr/bin/env node
 (async () => {
   const { main } = await import("../index.mjs");
-  const formats = ["jpg", "webp"];
   await main({
     cwd: "../../",
     stats: {
