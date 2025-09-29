@@ -3,8 +3,7 @@ import pmap from "p-map";
 import { writeJSON, readJSON } from "./util.mjs";
 import { preparePhoto } from "./prepare-photo.mjs";
 
-export async function processPhotoAlbums({ targetFolder, cwd, transforms }) {
-  const sharps = [];
+export async function processPhotoAlbums({ targetFolder, cwd }) {
   const copies = [];
   const photos = await readJSON(join(cwd, "photos.json"));
   const allPhotos = [];
@@ -33,30 +32,18 @@ export async function processPhotoAlbums({ targetFolder, cwd, transforms }) {
     async (target) =>
       await preparePhoto({
         cwd,
-        sharps,
         copies,
         target,
         targetFolder,
-        transforms,
       }),
     { concurrency: 5 },
   );
   return {
-    sharps,
     copies,
     finalize: () =>
       writeJSON(join(targetFolder, "photos.json"), {
-        transforms,
         ...photos,
-        groups: groups.map((group) => {
-          return {
-            ...group,
-            photos: group.photos.map((photo) => ({
-              ...photo,
-              res: transforms.map((transform) => photo.res[transform.key]),
-            })),
-          };
-        }),
+        groups,
       }),
   };
 }

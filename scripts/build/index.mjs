@@ -3,14 +3,11 @@ import { log, writeJSON, readJSON, copyFolderWithIndex } from "./lib/util.mjs";
 import { processStatistics } from "./lib/statistics.mjs";
 import { processImages } from "./lib/images.mjs";
 
-export async function main({ cwd, stats, transforms }) {
-  transforms = Object.keys(transforms)
-    .sort()
-    .map((key) => ({ key, ...transforms[key] }));
+export async function main({ cwd, stats }) {
   const targetFolder = join(cwd, "public");
   log("START", `Running with target folder ${targetFolder}`);
   const [{ events, photos }, statistics, logo, docs] = await Promise.all([
-    processImages({ targetFolder, cwd, transforms }),
+    processImages({ targetFolder, cwd }),
     processStatistics({ targetFolder, stats, cwd }),
     copyFolderWithIndex({
       targetFolder,

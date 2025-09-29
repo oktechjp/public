@@ -6,8 +6,6 @@
     stats: {
       survey: "survey_statistics.json",
     },
-    transforms: {
-    },
   });
 })().catch((err) => {
   console.error(err.stack);

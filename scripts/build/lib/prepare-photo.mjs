@@ -12,32 +12,13 @@ function toHexColor(rgbs, i) {
     .join("")}`;
 }
 
-function removeExt(filename) {
-  const d = filename.lastIndexOf(".");
-  if (d === -1) return filename;
-  return filename.substring(0, d);
-}
-
 export async function preparePhoto({
   cwd,
   targetFolder,
-  transforms,
-  sharps,
   copies,
   target,
 }) {
   const src = join(cwd, target.file);
-  const base = join(targetFolder, removeExt(target.file));
-  sharps.push(
-    ...transforms.map((transform) => ({
-      src,
-      // Note: this is a bit of a hack, but "target.res" is filled only while the sharps are processed
-      //       Kind of backwards nbut it works :sweat:
-      target,
-      base,
-      transform,
-    })),
-  );
   copies.push({ src, target: join(targetFolder, target.file) });
   if (!target.corners) {
     try {
