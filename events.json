@@ -2713,7 +2713,7 @@
           "venue": "27553394"
         },
         {
-          "description": "OK... *What*? 🙀 Save the date! We celebrate! OK... **Tech**! 😎\n\nJoin us for the first official **OKTech** *Osaka Meetup*! We are ditching our super-long name for something easier to remember that gives more flexibility to do things. New Name, New Logo, New Homepage!\n\n*Come and celebrate with us! 🥂*\n\nFor our first official event we do something different! Meet us *for non-alcoholic drinks* and light networking at a special venue! Besides meeting interesting people we will also share a little with you what happened in the past years, how the logo and homepage came together and one or another technical note as well.\n\nIs this a paid event? Yes, but **two drinks are included with the price**! 🍸 Also, we will see to get some snacks to you. Stay tuned for updates!\n\nWe would be very happy if you could join and celebrate with us our the first proper **OKTech** Meetup!\n\nUntil then, see you [in Discord!](https://owddm.com/discord/)",
+          "description": "OK... *What*? 🙀 Save the date! We celebrate! OK... **Tech**! 😎\n\nJoin us for the first official **OKTech** *Osaka Meetup*! We are ditching our super-long name for something easier to remember that gives more flexibility to do things. New Name, New Logo, New Homepage!\n\n*Come and celebrate with us! 🥂*\n\nFor our first official event we do something different! Meet us *for non-alcoholic drinks* and light networking at a special venue! Besides meeting interesting people we will also share a little with you what happened in the past years, how the logo and homepage came together and one or another technical note as well.\n\nIs this a paid event? Yes, but **two mocktails are included with the price**! 🍸 Also, we will see to get some snacks to you. Stay tuned for updates!\n\nWe would be very happy if you could join and celebrate with us our the first proper **OKTech** Meetup!\n\nUntil then, see you [in Discord!](https://owddm.com/discord/)",
           "duration": 10800000,
           "feeSettings": {
             "accepts": "CASH",
@@ -2748,7 +2748,87 @@
             "Logo Design",
             "Web Development"
           ],
-          "venue": "27398802"
+          "venue": "28149675"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nIn this session, we’ll dive into the **principle of slicing up solutions**: how to cut “elephants” (big pieces of work) into ultra-thin slices that are still functional, demo-able, and valuable. Through group exercises and discussion, you’ll practice writing tiny use cases and challenge yourself to slice thinner than you thought possible.\n\n**What you’ll do:**\n\n* Explore what makes a story a real slice (vertical, testable, user-value).\n* Practice writing 10–20 use cases for a simple product.\n* Reflect on how slicing affects teamwork and delivery.\n\n**Session difficulty:** Junior Engineer or Product Related (familiarity with basic SDLC is helpful).\n\n**Meeting Content:**\n\n* Introduction\n* Explain the subject\n* Story writing exercise\n* Discussion\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "id": "311323383",
+          "image": {
+            "date": 1760868000000,
+            "location": "images/events/5/3/0/502481.webp"
+          },
+          "links": {
+            "discord": "https://discord.gg/Vbf8Mrz2?event=1424614326102261790",
+            "linkedIn": "https://www.linkedin.com/events/7380820171646611456/"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1760868000000,
+          "title": "Study Session / Elephant Carpaccio Exercise Part 1: Slicing it up",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nThis **second session** let us put the elephant back together during a **practice with fast-paced implementation**. Working in pairs, you’ll take the tiny user stories you defined and bring them to life in short, timed sprints. Each slice must be demo-able, so you’ll experience first-hand the discipline of finishing thin, valuable increments **under real-world pressure**.\n\n**What you’ll do:**\n\n* Implement ultra-thin user stories in 5 × 8-minute coding rounds.\n* Practice TDD and pair programming to keep pace and code quality high.\n* Demo progress at the end of each round.\n* Reflect on the balance between speed, consistency, and design.\n\n**Session difficulty:** Junior Engineer or Product Related (familiarity with basic software developer is helpful).\n\n**IMPORTANT!** This session includes hands-on coding. Bring a laptop with your development setup ready (it's done in pairs).\n\n**Meeting Content:**\n\n* Introduction\n* Explain the subject\n* Coding exercise\n* Discussion\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* Keep each contribution to a maximum of 2 minutes",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "id": "311323444",
+          "image": {
+            "date": 1762682400000,
+            "location": "images/events/5/3/0/585422.webp"
+          },
+          "links": {
+            "discord": "https://discord.gg/pRyxCd7m?event=1424614621528195155",
+            "linkedIn": "https://www.linkedin.com/events/7380820693124517888/"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1762682400000,
+          "title": "Study Session / Elephant Carpaccio Exercise Part 2: Remaking it",
+          "topics": [
+            "Design Patterns",
+            "Engineering Leadership",
+            "Software Architecture",
+            "Software Development",
+            "Study Group"
+          ],
+          "venue": "25963776"
         }
       ],
       "foundedAt": 1404989737000,
