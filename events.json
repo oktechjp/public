@@ -4093,16 +4093,15 @@
       "postalCode": "550-0005"
     },
     {
-      "address": "宇治駅,",
+      "address": "Otsukata Uji",
       "city": "Uji",
-      "country": "JP",
-      "crossStreet": null,
+      "country": "jp",
+      "gmaps": "https://maps.app.goo.gl/FS4G5gmQu66vpWH29",
       "id": "27879454",
       "lat": 34.894188,
       "lng": 135.80666,
-      "name": "京阪宇治駅",
-      "postalCode": "meetup112",
-      "state": ""
+      "name": "Keihan Uji Station",
+      "postalCode": "611-0021"
     },
     {
       "address": "Kita-ku Komatsubara-chō 1-10, Umeda Pal Bld. 8F",
