@@ -2751,6 +2751,29 @@
           "venue": "27398802"
         },
         {
+          "description": "Did you know there's a hidden fifth season hiding in plain sight between Japan's suffocating summer heat and its beautiful fall folliage? That's right, it's hiking season!\n\nLet's explore Uji and its mountains while it's still t-shirt weather. We'll walk through the forest all the way to Amagase Dam and then make our way on the other side of the Uji river.\n\nWe should be back in town early enough to get a matcha latte, parfait, cake, or basically anything you want as long as it's matcha-flavored – that's kind of Uji's thing.\n\nMore info about the hike:\n\nhttps://yamap.com/activities/15027183\n\nWhat to bring:\n\n\\- Water\n\\- Food \\(we'll picnic during the hike\\)\n\\- Insect repellent\n\\- Light windbreaker/raincoat\n\\- Comfortable shoes \\(hiking shoes not required\\)",
+          "duration": 18000000,
+          "feeSettings": null,
+          "howToFindUs": "We'll meet in front of the Uji sightseeing guide map in front of the Uji Keihan Station. \n\n(Note: make sure you come to the **Uji Keihan station**, and not the Uji JR station, which is a 5-min walk away on the other side of the river)",
+          "id": "311083115",
+          "image": {
+            "date": 1761440400000,
+            "location": "images/events/5/3/0/743451.webp"
+          },
+          "links": {
+            "discord": "https://discord.gg/U2NTC42Z?event=1427831349099888700",
+            "linkedIn": "https://www.linkedin.com/events/7384038076068614145/"
+          },
+          "maxTickets": 0,
+          "numberOfAllowedGuests": 0,
+          "time": 1761440400000,
+          "title": "Autumn Adventure in Uji",
+          "topics": [
+            "Hiking"
+          ],
+          "venue": "27879454"
+        },
+        {
           "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **Study Session**, a gathering for engineers who don’t just code, but want to understand the *why* and *how* behind solid software design.\n\nIn this session, we’ll dive into the **principle of slicing up solutions**: how to cut “elephants” (big pieces of work) into ultra-thin slices that are still functional, demo-able, and valuable. Through group exercises and discussion, you’ll practice writing tiny use cases and challenge yourself to slice thinner than you thought possible.\n\n**What you’ll do:**\n\n* Explore what makes a story a real slice (vertical, testable, user-value).\n* Practice writing 10–20 use cases for a simple product.\n* Reflect on how slicing affects teamwork and delivery.\n\n**Session difficulty:** Junior Engineer or Product Related (familiarity with basic SDLC is helpful).\n\n**Meeting Content:**\n\n* Introduction\n* Explain the subject\n* Story writing exercise\n* Discussion\n* Feedback & Wrap-up\n\n**Discussion Style:**\n\n* Raise your hand when you’d like to speak\n* Keep each contribution to a maximum of 2 minutes",
           "duration": 7200000,
           "feeSettings": {
@@ -4068,6 +4091,18 @@
       "lng": 135.48564,
       "name": "Awaza Station",
       "postalCode": "550-0005"
+    },
+    {
+      "address": "宇治駅,",
+      "city": "Uji",
+      "country": "JP",
+      "crossStreet": null,
+      "id": "27879454",
+      "lat": 34.894188,
+      "lng": 135.80666,
+      "name": "京阪宇治駅",
+      "postalCode": "meetup112",
+      "state": ""
     },
     {
       "address": "Kita-ku Komatsubara-chō 1-10, Umeda Pal Bld. 8F",
