@@ -3063,8 +3063,7 @@
     {
       "content": "Key to Resume",
       "discordId": [
-        "1282184813012324423",
-        "1287245242193543220"
+        "1282184813012324423"
       ],
       "event": "302750416",
       "photos": [
@@ -3079,7 +3078,17 @@
         },
         {
           "location": "images/discord/event-photos/1282184813012324423/1282184813058592810/IMG_20240907_1834393.webp"
-        },
+        }
+      ],
+      "timestamp": 1725696000000
+    },
+    {
+      "content": "LLM/Gen AI in Practice",
+      "discordId": [
+        "1287245242193543220"
+      ],
+      "event": "302886855",
+      "photos": [
         {
           "location": "images/discord/event-photos/1287245242193543220/1287245239899394070/IMG_20240921_1733422.webp"
         },
