@@ -2887,7 +2887,10 @@
           "feeSettings": null,
           "howToFindUs": "We'll meet in front of the Uji sightseeing guide map in front of the Uji Keihan Station. \n\n(Note: make sure you come to the **Uji Keihan station**, and not the Uji JR station, which is a 5-min walk away on the other side of the river)",
           "id": "311725714",
-          "image": "530743451",
+          "image": {
+            "date": 1762219414541,
+            "location": "images/events/5/3/1/117564.webp"
+          },
           "isCancelled": true,
           "links": {
             "discord": "https://discord.gg/8nSn63FK?event=1435082284482171097",
