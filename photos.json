@@ -3083,7 +3083,7 @@
       "timestamp": 1725696000000
     },
     {
-      "content": "LLM/Gen AI in Practice",
+      "content": "LLMs / GenAI in Practice",
       "discordId": [
         "1287245242193543220"
       ],
@@ -3108,7 +3108,7 @@
           "location": "images/discord/event-photos/1287245242193543220/1287245242235621406/IMG_20240921_1832232.webp"
         }
       ],
-      "timestamp": 1725696000000
+      "timestamp": 1726905600000
     },
     {
       "content": "Kiyotakigawa Escape",
@@ -3721,7 +3721,45 @@
       "timestamp": 1755921600000
     },
     {
-      "content": "",
+      "content": "OKTech Study Session - Breaking Boundaries with Hexagonal Architecture",
+      "discordId": [
+        "1434895170398326944"
+      ],
+      "event": "310707456",
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1434895170398326944/1434895168447840367/PXL_20251005_1204129162.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1434895170398326944/1434895168825200770/PXL_20251005_1138068632.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1434895170398326944/1434895169253281852/PXL_20251005_1117309642.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1434895170398326944/1434895169727103147/PXL_20251005_1038377192.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1434895170398326944/1434895170167377930/PXL_20251005_1111241532.webp"
+        }
+      ],
+      "timestamp": 1759658400000
+    },
+    {
+      "content": "Study Session / Elephant Carpaccio Exercise Part 1: Slicing it up",
+      "discordId": [
+        "1434892420985786502"
+      ],
+      "event": "311323383",
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1434892420985786502/1434892420557963354/PXL_20251019_1007202224.webp"
+        }
+      ],
+      "timestamp": 1760868000000
+    },
+    {
+      "content": "Hello OKTech!",
       "discordId": [
         "1434882735800848434",
         "1434882799424245870",
@@ -3929,45 +3967,18 @@
           "location": "images/discord/event-photos/1434890101770555524/1434890101535670303/PXL_20251101_1127064612.webp"
         }
       ],
-      "timestamp": 1762174859231
+      "timestamp": 1761989400000
     },
     {
-      "content": "I only took one at the last Study session on Oct. 19th.",
-      "discordId": [
-        "1434892420985786502"
-      ],
-      "event": "311323383",
+      "content": "Autumn Adventure in Uji (rescheduled)",
+      "event": "311725714",
       "photos": [
         {
-          "location": "images/discord/event-photos/1434892420985786502/1434892420557963354/PXL_20251019_1007202224.webp"
+          "date": 1762219414541,
+          "location": "images/events/5/3/1/117564.webp"
         }
       ],
-      "timestamp": 1762175412175
-    },
-    {
-      "content": "Photos from the Study sessions Oct. 5th",
-      "discordId": [
-        "1434895170398326944"
-      ],
-      "event": "310707456",
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1434895170398326944/1434895168447840367/PXL_20251005_1204129162.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1434895170398326944/1434895168825200770/PXL_20251005_1138068632.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1434895170398326944/1434895169253281852/PXL_20251005_1117309642.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1434895170398326944/1434895169727103147/PXL_20251005_1038377192.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1434895170398326944/1434895170167377930/PXL_20251005_1111241532.webp"
-        }
-      ],
-      "timestamp": 1762176067686
+      "timestamp": 1763967600000
     }
   ]
 }
