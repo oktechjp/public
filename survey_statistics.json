@@ -1,5 +1,5 @@
 {
-  "responses": 68,
+  "responses": 69,
   "location": {
     "osaka": 34,
     "kyoto": 17,
@@ -11,19 +11,20 @@
     "Shimane, Izumo": 1,
     "Nagoya": 1,
     "shiga": 1,
-    "In between osaka and kyoto": 1
+    "In between osaka and kyoto": 1,
+    "Hachioji, Tokyo": 1
   },
   "english": {
-    "count": 67,
+    "count": 68,
     "min": 1,
     "max": 4,
-    "mean": 3.417910447761194,
+    "mean": 3.411764705882353,
     "median": 4,
     "mode": 4,
     "byValue": {
       "1": 2,
       "2": 10,
-      "3": 13,
+      "3": 14,
       "4": 42
     }
   },
@@ -61,21 +62,21 @@
         "find_new_business",
         "share_knowledge",
         "share_experience",
-        "gain_reputation",
         "learn_kansai",
+        "gain_reputation",
         "practice_english"
       ]
     },
     "detail": {
       "practice_english": {
-        "count": 62,
+        "count": 63,
         "min": 0,
         "max": 4,
-        "mean": 0.7580645161290323,
+        "mean": 0.746031746031746,
         "median": 0,
         "mode": 0,
         "byValue": {
-          "0": 43,
+          "0": 44,
           "1": 2,
           "2": 10,
           "3": 3,
@@ -83,130 +84,130 @@
         }
       },
       "share_knowledge": {
-        "count": 65,
+        "count": 66,
         "min": 0,
         "max": 4,
-        "mean": 2.5076923076923077,
+        "mean": 2.5,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 2,
           "1": 8,
-          "2": 27,
+          "2": 28,
           "3": 11,
           "4": 17
         }
       },
       "share_experience": {
-        "count": 65,
+        "count": 66,
         "min": 0,
         "max": 4,
-        "mean": 2.4307692307692306,
+        "mean": 2.4242424242424243,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 2,
           "1": 9,
-          "2": 27,
+          "2": 28,
           "3": 13,
           "4": 14
         }
       },
       "learn_new_things": {
-        "count": 67,
+        "count": 68,
         "min": 2,
         "max": 4,
-        "mean": 3.5671641791044775,
+        "mean": 3.5441176470588234,
         "median": 4,
         "mode": 4,
         "byValue": {
-          "2": 5,
+          "2": 6,
           "3": 19,
           "4": 43
         }
       },
       "get_to_know_others": {
-        "count": 67,
+        "count": 68,
         "min": 2,
         "max": 4,
-        "mean": 3.4776119402985075,
+        "mean": 3.4558823529411766,
         "median": 4,
         "mode": 4,
         "byValue": {
-          "2": 5,
+          "2": 6,
           "3": 25,
           "4": 37
         }
       },
       "gain_reputation": {
-        "count": 63,
+        "count": 64,
         "min": 0,
         "max": 4,
-        "mean": 1.7142857142857142,
+        "mean": 1.71875,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 10,
           "1": 17,
-          "2": 23,
+          "2": 24,
           "3": 7,
           "4": 6
         }
       },
       "find_new_business": {
-        "count": 66,
+        "count": 67,
         "min": 0,
         "max": 4,
-        "mean": 2.4545454545454546,
+        "mean": 2.4477611940298507,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 9,
           "1": 5,
-          "2": 15,
+          "2": 16,
           "3": 21,
           "4": 16
         }
       },
       "find_friends": {
-        "count": 65,
+        "count": 66,
         "min": 1,
         "max": 4,
-        "mean": 3,
+        "mean": 2.984848484848485,
         "median": 3,
         "mode": 3,
         "byValue": {
           "1": 2,
-          "2": 18,
+          "2": 19,
           "3": 23,
           "4": 22
         }
       },
       "learn_kansai": {
-        "count": 64,
+        "count": 65,
         "min": 0,
         "max": 4,
-        "mean": 1.890625,
+        "mean": 1.8923076923076922,
         "median": 2,
-        "mode": 1,
+        "mode": 2,
         "byValue": {
           "0": 13,
           "1": 14,
-          "2": 14,
+          "2": 15,
           "3": 13,
           "4": 10
         }
       },
       "find_collaborators": {
-        "count": 66,
+        "count": 67,
         "min": 0,
         "max": 4,
-        "mean": 2.6363636363636362,
+        "mean": 2.611940298507463,
         "median": 3,
         "mode": 4,
         "byValue": {
           "0": 1,
-          "1": 15,
+          "1": 16,
           "2": 11,
           "3": 19,
           "4": 20
@@ -215,25 +216,25 @@
     }
   },
   "topics": {
-    "frontend": 54,
-    "scripting": 44,
-    "backend": 43,
-    "career": 41,
-    "webdesign": 41,
+    "frontend": 55,
+    "scripting": 45,
+    "backend": 44,
+    "career": 42,
+    "webdesign": 42,
+    "databases": 38,
     "usability": 37,
-    "databases": 37,
-    "web-sec": 33,
+    "web-sec": 34,
     "accessibility": 32,
-    "hacks": 31,
-    "hosting": 28,
+    "hacks": 32,
+    "hosting": 29,
     "planning": 26,
-    "dataviz": 24,
-    "irl-connection": 24,
-    "activism": 22,
-    "intl": 21,
+    "dataviz": 25,
+    "irl-connection": 25,
+    "activism": 23,
+    "intl": 22,
     "art": 18,
-    "infrastructure": 17,
-    "web3": 12,
+    "infrastructure": 18,
+    "web3": 13,
     "integration": 11
   },
   "interest": {
@@ -268,54 +269,54 @@
     },
     "detail": {
       "in_person_meetups": {
-        "count": 65,
+        "count": 66,
         "min": 1,
         "max": 4,
-        "mean": 3.4615384615384617,
+        "mean": 3.4696969696969697,
         "median": 4,
         "mode": 4,
         "byValue": {
           "1": 1,
           "2": 7,
           "3": 18,
-          "4": 39
+          "4": 40
         }
       },
       "online_meetups": {
-        "count": 62,
+        "count": 63,
         "min": 0,
         "max": 4,
-        "mean": 2.129032258064516,
+        "mean": 2.126984126984127,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 10,
           "1": 11,
-          "2": 15,
+          "2": 16,
           "3": 13,
           "4": 13
         }
       },
       "presentations": {
-        "count": 63,
+        "count": 64,
         "min": 0,
         "max": 4,
-        "mean": 2.6825396825396823,
+        "mean": 2.6875,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 2,
           "1": 6,
           "2": 17,
-          "3": 23,
+          "3": 24,
           "4": 15
         }
       },
       "workshops": {
-        "count": 64,
+        "count": 65,
         "min": 0,
         "max": 4,
-        "mean": 2.890625,
+        "mean": 2.9076923076923076,
         "median": 3,
         "mode": 3,
         "byValue": {
@@ -323,50 +324,50 @@
           "1": 2,
           "2": 15,
           "3": 23,
-          "4": 21
+          "4": 22
         }
       },
       "going_out": {
-        "count": 62,
+        "count": 63,
         "min": 0,
         "max": 4,
-        "mean": 2.4193548387096775,
+        "mean": 2.4285714285714284,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 6,
           "1": 7,
           "2": 21,
-          "3": 11,
+          "3": 12,
           "4": 17
         }
       },
       "group_activities": {
-        "count": 63,
+        "count": 64,
         "min": 0,
         "max": 4,
-        "mean": 2.2857142857142856,
+        "mean": 2.28125,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 6,
           "1": 12,
-          "2": 19,
+          "2": 20,
           "3": 10,
           "4": 16
         }
       },
       "hangouts": {
-        "count": 64,
+        "count": 65,
         "min": 0,
         "max": 4,
-        "mean": 2.484375,
+        "mean": 2.476923076923077,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 1,
           "1": 12,
-          "2": 21,
+          "2": 22,
           "3": 15,
           "4": 15
         }
@@ -377,8 +378,8 @@
     "ranked": {
       "mean": [
         "be_monthly",
-        "personal",
         "rotate_presenters",
+        "personal",
         "held_in_english",
         "end_on_time",
         "formal",
@@ -386,8 +387,8 @@
       ],
       "median": [
         "be_monthly",
-        "personal",
         "rotate_presenters",
+        "personal",
         "held_in_english",
         "end_on_time",
         "formal",
@@ -395,8 +396,8 @@
       ],
       "mode": [
         "be_monthly",
-        "personal",
         "rotate_presenters",
+        "personal",
         "held_in_english",
         "end_on_time",
         "formal",
@@ -405,82 +406,82 @@
     },
     "detail": {
       "formal": {
-        "count": 61,
+        "count": 62,
         "min": 0,
         "max": 4,
-        "mean": 1.6065573770491803,
+        "mean": 1.596774193548387,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 13,
-          "1": 9,
+          "1": 10,
           "2": 32,
           "3": 3,
           "4": 4
         }
       },
       "personal": {
-        "count": 64,
+        "count": 65,
         "min": 1,
         "max": 4,
-        "mean": 2.609375,
+        "mean": 2.6153846153846154,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 3,
           "2": 30,
-          "3": 20,
+          "3": 21,
           "4": 11
         }
       },
       "end_on_time": {
-        "count": 62,
+        "count": 63,
         "min": 0,
         "max": 4,
-        "mean": 2.161290322580645,
+        "mean": 2.1746031746031744,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 4,
           "1": 6,
           "2": 35,
-          "3": 10,
+          "3": 11,
           "4": 7
         }
       },
       "rotate_presenters": {
-        "count": 61,
+        "count": 62,
         "min": 1,
         "max": 4,
-        "mean": 2.6065573770491803,
+        "mean": 2.629032258064516,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 1,
           "2": 32,
           "3": 18,
-          "4": 10
+          "4": 11
         }
       },
       "be_monthly": {
-        "count": 62,
+        "count": 63,
         "min": 1,
         "max": 4,
-        "mean": 2.6129032258064515,
-        "median": 2.5,
+        "mean": 2.634920634920635,
+        "median": 3,
         "mode": 2,
         "byValue": {
           "1": 1,
           "2": 30,
           "3": 23,
-          "4": 8
+          "4": 9
         }
       },
       "held_in_english": {
-        "count": 63,
+        "count": 64,
         "min": 0,
         "max": 4,
-        "mean": 2.492063492063492,
+        "mean": 2.515625,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -488,19 +489,19 @@
           "1": 3,
           "2": 31,
           "3": 16,
-          "4": 11
+          "4": 12
         }
       },
       "be_annonymous": {
-        "count": 61,
+        "count": 62,
         "min": 0,
         "max": 3,
-        "mean": 1.3934426229508197,
+        "mean": 1.3870967741935485,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 13,
-          "1": 13,
+          "1": 14,
           "2": 33,
           "3": 2
         }
@@ -508,11 +509,11 @@
     }
   },
   "times": {
-    "saturday-evening": 54,
+    "saturday-evening": 55,
     "saturday-noon": 43,
-    "sunday-noon": 37,
+    "sunday-noon": 38,
     "friday": 34,
-    "sunday-evening": 31
+    "sunday-evening": 32
   },
   "sns": {
     "ranked": {
@@ -529,8 +530,8 @@
         "discord",
         "github",
         "meetup",
-        "line",
         "slack",
+        "line",
         "twitter",
         "fb"
       ],
@@ -546,25 +547,25 @@
     },
     "detail": {
       "meetup": {
-        "count": 54,
+        "count": 55,
         "min": 0,
         "max": 4,
-        "mean": 2.611111111111111,
+        "mean": 2.618181818181818,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 1,
           "1": 4,
           "2": 15,
-          "3": 29,
+          "3": 30,
           "4": 5
         }
       },
       "github": {
-        "count": 51,
+        "count": 52,
         "min": 0,
         "max": 4,
-        "mean": 2.6666666666666665,
+        "mean": 2.6923076923076925,
         "median": 3,
         "mode": 3,
         "byValue": {
@@ -572,81 +573,81 @@
           "1": 4,
           "2": 14,
           "3": 20,
-          "4": 11
+          "4": 12
         }
       },
       "line": {
-        "count": 52,
+        "count": 53,
         "min": 0,
         "max": 4,
-        "mean": 2.423076923076923,
+        "mean": 2.4339622641509435,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 4,
           "1": 7,
           "2": 16,
-          "3": 13,
+          "3": 14,
           "4": 12
         }
       },
       "fb": {
-        "count": 51,
+        "count": 52,
         "min": 0,
         "max": 4,
-        "mean": 1.588235294117647,
+        "mean": 1.6153846153846154,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 13,
           "1": 7,
           "2": 21,
-          "3": 8,
+          "3": 9,
           "4": 2
         }
       },
       "discord": {
-        "count": 50,
+        "count": 51,
         "min": 0,
         "max": 4,
-        "mean": 2.72,
+        "mean": 2.7058823529411766,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 3,
           "1": 1,
-          "2": 15,
+          "2": 16,
           "3": 19,
           "4": 12
         }
       },
       "slack": {
-        "count": 49,
+        "count": 50,
         "min": 0,
         "max": 4,
-        "mean": 2.2244897959183674,
-        "median": 2,
+        "mean": 2.24,
+        "median": 2.5,
         "mode": 3,
         "byValue": {
           "0": 8,
           "1": 2,
           "2": 15,
-          "3": 19,
+          "3": 20,
           "4": 5
         }
       },
       "twitter": {
-        "count": 51,
+        "count": 52,
         "min": 0,
         "max": 4,
-        "mean": 1.6862745098039216,
+        "mean": 1.7115384615384615,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 12,
           "1": 10,
           "2": 16,
-          "3": 8,
+          "3": 9,
           "4": 5
         }
       }
