@@ -6,6 +6,18 @@
 	#r { fill: #fd4d69; fill: device-cmyk(0 83% 43% 0); }
 	#g { fill: #49d773; fill: device-cmyk(58% 0 80% 0); }
 	#b { fill: #459bc9; fill: device-cmyk(69% 26% 7% 0); }
+	[data-variant="fall"] #r { fill: #FC963F; }
+	[data-variant="fall"] #g { fill: #F9413C; }
+	[data-variant="fall"] #b { fill: #86251C; }
+	[data-variant="christmas"] #r { fill: #F93256; }
+	[data-variant="christmas"] #g { fill: #188B2B; }
+	[data-variant="christmas"] #b { fill: #C77E17; }
+	[data-variant="winter"] #r { fill: #D4EAFE; }
+	[data-variant="winter"] #g { fill: #B5DCFF; }
+	[data-variant="winter"] #b { fill: #3888BD; }
+	[data-variant="sakura"] #r { fill: #FC91E2; }
+	[data-variant="sakura"] #g { fill: #8CF0A5; }
+	[data-variant="sakura"] #b { fill: #5EDC6E; }
 	]]></style></defs>
 	<path d="M52.0369194,25 L64,107 C43.3914353,106.769117 25.4591475,91.7738589 22.4375446,71.0551274 C19.4159418,50.3242442 32.3410021,30.9543568 52.0369194,25.0121517 L52.0369194,25 Z" />
 	<path id="r" d="M90.9880074,32.9579992 C83.8643911,26.8243604 74.7380074,23.1588393 65,23 L69.5212177,55 L91,32.9702176 L90.9880074,32.9579992 Z" />

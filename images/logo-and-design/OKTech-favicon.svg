@@ -15,6 +15,18 @@
 	@media (prefers-color-scheme: light) {
 		g { background: none !important; }
 	}
+	[data-variant="fall"] #r { fill: #FC963F; }
+	[data-variant="fall"] #g { fill: #F9413C; }
+	[data-variant="fall"] #b { fill: #86251C; }
+	[data-variant="christmas"] #r { fill: #F93256; }
+	[data-variant="christmas"] #g { fill: #188B2B; }
+	[data-variant="christmas"] #b { fill: #C77E17; }
+	[data-variant="winter"] #r { fill: #D4EAFE; }
+	[data-variant="winter"] #g { fill: #B5DCFF; }
+	[data-variant="winter"] #b { fill: #3888BD; }
+	[data-variant="sakura"] #r { fill: #FC91E2; }
+	[data-variant="sakura"] #g { fill: #8CF0A5; }
+	[data-variant="sakura"] #b { fill: #5EDC6E; }
 	]]></style></defs>
 	<g>
 		<path id="k" d="M39.85,17.02l9.7,67.48c-16.71-.19-31.25-12.53-33.7-29.58-2.45-17.06,8.03-33,24-37.89Z" />
