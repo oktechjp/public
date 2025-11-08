@@ -3,17 +3,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="256" height="256">
 	<defs>
 		<style><![CDATA[
-	#k { fill: #2a2b36; }
-	#r { fill: #fd4d69; }
-	#g { fill: #49d773; }
-	#b { fill: #459bc9; }
+	path { fill: #2a2b36 }
 
 	@media (prefers-color-scheme: dark) {
 		g { background: none !important; }
-		#k { fill: #fff !important; }
+		path { fill: #fff !important; }
 	}
 	@media (prefers-color-scheme: light) {
 		g { background: none !important; }
+	}
+	g {
+		rotate: 8.2deg;
+		transform-origin: center;
 	}
 	]]></style></defs>
 	<g>
