@@ -3996,6 +3996,7 @@
       "discordId": [
         "1437227778788294707"
       ],
+      "event": "311323444",
       "photos": [
         {
           "location": "images/discord/event-photos/1437227778788294707/1437227777765019749/PXL_20251109_1024539912.webp"
@@ -4008,17 +4009,6 @@
         }
       ],
       "timestamp": 1762732204864
-    },
-    {
-      "content": "Autumn Adventure in Uji (rescheduled)",
-      "event": "311725714",
-      "photos": [
-        {
-          "date": 1762219414541,
-          "location": "images/events/5/3/1/117564.webp"
-        }
-      ],
-      "timestamp": 1763946000000
     }
   ]
 }
