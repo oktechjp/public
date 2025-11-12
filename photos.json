@@ -4009,6 +4009,17 @@
         }
       ],
       "timestamp": 1762682400000
+    },
+    {
+      "content": "Study Session: Inversion of Control & Dependency Injection",
+      "event": "311974329",
+      "photos": [
+        {
+          "date": 1762962546576,
+          "location": "images/events/5/3/1/265681.webp"
+        }
+      ],
+      "timestamp": 1763892000000
     }
   ]
 }
