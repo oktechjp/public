@@ -2903,6 +2903,43 @@
             "Hiking"
           ],
           "venue": "27879454"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the _why_ and _how_ behind solid software design.\n\nThis session we’ll explore one of the most fundamental, yet often misunderstood, ideas in modern software architecture: **Inversion of Control and Dependency Injection**.\n\nSoftware should be simple but the moment one class starts creating another, a responsibility comes into play and this simplicity disappears. We’ll tackle this issue with **Inversion of Control (IoC)** and **Dependency Injection (DI)**, two principles that quietly power most modern frameworks and systems you use.\n\nThese concepts help us write more modular, testable, and maintainable software. Along the way, we’ll dive into the practical aspects: **containers, types of injection, state management**, and what _“losing control”_ really means (in a good way).\n\nExpect a mix of presentation, collaborative discussion, and small practical exercises. This session will be hands-on and reflective, no frameworks required, just your curiosity.\n\n**Session difficulty:** Junior Engineer (familiarity with basic software developer is helpful).\n\n**Meeting Content:**\n\n- Event Introduction\n- Explain Inversion of Control & Dependency Injection\n- Practical Coding Challenge\n- Reflect on real world examples\n- Feedback & Wrap-up\n",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We'll meet in front of the Uji sightseeing guide map in front of the Uji Keihan Station. \n\n(Note: make sure you come to the **Uji Keihan station**, and not the Uji JR station, which is a 5-min walk away on the other side of the river)",
+          "id": "311974329",
+          "image": "531117564",
+          "links": {
+            "discord": "https://discord.com/events/1034792577293094972/1438179735094952196",
+            "linkedIn": "https://www.linkedin.com/events/7394388461472034816/"
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1763892000000,
+          "title": "Study Session: Inversion of Control & Dependency Injection",
+          "topics": [
+            "Engineering Leadership",
+            "Software Architecture",
+            "Study Group",
+            "Design Patterns",
+            "Software Development"
+          ],
+          "venue": "25963776"
         }
       ],
       "foundedAt": 1404989737000,
