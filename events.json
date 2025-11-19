@@ -2905,6 +2905,29 @@
           "venue": "27879454"
         },
         {
+          "description": "This year we have a pre-Christmas 🥂🎄event with lovely presentations!\n\nThe end of the year is coming quickly and this is a time to huddle together and company of friends. For this occasion we are happy to have two interesting presenters join us.\n\nAs a researcher, _PKK_ will be sharing ideas on how to _\"Build applications around Satellite imagery\"_. Bringing insight into the available image data and showing what is possible! Join the → [Discord Thread](https://discord.com/channels/1034792577293094972/1438331659517694092) and share what sector you are in if you want some special preparations!\n\n_Tilmann_, our security specialist, will be talking about how to deal with _\"Developer credentials and how to find them\"_ - a timely topics as hacking of companies becomes a somewhat daily occurrence. (→ [Discord Thread](https://discord.com/channels/1034792577293094972/1409388395033002055))\n\nIf you want to talk to us about this or other topics, feel free to 🎉 [Join our Discord](https://owddm.com/discord) and let us know if you have another brief presentation for us! (→ [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306))",
+          "duration": 7200000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "311973741",
+          "image": {
+            "date": 1763555488184,
+            "location": "images/events/5/3/1/383694.webp"
+          },
+          "maxTickets": 40,
+          "numberOfAllowedGuests": 99,
+          "time": 1766217600000,
+          "title": "Satellite Images & Dev. Credentials",
+          "topics": [
+            "Software Security",
+            "Software Development",
+            "DevOps",
+            "Computers",
+            "Satellite"
+          ],
+          "venue": "27553394"
+        },
+        {
           "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the _why_ and _how_ behind solid software design.\n\nThis session we’ll explore one of the most fundamental, yet often misunderstood, ideas in modern software architecture: **Inversion of Control and Dependency Injection**.\n\nSoftware should be simple but the moment one class starts creating another, a responsibility comes into play and this simplicity disappears. We’ll tackle this issue with **Inversion of Control (IoC)** and **Dependency Injection (DI)**, two principles that quietly power most modern frameworks and systems you use.\n\nThese concepts help us write more modular, testable, and maintainable software. Along the way, we’ll dive into the practical aspects: **containers, types of injection, state management**, and what _“losing control”_ really means (in a good way).\n\nExpect a mix of presentation, collaborative discussion, and small practical exercises. This session will be hands-on and reflective, no frameworks required, just your curiosity.\n\n**Session difficulty:** Junior Engineer (familiarity with basic software developer is helpful).\n\n**Meeting Content:**\n\n- Event Introduction\n- Explain Inversion of Control & Dependency Injection\n- Practical Coding Challenge\n- Reflect on real world examples\n- Feedback & Wrap-up\n",
           "duration": 7200000,
           "feeSettings": {
