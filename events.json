@@ -2914,6 +2914,10 @@
             "date": 1763555488184,
             "location": "images/events/5/3/1/383694.webp"
           },
+          "links": {
+            "discord": "https://discord.gg/Qag6XuKM?event=1441230404743860386",
+            "linkedIn": "https://www.linkedin.com/events/7397440701023776768/"
+          },
           "maxTickets": 40,
           "numberOfAllowedGuests": 99,
           "time": 1766217600000,
