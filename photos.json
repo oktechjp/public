@@ -4011,6 +4011,30 @@
       "timestamp": 1762682400000
     },
     {
+      "content": "",
+      "discordId": [
+        "1442070167537324095"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1442070167537324095/1442070165692088361/IMG_20251122_192258.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442070167537324095/1442070166186758164/IMG_20251122_191015.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442070167537324095/1442070166686138501/IMG_20251122_190207.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442070167537324095/1442070167231402035/IMG_20251122_185656.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442070167537324095/1442070167558553670/IMG_20251122_185641.webp"
+        }
+      ],
+      "timestamp": 1763886720309
+    },
+    {
       "content": "Study Session: Inversion of Control & Dependency Injection",
       "event": "311974329",
       "photos": [
@@ -4020,6 +4044,39 @@
         }
       ],
       "timestamp": 1763892000000
+    },
+    {
+      "content": "Yesterday's event photos by me",
+      "discordId": [
+        "1442098746249969734"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098742852587530/PXL_20251122_0826496062.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098743276077186/PXL_20251122_0827157522.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098743745970207/PXL_20251122_0827480372.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098744181919785/PXL_20251122_0853240442.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098744739758112/PXL_20251122_0858047052.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098745289474178/PXL_20251122_0902002502.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098745679286375/PXL_20251122_0954375632.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442098746249969734/1442098746031603722/PXL_20251122_0954437002.webp"
+        }
+      ],
+      "timestamp": 1763893534005
     }
   ]
 }
