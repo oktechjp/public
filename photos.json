@@ -4013,8 +4013,10 @@
     {
       "content": "",
       "discordId": [
-        "1442070167537324095"
+        "1442070167537324095",
+        "1442098746249969734"
       ],
+      "event": "308667063",
       "photos": [
         {
           "location": "images/discord/event-photos/1442070167537324095/1442070165692088361/IMG_20251122_192258.webp"
@@ -4030,27 +4032,7 @@
         },
         {
           "location": "images/discord/event-photos/1442070167537324095/1442070167558553670/IMG_20251122_185641.webp"
-        }
-      ],
-      "timestamp": 1763886720309
-    },
-    {
-      "content": "Study Session: Inversion of Control & Dependency Injection",
-      "event": "311974329",
-      "photos": [
-        {
-          "date": 1762962546576,
-          "location": "images/events/5/3/1/265681.webp"
-        }
-      ],
-      "timestamp": 1763892000000
-    },
-    {
-      "content": "Yesterday's event photos by me",
-      "discordId": [
-        "1442098746249969734"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442098746249969734/1442098742852587530/PXL_20251122_0826496062.webp"
         },
@@ -4079,10 +4061,21 @@
       "timestamp": 1763893534005
     },
     {
+      "content": "Study Session: Inversion of Control & Dependency Injection",
+      "event": "311974329",
+      "photos": [
+      ],
+      "timestamp": 1763892000000
+    },
+    {
       "content": "",
       "discordId": [
-        "1442434037326282844"
+        "1442434037326282844",
+        "1442434050244612166",
+        "1442531878447087758",
+        "1442648273042145393"
       ],
+      "event": "311725714",
       "photos": [
         {
           "location": "images/discord/event-photos/1442434037326282844/1442434030023868449/IMG_7569.webp"
@@ -4113,28 +4106,7 @@
         },
         {
           "location": "images/discord/event-photos/1442434037326282844/1442434036885618688/IMG_7604.webp"
-        }
-      ],
-      "timestamp": 1763973473627
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442434050244612166"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1442434050244612166/1442434049741426688/IMG_7627.webp"
-        }
-      ],
-      "timestamp": 1763973476707
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442531878447087758"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442531878447087758/1442531874663694457/PXL_20251124_050549686.webp"
         },
@@ -4155,16 +4127,7 @@
         },
         {
           "location": "images/discord/event-photos/1442531878447087758/1442531878287573012/PXL_20251124_041125612.webp"
-        }
-      ],
-      "timestamp": 1763996800768
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442648273042145393"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442648273042145393/1442648269032521819/PXL_20251124_053309402.webp"
         },
@@ -4191,6 +4154,7 @@
       "discordId": [
         "1442679091445891072"
       ],
+      "event": "311974329",
       "photos": [
         {
           "location": "images/discord/event-photos/1442679091445891072/1442679088975183902/PXL_20251123_102606352.NIGHT2.webp"
@@ -4213,12 +4177,7 @@
     {
       "content": "Vibe Coding Collab",
       "event": "312103306",
-      "photos": [
-        {
-          "date": 1764035979395,
-          "location": "images/events/5/3/1/479811.webp"
-        }
-      ],
+      "photos": [],
       "timestamp": 1764669600000
     }
   ]
