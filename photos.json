@@ -4011,7 +4011,7 @@
       "timestamp": 1762682400000
     },
     {
-      "content": "",
+      "content": "Alpine JavaScript Numbers and Business Cards",
       "discordId": [
         "1442070167537324095",
         "1442098746249969734"
@@ -4058,7 +4058,7 @@
           "location": "images/discord/event-photos/1442098746249969734/1442098746031603722/PXL_20251122_0954437002.webp"
         }
       ],
-      "timestamp": 1763893534005
+      "timestamp": 1763798400000
     },
     {
       "content": "Study Session: Inversion of Control & Dependency Injection",
@@ -4068,7 +4068,32 @@
       "timestamp": 1763892000000
     },
     {
-      "content": "",
+      "content": "Study Session: Inversion of Control & Dependency Injection",
+      "discordId": [
+        "1442679091445891072"
+      ],
+      "event": "311974329",
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1442679091445891072/1442679088975183902/PXL_20251123_102606352.NIGHT2.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442679091445891072/1442679089516384387/PXL_20251123_102620612.NIGHT2.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442679091445891072/1442679090137010341/PXL_20251123_114319493.NIGHT3.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442679091445891072/1442679090653040791/PXL_20251123_115405110.NIGHT3.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442679091445891072/1442679091227529387/PXL_20251123_1114495212.webp"
+        }
+      ],
+      "timestamp": 1763892000000
+    },
+    {
+      "content": "Autumn Adventure in Uji (rescheduled)",
       "discordId": [
         "1442434037326282844",
         "1442434050244612166",
@@ -4106,6 +4131,9 @@
         },
         {
           "location": "images/discord/event-photos/1442434037326282844/1442434036885618688/IMG_7604.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1442434050244612166/1442434049741426688/IMG_7627.webp"
         },
         {
           "location": "images/discord/event-photos/1442531878447087758/1442531874663694457/PXL_20251124_050549686.webp"
@@ -4147,37 +4175,13 @@
           "location": "images/discord/event-photos/1442648273042145393/1442648272756936744/PXL_20251124_031912708.webp"
         }
       ],
-      "timestamp": 1764024551402
-    },
-    {
-      "content": "Sunday photos",
-      "discordId": [
-        "1442679091445891072"
-      ],
-      "event": "311974329",
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1442679091445891072/1442679088975183902/PXL_20251123_102606352.NIGHT2.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1442679091445891072/1442679089516384387/PXL_20251123_102620612.NIGHT2.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1442679091445891072/1442679090137010341/PXL_20251123_114319493.NIGHT3.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1442679091445891072/1442679090653040791/PXL_20251123_115405110.NIGHT3.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1442679091445891072/1442679091227529387/PXL_20251123_1114495212.webp"
-        }
-      ],
-      "timestamp": 1764031899082
+      "timestamp": 1763946000000
     },
     {
       "content": "Vibe Coding Collab",
       "event": "312103306",
-      "photos": [],
+      "photos": [
+      ],
       "timestamp": 1764669600000
     }
   ]
