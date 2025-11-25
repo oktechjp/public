@@ -4173,14 +4173,7 @@
         },
         {
           "location": "images/discord/event-photos/1442648273042145393/1442648272756936744/PXL_20251124_031912708.webp"
-        }
-      ],
-      "timestamp": 1763946000000
-    },
-    {
-      "content": "Vibe Coding Collab",
-      "event": "312103306",
-      "photos": [
+        },
         {
           "date": 1764033830871,
           "location": "images/events/5/3/1/470444.webp"
@@ -4202,6 +4195,12 @@
           "location": "images/events/5/3/1/470449.webp"
         }
       ],
+      "timestamp": 1763946000000
+    },
+    {
+      "content": "Vibe Coding Collab",
+      "event": "312103306",
+      "photos": [],
       "timestamp": 1764669600000
     }
   ]
