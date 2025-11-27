@@ -4338,6 +4338,17 @@
       "photos": [
       ],
       "timestamp": 1764669600000
+    },
+    {
+      "content": "🎄End-of-year event: Satellite Images, Dev. Credentials, and Potluck!🍫",
+      "event": "311973741",
+      "photos": [
+        {
+          "date": 1763555488184,
+          "location": "images/events/5/3/1/383694.webp"
+        }
+      ],
+      "timestamp": 1766217600000
     }
   ]
 }
