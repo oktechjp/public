@@ -4180,26 +4180,6 @@
           "location": "images/discord/event-photos/1442648273042145393/1442648272756936744/PXL_20251124_031912708.webp"
         },
         {
-          "date": 1764033830871,
-          "location": "images/events/5/3/1/470444.webp"
-        },
-        {
-          "date": 1764033852860,
-          "location": "images/events/5/3/1/470445.webp"
-        },
-        {
-          "date": 1764033883744,
-          "location": "images/events/5/3/1/470447.webp"
-        },
-        {
-          "date": 1764033891006,
-          "location": "images/events/5/3/1/470448.webp"
-        },
-        {
-          "date": 1764033903240,
-          "location": "images/events/5/3/1/470449.webp"
-        },
-        {
           "location": "images/discord/event-photos/1442777574710444075/1442777573296832612/PXL_20251124_0433124052.webp"
         },
         {
@@ -4288,9 +4268,29 @@
         },
         {
           "location": "images/discord/event-photos/1442899550976086117/1442899550992994304/IMG_2737.webp"
+        },
+        {
+          "date": 1764033830871,
+          "location": "images/events/5/3/1/470444.webp"
+        },
+        {
+          "date": 1764033852860,
+          "location": "images/events/5/3/1/470445.webp"
+        },
+        {
+          "date": 1764033883744,
+          "location": "images/events/5/3/1/470447.webp"
+        },
+        {
+          "date": 1764033891006,
+          "location": "images/events/5/3/1/470448.webp"
+        },
+        {
+          "date": 1764033903240,
+          "location": "images/events/5/3/1/470449.webp"
         }
       ],
-      "timestamp": 1764084460730
+      "timestamp": 1763946000000
     },
     {
       "content": "Vibe Coding Collab",
@@ -4300,9 +4300,44 @@
       "timestamp": 1764669600000
     },
     {
+      "content": "",
+      "discordId": [
+        "1445624477013508136"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624474421432392/PXL_20251202_1010174112.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624474857898147/PXL_20251202_1015121882.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624475243511858/PXL_20251202_1010577272.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624475629391932/PXL_20251202_1012141292.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624476028108880/PXL_20251202_1032569012.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624476380168212/PXL_20251202_1049152902.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1445624477013508136/1445624476837351454/PXL_20251202_1151369462.webp"
+        }
+      ],
+      "timestamp": 1764734133724
+    },
+    {
       "content": "🎄End-of-year event: Satellite Images, Dev. Credentials, and Potluck!🍫",
       "event": "311973741",
-      "photos": [],
+      "photos": [
+        {
+          "date": 1763555488184,
+          "location": "images/events/5/3/1/383694.webp"
+        }
+      ],
       "timestamp": 1766217600000
     }
   ]
