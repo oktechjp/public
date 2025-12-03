@@ -4098,7 +4098,12 @@
         "1442434037326282844",
         "1442434050244612166",
         "1442531878447087758",
-        "1442648273042145393"
+        "1442648273042145393",
+        "1442777574710444075",
+        "1442816451663761438",
+        "1442848965249728635",
+        "1442848988565868685",
+        "1442899550976086117"
       ],
       "event": "311725714",
       "photos": [
@@ -4193,16 +4198,7 @@
         {
           "date": 1764033903240,
           "location": "images/events/5/3/1/470449.webp"
-        }
-      ],
-      "timestamp": 1763946000000
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442777574710444075"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442777574710444075/1442777573296832612/PXL_20251124_0433124052.webp"
         },
@@ -4211,16 +4207,7 @@
         },
         {
           "location": "images/discord/event-photos/1442777574710444075/1442777574676627507/PXL_20251124_0148369942.webp"
-        }
-      ],
-      "timestamp": 1764055379322
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442816451663761438"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442816451663761438/1442816442717175829/DSCF2537.webp"
         },
@@ -4250,16 +4237,7 @@
         },
         {
           "location": "images/discord/event-photos/1442816451663761438/1442816451324149911/DSCF2632.webp"
-        }
-      ],
-      "timestamp": 1764064648310
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442848965249728635"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442848965249728635/1442848958685909094/IMG_9778.webp"
         },
@@ -4289,16 +4267,7 @@
         },
         {
           "location": "images/discord/event-photos/1442848965249728635/1442848964977102959/IMG_9757.webp"
-        }
-      ],
-      "timestamp": 1764072400153
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442848988565868685"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442848988565868685/1442848986506596443/IMG_9753.webp"
         },
@@ -4310,16 +4279,7 @@
         },
         {
           "location": "images/discord/event-photos/1442848988565868685/1442848988305948835/IMG_9716.webp"
-        }
-      ],
-      "timestamp": 1764072405712
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1442899550976086117"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1442899550976086117/1442899549659201556/IMG_2735.webp"
         },
@@ -4342,12 +4302,7 @@
     {
       "content": "🎄End-of-year event: Satellite Images, Dev. Credentials, and Potluck!🍫",
       "event": "311973741",
-      "photos": [
-        {
-          "date": 1763555488184,
-          "location": "images/events/5/3/1/383694.webp"
-        }
-      ],
+      "photos": [],
       "timestamp": 1766217600000
     }
   ]
