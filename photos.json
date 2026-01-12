@@ -4294,10 +4294,14 @@
     },
     {
       "content": "Vibe Coding Collab",
-      "discordId": [
-        "1445624477013508136"
-      ],
       "event": "312103306",
+      "discordId": [
+        "1445624477013508136",
+        "1445818196392284285",
+        "1446123296595906601",
+        "1446123699185913959",
+        "1446123591664930986"
+      ],
       "photos": [
         {
           "location": "images/discord/event-photos/1445624477013508136/1445624474421432392/PXL_20251202_1010174112.webp"
@@ -4319,16 +4323,7 @@
         },
         {
           "location": "images/discord/event-photos/1445624477013508136/1445624476837351454/PXL_20251202_1151369462.webp"
-        }
-      ],
-      "timestamp": 1764669600000
-    },
-    {
-      "content": "Handstand Coach Screen Shot",
-      "discordId": [
-        "1445818196392284285"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1445818196392284285/1445818195201228811/73.webp"
         },
@@ -4337,16 +4332,7 @@
         },
         {
           "location": "images/discord/event-photos/1445818196392284285/1445818196266450985/85.webp"
-        }
-      ],
-      "timestamp": 1764780320023
-    },
-    {
-      "content": "Good evening everyone! \nI wanted to say thank you for coming on Tuesday to the Vibe Coding evening ✨\n\nAlso huge thanks for the help with the place and organization goes to <@531578097737400330>, <@629268599726407690>, <@709464912904323072>, and to XpressAI for providing snacks and beverages ✨\n\nIt was a pleasure to meet you all, and I enjoyed the results of your experiments so much! \n\nHope to meet you again in the future 🙏",
-      "discordId": [
-        "1446123296595906601"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1446123296595906601/1446123290769756340/DSC05430.webp"
         },
@@ -4376,16 +4362,7 @@
         },
         {
           "location": "images/discord/event-photos/1446123296595906601/1446123296352370829/DSC05448.webp"
-        }
-      ],
-      "timestamp": 1764853061580
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1446123591664930986"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1446123591664930986/1446123589626757171/DSC05450.webp"
         },
@@ -4400,16 +4377,7 @@
         },
         {
           "location": "images/discord/event-photos/1446123591664930986/1446123591417597993/DSC05461.webp"
-        }
-      ],
-      "timestamp": 1764853131930
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1446123699185913959"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1446123699185913959/1446123696329723965/DSC05467.webp"
         },
@@ -4432,22 +4400,16 @@
       "timestamp": 1764853157565
     },
     {
-      "content": "🎄End-of-year event: Satellite Images, Dev. Credentials, and Potluck!🍫",
+      "content": "A bit later but I took a few at the last event.",
+      "discordId": [
+        "1454456400557117593"
+      ],
       "event": "311973741",
       "photos": [
         {
           "date": 1763555488184,
           "location": "images/events/5/3/1/383694.webp"
-        }
-      ],
-      "timestamp": 1766217600000
-    },
-    {
-      "content": "A bit later but I took a few at the last event.",
-      "discordId": [
-        "1454456400557117593"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1454456400557117593/1454456394022518825/PXL_20251220_0800320132.webp"
         },
