@@ -4440,6 +4440,42 @@
         }
       ],
       "timestamp": 1766217600000
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1465027612672790811"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027607967039498/PXL_20260124_0833224352.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027608642191444/PXL_20260124_0830220972.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027609053364355/PXL_20260124_0833034192.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027609682514062/PXL_20260124_0836261022.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027610181370028/PXL_20260124_0845521282.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027610604998698/PXL_20260124_0931564082.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027611062173839/PXL_20260124_0953350512.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027611565625536/PXL_20260124_1011212082.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1465027612672790811/1465027612207349800/PXL_20260124_1031494092.webp"
+        }
+      ],
+      "timestamp": 1769360201758
     }
   ]
 }
