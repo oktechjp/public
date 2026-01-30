@@ -3036,11 +3036,13 @@
             "location": "images/events/5/3/2/501221.webp"
           },
           "links": {
+            "discord": "https://discord.com/events/1034792577293094972/1466666882521104517",
+            "linkedIn": "https://www.linkedin.com/events/7422874780510621699/"
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
           "time": 1772265600000,
-          "title": "Communicate UX & AI Experiments",
+          "title": "Communicate UX & Digital Breadcrumbs",
           "topics": [
             "AI and Society",
             "Software Security",
