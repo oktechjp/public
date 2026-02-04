@@ -3053,6 +3053,126 @@
           "venue": "27553394"
         },
         {
+          "description": "**Event-Driven Architecture: From Communication to Reality (3-Part Workshop Series)**\n\nAre you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the _why_ and _how_ behind solid software design.\n\n**Session Summary:** Event-Driven Architecture (EDA) promises loose coupling, scalability, and flexibility. In practice, it also introduces new kinds of complexity, subtle failure modes, and long-term maintenance challenges. In this three-part workshop series, we’ll explore EDA from first principles to real-world operation. The focus is on **architectural decisions, trade-offs, and consequences,** not on tools or frameworks.\n\n### Part 1 – How do event systems communicate? (current)\n\nStarting with the fundamentals of communication in distributed systems:\n\n- Synchronous vs asynchronous communication\n- Events vs commands (and why the distinction matters)\n- Pub/Sub, Point-to-Point, Request-Reply, and Streaming patterns\n\n**Goal:** Build a clear mental model of communication styles and understand how each choice affects the system.\n\n### Part 2 – What happens when things go wrong?\n\nBecause in distributed systems, failure is given:\n\n- Poison messages and failing consumers\n- Idempotency and duplicate delivery\n- Out-of-order events\n- Delivery guarantees\n\n**Goal:** Learn how to design event-driven systems that assume failure and remain reliable when unexpected things happen.\n\n### Part 3 – How to maintain an EDA?\n\nOnce the system is running, the real challenges begin:\n\n- Monitoring and correlating event flows\n- Event versioning and documentation\n- Testing event communication\n\n**Goal:** Understand how to keep an event-driven system observable, evolvable, and maintainable over time.\n\n### How do we work?\n\n- Small group to encourage discussion and participation\n- Concept- and practice-focused, not tool-specific\n- Interactive discussions and exercises\n- The sessions build on each other, so attending all three is strongly recommended\n\nWho is it for?\n\n- Software engineers with **2–3+ years of professional experience**\n- Developers working on backend or distributed systems\n- Engineers who have used events before, or expect to work with them soon\n- People who want to reason about architecture, not just apply patterns by name\n\nYou don’t need to be an EDA expert, but some hands-on software engineering experience is expected.\n",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
+          "id": "313122758",
+          "image": {
+            "date": 1770217472357,
+            "location": "images/events/5/3/2/580042.webp"
+          },
+          "links": {
+            "discord": "",
+            "linkedIn": ""
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1771149600000,
+          "title": "Event Driven Architecture Part 1: How do we talk?",
+          "topics": [
+            "Engineering Leadership",
+            "Software Architecture",
+            "Study Group",
+            "Design Patterns",
+            "Software Development"
+          ],
+          "venue": "25963776"
+        },
+        {
+          "description": "**Event-Driven Architecture: From Communication to Reality (3-Part Workshop Series)**\n\nAre you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the _why_ and _how_ behind solid software design.\n\n**Session Summary:** Event-Driven Architecture (EDA) promises loose coupling, scalability, and flexibility. In practice, it also introduces new kinds of complexity, subtle failure modes, and long-term maintenance challenges. In this three-part workshop series, we’ll explore EDA from first principles to real-world operation. The focus is on **architectural decisions, trade-offs, and consequences,** not on tools or frameworks.\n\n### Part 1 – How do event systems communicate? (done)\n\nStarting with the fundamentals of communication in distributed systems:\n\n- Synchronous vs asynchronous communication\n- Events vs commands (and why the distinction matters)\n- Pub/Sub, Point-to-Point, Request-Reply, and Streaming patterns\n\n**Goal:** Build a clear mental model of communication styles and understand how each choice affects the system.\n\n### Part 2 – What happens when things go wrong? (current)\n\nBecause in distributed systems, failure is given:\n\n- Poison messages and failing consumers\n- Idempotency and duplicate delivery\n- Out-of-order events\n- Delivery guarantees\n\n**Goal:** Learn how to design event-driven systems that assume failure and remain reliable when unexpected things happen.\n\n### Part 3 – How to maintain an EDA?\n\nOnce the system is running, the real challenges begin:\n\n- Monitoring and correlating event flows\n- Event versioning and documentation\n- Testing event communication\n\n**Goal:** Understand how to keep an event-driven system observable, evolvable, and maintainable over time.\n\n### How do we work?\n\n- Small group to encourage discussion and participation\n- Concept- and practice-focused, not tool-specific\n- Interactive discussions and exercises\n- The sessions build on each other, so attending all three is strongly recommended\n\nWho is it for?\n\n- Software engineers with **2–3+ years of professional experience**\n- Developers working on backend or distributed systems\n- Engineers who have used events before, or expect to work with them soon\n- People who want to reason about architecture, not just apply patterns by name\n\nYou don’t need to be an EDA expert, but some hands-on software engineering experience is expected.\n",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
+          "id": "313122761",
+          "image": {
+            "date": 1770217417549,
+            "location": "images/events/5/3/2/580208.webp"
+          },
+          "links": {
+            "discord": "",
+            "linkedIn": ""
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1772359200000,
+          "title": "Event Driven Architecture Part 2: What happens when reality intervenes?",
+          "topics": [
+            "Engineering Leadership",
+            "Software Architecture",
+            "Study Group",
+            "Design Patterns",
+            "Software Development"
+          ],
+          "venue": "25963776"
+        },
+        {
+          "description": "**Event-Driven Architecture: From Communication to Reality (3-Part Workshop Series)**\n\nAre you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don’t just code, but want to understand the _why_ and _how_ behind solid software design.\n\n**Session Summary:** Event-Driven Architecture (EDA) promises loose coupling, scalability, and flexibility. In practice, it also introduces new kinds of complexity, subtle failure modes, and long-term maintenance challenges. In this three-part workshop series, we’ll explore EDA from first principles to real-world operation. The focus is on **architectural decisions, trade-offs, and consequences,** not on tools or frameworks.\n\n### Part 1 – How do event systems communicate? (done)\n\nStarting with the fundamentals of communication in distributed systems:\n\n- Synchronous vs asynchronous communication\n- Events vs commands (and why the distinction matters)\n- Pub/Sub, Point-to-Point, Request-Reply, and Streaming patterns\n\n**Goal:** Build a clear mental model of communication styles and understand how each choice affects the system.\n\n### Part 2 – What happens when things go wrong? (done)\n\nBecause in distributed systems, failure is given:\n\n- Poison messages and failing consumers\n- Idempotency and duplicate delivery\n- Out-of-order events\n- Delivery guarantees\n\n**Goal:** Learn how to design event-driven systems that assume failure and remain reliable when unexpected things happen.\n\n### Part 3 – How to maintain an EDA? (current)\n\nOnce the system is running, the real challenges begin:\n\n- Monitoring and correlating event flows\n- Event versioning and documentation\n- Testing event communication\n\n**Goal:** Understand how to keep an event-driven system observable, evolvable, and maintainable over time.\n\n### How do we work?\n\n- Small group to encourage discussion and participation\n- Concept- and practice-focused, not tool-specific\n- Interactive discussions and exercises\n- The sessions build on each other, so attending all three is strongly recommended\n\nWho is it for?\n\n- Software engineers with **2–3+ years of professional experience**\n- Developers working on backend or distributed systems\n- Engineers who have used events before, or expect to work with them soon\n- People who want to reason about architecture, not just apply patterns by name\n\nYou don’t need to be an EDA expert, but some hands-on software engineering experience is expected.\n",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 801 of the Kokoplaza.",
+          "id": "313122762",
+          "image": {
+            "date": 1770217367709,
+            "location": "images/events/5/3/2/580254.webp"
+          },
+          "links": {
+            "discord": "",
+            "linkedIn": ""
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1774173600000,
+          "title": "Event Driven Architecture Part 3: How do we live with this long-term?",
+          "topics": [
+            "Engineering Leadership",
+            "Software Architecture",
+            "Study Group",
+            "Design Patterns",
+            "Software Development"
+          ],
+          "venue": "25963776"
+        },
+        {
           "description": "We are preparing the March event currently. More to come soon. If you have a topic to present please join us in the → [Discord](https://oktech.jp/discord).\n\nIf you have something that you would like to present, suggest it in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
           "duration": 9000000,
           "feeSettings": null,
@@ -3071,6 +3191,26 @@
           "topics": [
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "We are preparing the April event currently. More to come soon. If you have a topic to present please join us in the → [Discord](https://oktech.jp/discord).\n\nIf you have something that you would like to present, suggest it in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
+          "duration": 9000000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "313203893",
+          "image": {
+            "date": 1770217694819,
+            "location": "images/events/5/3/0/886924.webp"
+          },
+          "links": {
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 3,
+          "time": 1775289600000,
+          "title": "April Event - TBD.",
+          "topics": [
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
