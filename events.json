@@ -3195,24 +3195,48 @@
           "venue": "24529555"
         },
         {
-          "description": "We are preparing the April event currently. More to come soon. If you have a topic to present please join us in the → [Discord](https://oktech.jp/discord).\n\nIf you have something that you would like to present, suggest it in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
+          "description": "April is here and the cherry trees might still be blooming before this event! We hope you still join us for a nice evening.\n\nIn our first talk talk, _Leif_ will be adding to our previous Meetup topic and deepen our knowledge in **\"Basic Electronic Measuring\"**.\n\nAnd to shift gears a little in our second talk _Roger_ will be addressing the stress that comes with teams growing bigger. Having learned it it the hard way, with his presentation **\"Developer Experience: Shipping Faster as Teams Scale\"** we get a leg up when we run into this situation.\n\n→ [Thread](https://discord.com/channels/1034792577293094972/1457602790267424961)\n\nThese presentations were both arranged through our → [Discord](https://oktech.jp/discord). If you have something that you would like to present, suggest it in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
           "duration": 9000000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "313203893",
+          "image": "533181954",
+          "links": {
+            "discord": "https://discord.com/events/1034792577293094972/1482192480815415296",
+            "linkedIn": "https://www.linkedin.com/event/manage/7438400984252592128/"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 3,
+          "time": 1775289600000,
+          "title": "Measure Development Experience",
+          "topics": [
+            "Leadership",
+            "Hardware Engineering",
+            "Software Product Development",
+            "Software Development",
+            "Free Software and Hardware"
+          ],
+          "venue": "27553394"
+        },
+        {
+          "description": "Come join us for games and fun under the cherry blossoms as we kick off spring!\n\nWe’ll gather near the southern edge of Osaka castle park _(marked as location #2 on the below map)_.\n\nBring a blanket, snacks, and an umbrella in case it rains!\n\nIn the event of heavy rain we may push the event to Sunday, the next weekends, or cancel if It rains both weekends.\n\n→ [[Link To Map - Look for #2](https://cdn.discordapp.com/attachments/1466682673052516556/1481227982541422715/map.png?ex=69b52f8e&is=69b3de0e&hm=f309a6e180f25724371c489738e0b7d8d57a0fc0e8bc11c895bbfc3f4f8e3858&)]\n",
+          "duration": 14400000,
+          "feeSettings": null,
+          "howToFindUs": "",
+          "id": "313662900",
           "image": {
-            "date": 1770217694819,
-            "location": "images/events/5/3/0/886924.webp"
+            "date": 1773453314626,
+            "location": "images/events/5/3/3/181954.webp"
           },
           "links": {
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
-          "time": 1775289600000,
-          "title": "April Event - TBD.",
+          "time": 1774663200000,
+          "title": "Osaka Hanami 2026",
           "topics": [
           ],
-          "venue": "27553394"
+          "venue": "26225556"
         }
       ],
       "foundedAt": 1404989737000,
@@ -4106,6 +4130,17 @@
       "lng": 135.5037,
       "name": "KOKOPLAZA",
       "postalCode": "533-0033"
+    },
+    {
+      "address": "Chuo-ku, Osakajo 3-3",
+      "city": "Osaka",
+      "country": "jp",
+      "gmaps": "https://maps.app.goo.gl/hAkBxsiDLmeMkKyb8",
+      "id": "26225556",
+      "lat": 34.68304,
+      "lng": 135.52377,
+      "name": "Osaka Castle Park",
+      "postalCode": "540-0002"
     },
     {
       "address": "Chuo-ku Azuchimachi 1-8-15, Nre Osaka Bld. 3F",
