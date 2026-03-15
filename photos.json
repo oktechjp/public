@@ -4480,24 +4480,24 @@
     {
       "content": "Communicate UX & Digital Breadcrumbs",
       "event": "313110200",
+      "discordId": [
+        "1477511111128383601",
+        "1477511174168907806",
+        "1477687887284666428",
+        "1477815584866435132",
+        "1477814081359708170"
+      ],
       "photos": [
         {
           "date": 1769741017802,
-          "location": "images/events/5/3/2/491266.webp"
+          "location": "images/events/5/3/2/491266.webp",
+          "instructional": true
         },
         {
           "date": 1769749727729,
-          "location": "images/events/5/3/2/501221.webp"
-        }
-      ],
-      "timestamp": 1772265600000
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1477511111128383601"
-      ],
-      "photos": [
+          "location": "images/events/5/3/2/501221.webp",
+          "instructional": true
+        },
         {
           "location": "images/discord/event-photos/1477511111128383601/1477511107638857820/IMG_0264.webp"
         },
@@ -4527,16 +4527,7 @@
         },
         {
           "location": "images/discord/event-photos/1477511111128383601/1477511111329976451/IMG_0254.webp"
-        }
-      ],
-      "timestamp": 1772336499722
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1477511174168907806"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1477511174168907806/1477511171727818984/IMG_0252.webp"
         },
@@ -4554,16 +4545,7 @@
         },
         {
           "location": "images/discord/event-photos/1477511174168907806/1477511173980160120/IMG_0242.webp"
-        }
-      ],
-      "timestamp": 1772336514752
-    },
-    {
-      "content": "Kimmy, congratulations on your first presentation. I'll upload the photo I saved as a keepsake.\nTo Chris and Tillman: During the QR code project, I imagined a movie-like scenario where you accidentally obtained information sources you shouldn't have, got chased by secret societies and shadowy organizations, and got caught up in an incident. Then, using your genius minds and tech skills, you'd make a brilliant escape, return to the event presentation, and show everyone the strange object you acquired along the way. Suddenly, it would start glowing and cause physical changes! ...What am I even saying? (lol)",
-      "discordId": [
-        "1477687887284666428"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1477687887284666428/1477687882196979812/IMG_20260228_172632-01.webp"
         },
@@ -4578,46 +4560,7 @@
         },
         {
           "location": "images/discord/event-photos/1477687887284666428/1477687886433484821/IMG_20260228_182848-02.webp"
-        }
-      ],
-      "timestamp": 1772378646442
-    },
-    {
-      "content": "Delayed from the study session two weeks ago.",
-      "discordId": [
-        "1477810579946209530"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810575735259351/PXL_20260215_1047035782.webp"
         },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810576087449715/PXL_20260215_1031083282.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810576821456917/PXL_20260215_1048390062.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810577136156722/PXL_20260215_1050243702.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810578549637211/PXL_20260215_1034349712.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810579220467722/PXL_20260215_1057341992.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810579644350606/PXL_20260215_1057272602.webp"
-        }
-      ],
-      "timestamp": 1772407898652
-    },
-    {
-      "content": "Part 1 for saturday",
-      "discordId": [
-        "1477814081359708170"
-      ],
-      "photos": [
         {
           "location": "images/discord/event-photos/1477814081359708170/1477814073956503703/PXL_20260228_0811018902.webp"
         },
@@ -4647,16 +4590,7 @@
         },
         {
           "location": "images/discord/event-photos/1477814081359708170/1477814080914853980/PXL_20260228_0858523412.webp"
-        }
-      ],
-      "timestamp": 1772408733454
-    },
-    {
-      "content": "",
-      "discordId": [
-        "1477815584866435132"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1477815584866435132/1477815582618550406/PXL_20260228_0921519472.webp"
         },
@@ -4679,7 +4613,39 @@
       "timestamp": 1772409091918
     },
     {
+      "content": "Delayed from the study session two weeks ago.",
+      "event": "313122758",
+      "discordId": [
+        "1477810579946209530"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810575735259351/PXL_20260215_1047035782.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810576087449715/PXL_20260215_1031083282.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810576821456917/PXL_20260215_1048390062.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810577136156722/PXL_20260215_1050243702.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810578549637211/PXL_20260215_1034349712.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810579220467722/PXL_20260215_1057341992.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810579644350606/PXL_20260215_1057272602.webp"
+        }
+      ],
+      "timestamp": 1772407898652
+    },
+    {
       "content": "And some photos from yesterday",
+      "event": "313122761",
       "discordId": [
         "1477817289138110524"
       ],
@@ -4701,6 +4667,7 @@
     },
     {
       "content": "Yesterday was a wonderful atmosphere.",
+      "event": "313124999",
       "discordId": [
         "1482731994613022801"
       ],
@@ -4732,11 +4699,13 @@
       "photos": [
         {
           "date": 1770217694819,
-          "location": "images/events/5/3/0/886924.webp"
+          "location": "images/events/5/3/0/886924.webp",
+          "instructional": true
         },
         {
           "date": 1773453703429,
-          "location": "images/events/5/3/3/143211.webp"
+          "location": "images/events/5/3/3/143211.webp",
+          "instructional": true
         }
       ],
       "timestamp": 1775289600000
