@@ -4478,8 +4478,38 @@
       "timestamp": 1769360201758
     },
     {
+      "content": "Event Driven Architecture Part 1: How do we talk?",
+      "discordId": [
+        "1477810579946209530"
+      ],
+      "event": "313122758",
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810575735259351/PXL_20260215_1047035782.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810576087449715/PXL_20260215_1031083282.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810576821456917/PXL_20260215_1048390062.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810577136156722/PXL_20260215_1050243702.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810578549637211/PXL_20260215_1034349712.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810579220467722/PXL_20260215_1057341992.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1477810579946209530/1477810579644350606/PXL_20260215_1057272602.webp"
+        }
+      ],
+      "timestamp": 1771149600000
+    },
+    {
       "content": "Communicate UX & Digital Breadcrumbs",
-      "event": "313110200",
       "discordId": [
         "1477511111128383601",
         "1477511174168907806",
@@ -4487,17 +4517,8 @@
         "1477815584866435132",
         "1477814081359708170"
       ],
+      "event": "313110200",
       "photos": [
-        {
-          "date": 1769741017802,
-          "location": "images/events/5/3/2/491266.webp",
-          "instructional": true
-        },
-        {
-          "date": 1769749727729,
-          "location": "images/events/5/3/2/501221.webp",
-          "instructional": true
-        },
         {
           "location": "images/discord/event-photos/1477511111128383601/1477511107638857820/IMG_0264.webp"
         },
@@ -4608,47 +4629,26 @@
         },
         {
           "location": "images/discord/event-photos/1477815584866435132/1477815584669433856/PXL_20260228_1026208242.webp"
+        },
+        {
+          "date": 1769741017802,
+          "instructional": true,
+          "location": "images/events/5/3/2/491266.webp"
+        },
+        {
+          "date": 1769749727729,
+          "instructional": true,
+          "location": "images/events/5/3/2/501221.webp"
         }
       ],
-      "timestamp": 1772409091918
+      "timestamp": 1772265600000
     },
     {
-      "content": "Delayed from the study session two weeks ago.",
-      "event": "313122758",
-      "discordId": [
-        "1477810579946209530"
-      ],
-      "photos": [
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810575735259351/PXL_20260215_1047035782.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810576087449715/PXL_20260215_1031083282.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810576821456917/PXL_20260215_1048390062.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810577136156722/PXL_20260215_1050243702.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810578549637211/PXL_20260215_1034349712.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810579220467722/PXL_20260215_1057341992.webp"
-        },
-        {
-          "location": "images/discord/event-photos/1477810579946209530/1477810579644350606/PXL_20260215_1057272602.webp"
-        }
-      ],
-      "timestamp": 1772407898652
-    },
-    {
-      "content": "And some photos from yesterday",
-      "event": "313122761",
+      "content": "Event Driven Architecture Part 2: What happens when reality intervenes?",
       "discordId": [
         "1477817289138110524"
       ],
+      "event": "313122761",
       "photos": [
         {
           "location": "images/discord/event-photos/1477817289138110524/1477817287355531305/PXL_20260301_1157376352.webp"
@@ -4663,14 +4663,14 @@
           "location": "images/discord/event-photos/1477817289138110524/1477817288932593776/PXL_20260301_1030004402.webp"
         }
       ],
-      "timestamp": 1772409498248
+      "timestamp": 1772359200000
     },
     {
-      "content": "Yesterday was a wonderful atmosphere.",
-      "event": "313124999",
+      "content": "Get Started Making",
       "discordId": [
         "1482731994613022801"
       ],
+      "event": "313124999",
       "photos": [
         {
           "location": "images/discord/event-photos/1482731994613022801/1482731992037720246/PXL_20260314_0812379342.webp"
@@ -4691,7 +4691,7 @@
           "location": "images/discord/event-photos/1482731994613022801/1482731994344460458/PXL_20260314_101418238.NIGHT2.webp"
         }
       ],
-      "timestamp": 1773581255344
+      "timestamp": 1773475200000
     },
     {
       "content": "Measure Development Experience",
@@ -4699,13 +4699,13 @@
       "photos": [
         {
           "date": 1770217694819,
-          "location": "images/events/5/3/0/886924.webp",
-          "instructional": true
+          "instructional": true,
+          "location": "images/events/5/3/0/886924.webp"
         },
         {
           "date": 1773453703429,
-          "location": "images/events/5/3/3/143211.webp",
-          "instructional": true
+          "instructional": true,
+          "location": "images/events/5/3/3/143211.webp"
         }
       ],
       "timestamp": 1775289600000
