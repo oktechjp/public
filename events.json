@@ -3244,6 +3244,31 @@
           "venue": "26225556"
         },
         {
+          "description": "Join us for our first JavaScript Hands-on in Kyoto.\n\nBlow on the cartridge and press START. 🎮\nIn this workshop we’ll build our own web-based game controller and use it to battle in a retro 8-bit style tank game inspired by the classics. Instead of a joystick, you’ll create your own HTML controller and wire it up with your own event handlers.\n\nThis workshop is designed mostly for junior engineers, but anyone is welcome to join.\n\nPlayer requirements:\n\n- Laptop with git installed\n- A working dev environment\n- Ready to press START\n\nBy the end you’ll have buttons sending commands to a live game, some hands-on experience with WebSockets, and a chance to battle together.\n\nThings we’ll use:\n\n- React - the one and only\n- HTML/CSS, of course we won't omit these two\n- JavaScript\n- WebSockets - this is where the magic happens\n\nDepending on how fast we finish, we may try a few extra challenges or just hang out and do some networking. The workshop should take around 2 hours.\n\nThis event was organized due to request/interactions of community members. You can [join us on discord](https://oktech.jp/discord) to ask/vote/comment on future [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
+          "duration": 10800000,
+          "feeSettings": null,
+          "howToFindUs": "Find us in the 4th floor of the Meiji-ya Kyoto building",
+          "id": "313723903",
+          "image": {
+            "date": 1773799471573,
+            "location": "images/events/5/3/3/130498.webp"
+          },
+          "links": {
+          },
+          "maxTickets": 20,
+          "numberOfAllowedGuests": 3,
+          "time": 1778911200000,
+          "title": "JavaScript in Kyoto #1",
+          "topics": [
+            "JavaScript",
+            "Computer Programming",
+            "Software Development",
+            "Web Development",
+            "Beginner Web Developer"
+          ],
+          "venue": "28095701"
+        },
+        {
           "description": "Our June event is being prepared. Stay tuned for updates!\n\nIf you want to talk to us about this or other topics, feel free to 🎉 [Join our Discord](https://owddm.com/discord) and let us know if you have another brief presentation for us! (→ [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306))\n",
           "duration": 9000000,
           "feeSettings": null,
