@@ -3334,6 +3334,42 @@
             "App Developers"
           ],
           "venue": "28215604"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don't just code, but want to understand the why and how behind solid software design.\n\n**Code Review Culture: From Fundamentals to the Age of AI (2-Part Workshop Series)**\nDoing code reviews is one of the most practiced rituals in software engineering. Yet most teams never talk about how to do it well. What is it actually for? How do you give feedback that helps instead of hurts? And what happens to the whole process when AI starts writing, reviewing, and submitting the code?\n\n**Part 1: Beyond the Checkmark (current)**\nMost code reviews are about getting that verification from your colleagues to be able to ship a feature with confidence. This session is about how you to effectively get that verification.\n\n**Goal:** Leave with a clearer mental model of what good review looks like and at least one concrete habit to change the next time you open a diff.\n\n**Part 2:** What will the AI do to the PR?\nBecause AI is already slowly creeping into our pull requests, I wanted to discover what will happen with the Code Review Culture when AI is going to enter the development process.\n\n**Goal:** Understand the ways AI is changing the review process and develop a position on how to handle it in the best way possible.\n\n### How do we work?\n\n- Small group to encourage discussion and participation\n- Concept- and practice-focused, not tool-specific\n- Interactive discussions and hands-on exercises\n- The sessions build on each other, so attending both is strongly recommended\n\n**Session difficulty:** Low (everyone with some tech experience can join)\n",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "id": "313937063",
+          "image": {
+            "date": 1774931152023,
+            "location": "images/events/5/3/3/458969.webp"
+          },
+          "links": {
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1775988000000,
+          "title": "Code Review Culture Part 1: Beyond the Checkmark",
+          "topics": [
+            "Opensource",
+            "Visualization",
+            "Data Science"
+          ],
+          "venue": "25963776"
         }
       ],
       "foundedAt": 1404989737000,
