@@ -4694,9 +4694,11 @@
       "timestamp": 1773475200000
     },
     {
-      "content": "<@709464912904323072> Thank you so much for the wonderful event. Your thoughtful hospitality made the participants feel completely at ease.\nWhen you played the demo saying, “This is how it sounds in Japanese,” and the news was read in Chinese, your spontaneous joke—”This is Japanese with a very heavy Chinese dialect!”—was absolutely brilliant. The whole room was filled with laughter. It was a truly wonderful time throughout the event. Thank you again.",
+      "content": "<@709464912904323072> Thank you so much for the wonderful event. Your thoughtful hospitality made the participants feel completely at ease.\nWhen you played the demo saying, “This is how it sounds in Japanese,” and the news was read in Chinese, your spontaneous joke—”This is Japanese with a very heavy Chinese dialect!”—was absolutely brilliant. The whole room was filled with laughter. It was a truly wonderful time throughout the event. Thank you again. Thanks <@713560784134864966>, <@713654953478062110>,  <@1340113887080615981>, and everyone else who made it last night! \n\nGreat crowd and great learnings from sharing of all the personal AI experiences.",
+      "event": "313789241",
       "discordId": [
-        "1486408119171944539"
+        "1486408119171944539",
+        "1486507875764535338"
       ],
       "photos": [
         {
@@ -4704,16 +4706,7 @@
         },
         {
           "location": "images/discord/event-photos/1486408119171944539/1486408118756704296/IMG_20260325_194639-01.webp"
-        }
-      ],
-      "timestamp": 1774457711738
-    },
-    {
-      "content": "Thanks <@713560784134864966>, <@713654953478062110>,  <@1340113887080615981>, and everyone else who made it last night! \n\nGreat crowd and great learnings from sharing of all the personal AI experiences.",
-      "discordId": [
-        "1486507875764535338"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1486507875764535338/1486507874959233114/IMG_5695.webp"
         },
@@ -4724,9 +4717,11 @@
       "timestamp": 1774481495563
     },
     {
-      "content": "",
+      "content": "Hanami Photos",
+      "event": "313662900",
       "discordId": [
-        "1487371044829401190"
+        "1487371044829401190",
+        "1487373337461264404"
       ],
       "photos": [
         {
@@ -4743,16 +4738,7 @@
         },
         {
           "location": "images/discord/event-photos/1487371044829401190/1487371044632133652/IMG_4385.webp"
-        }
-      ],
-      "timestamp": 1774687291105
-    },
-    {
-      "content": "Here's some more.",
-      "discordId": [
-        "1487373337461264404"
-      ],
-      "photos": [
+        },
         {
           "location": "images/discord/event-photos/1487373337461264404/1487373335221370880/PXL_20260328_032834000.MP.webp"
         },
@@ -4790,6 +4776,7 @@
       "discordId": [
         "1490209771641638982"
       ],
+      "event": "313203893",
       "photos": [
         {
           "location": "images/discord/event-photos/1490209771641638982/1490209768776667268/PXL_20260404_0825325813.webp"
