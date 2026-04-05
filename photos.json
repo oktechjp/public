@@ -4784,6 +4784,36 @@
         }
       ],
       "timestamp": 1775289600000
+    },
+    {
+      "content": "Some snap of yesterday's event",
+      "discordId": [
+        "1490209771641638982"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209768776667268/PXL_20260404_0825325813.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209769120858152/PXL_20260404_0835285962.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209769477242900/PXL_20260404_0906375342.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209770081226802/PXL_20260404_0950422462.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209770479816724/PXL_20260404_1015504442.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209770852847616/PXL_20260404_0923236262.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1490209771641638982/1490209771297574932/PXL_20260404_0836532512.webp"
+        }
+      ],
+      "timestamp": 1775364096318
     }
   ]
 }
