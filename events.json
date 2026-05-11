@@ -3253,6 +3253,7 @@
             "date": 1773799471573,
             "location": "images/events/5/3/3/130498.webp"
           },
+          "isCancelled": true,
           "links": {
             "discord": "https://discord.com/events/1034792577293094972/1484050302503096482",
             "linkedIn": "https://www.linkedin.com/events/7440258373348069377/"
