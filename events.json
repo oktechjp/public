@@ -3272,22 +3272,27 @@
           "venue": "28095701"
         },
         {
-          "description": "Our June event is being prepared. Stay tuned for updates!\n\nIf you want to talk to us about this or other topics, feel free to 🎉 [Join our Discord](https://owddm.com/discord) and let us know if you have another brief presentation for us! (→ [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306))\n",
+          "description": "The heat is on in June! 😎\nThis month's event we will be having our first event embracing shorter presentations! 20min limit, and we are planning more of them!\nThe theme of our July event is testing and performance.\n\nThe two leading presentations will be _Jason_, who will be talking about practicing **TDD for better AI code**. A prescient topic for everyone experimenting with modern ways to code.\n\n_Jake_ will look more on the performance side and give insight into **Asynchronous Programming using Tokio**. 🚀 Where the fast rust language is pushed to be even faster!\n\nJoin us to learn more about these topics! 😲\nJoin us to have a nice evening about tech together! 🤗\nor **join us to share your thoughts** with a short talk on either of these topics! Please share it in the → [#presentation proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) channel of our → [discord](https://oktech.jp/discord).\n",
           "duration": 9000000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "313772788",
           "image": {
-            "date": 1770217694819,
-            "location": "images/events/5/3/0/886924.webp"
+            "date": 1779068253805,
+            "location": "images/events/5/3/4/288904.webp"
           },
           "links": {
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
           "time": 1781942400000,
-          "title": "June Event TBD.",
+          "title": "Less bugs & Faster code",
           "topics": [
+            "New Technology",
+            "Computer Programming",
+            "Software Development",
+            "Software QA and Testing",
+            "Web Development"
           ],
           "venue": "27553394"
         },
