@@ -4903,6 +4903,21 @@
         }
       ],
       "timestamp": 1780718152988
+    },
+    {
+      "content": "",
+      "discordId": [
+        "1513514624237047818"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1513514624237047818/1513514623398051870/PXL_20260607_1148018993.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1513514624237047818/1513514623729406144/PXL_20260607_1128032702.webp"
+        }
+      ],
+      "timestamp": 1780920406160
     }
   ]
 }
