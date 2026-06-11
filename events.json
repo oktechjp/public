@@ -3511,6 +3511,44 @@
             "Software Development"
           ],
           "venue": "25963776"
+        },
+        {
+          "description": "Are you a software engineer who enjoys digging into new ideas, practices, and patterns that strengthen your craft? Join us for the next **OKTech Study Session**, a gathering for engineers who don't just code, but want to understand the _why_ and _how_ behind solid software design.\n\n### Session Summary\nThis session is hands-on about Test Driven Development (TDD). After a short introduction, you'll spend most of the evening writing code, working through small exercises (katas) using the red-green-refactor loop.\n\n**The problem:** Writing tests after the code works can feel like a chore. The feature is done, so writing the tests become busywork. Therefore most people will only write the happy paths while the awkward edge cases quietly are getting skipped.\n\n**The approach:** TDD inverts the order. Each case starts as a small failing test, so covering it is the next step rather than an afterthought. You also get fast feedback, smaller steps, and pressure toward simpler, more decoupled designs.\n\n**Goal:** Able to use TDD as a way to make writing tests more valuable.\n\n**Please prepare:** Bring a laptop with your IDE set up and a console project ready to go, in whatever language or technology you like, with a working testing framework. Please check that your setup runs before you arrive, so we can start writing tests straight away.\n\n**Session difficulty:** Medium, you should already be able to writing code and tests in your chosen language. Prior TDD experience is not required.\n",
+          "duration": 7200000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "We are in room 701 of the Kokoplaza.",
+          "id": "314902158",
+          "image": {
+            "date": 1781180822430,
+            "location": "images/events/5/3/4/688053.webp"
+          },
+          "links": {
+          },
+          "maxTickets": 10,
+          "numberOfAllowedGuests": 2,
+          "time": 1782036000000,
+          "title": "Study Session: TDD: Write the Test First",
+          "topics": [
+            "Engineering Leadership",
+            "Software Architecture",
+            "Study Group",
+            "Design Patterns",
+            "Software Development"
+          ],
+          "venue": "25963776"
         }
       ],
       "foundedAt": 1404989737000,
