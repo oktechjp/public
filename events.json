@@ -3540,7 +3540,7 @@
           "maxTickets": 10,
           "numberOfAllowedGuests": 2,
           "time": 1782036000000,
-          "title": "Study Session: TDD: Write the Test First",
+          "title": "Study Session: Test Driven Development: Write the Test First",
           "topics": [
             "Engineering Leadership",
             "Software Architecture",
