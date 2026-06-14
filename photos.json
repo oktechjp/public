@@ -4918,6 +4918,21 @@
         }
       ],
       "timestamp": 1780920406160
+    },
+    {
+      "content": "Packed room at today’s AA meeting!",
+      "discordId": [
+        "1515229019157827744"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1515229019157827744/1515229018587271309/IMG_6693.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1515229019157827744/1515229018960433232/IMG_6689.webp"
+        }
+      ],
+      "timestamp": 1781329149761
     }
   ]
 }
