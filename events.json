@@ -3431,44 +3431,52 @@
           "venue": "25963776"
         },
         {
-          "description": "Save the the date! This event is being prepared.\n\nIf you would like to contribute, join our → [Discord](https://owddm.com/discord) and suggest your presentation in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
+          "description": "Right after the Gion Festival, join us as we tackle one of the greatest problems in software development.\n\nMany tools have attempted to solve dependency management. Maven, pip, Composer, npm, Cargo, Conda, and Chocolatey, to name just a few. Today, we want to celebrate these tools and take a closer look at how they work.\n\n[Chris](https://xn--pckua0m.xn--tckwe/) will be spearheading the event by presenting the _\"latest and greatest\"_: Nix. It's designed to make installing software on your machine much more reliable.\n\n**Note:**  We have an open call for speakers! If there is a specific aspect of dependency systems you would like to speak about for 10–20 minutes, please leave a comment on Meetup or in Discord.\n\nWe look forward to you joining us!\n\nIf you would like to contribute, join our [→ Discord](https://oktech.jp/discord) and suggest your presentation in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
           "duration": 9000000,
           "feeSettings": null,
           "howToFindUs": "In the Hankyu main building take the (huge) business elevator to the 15th floor Skylobby. Then take the far-back elevator to the 35th floor to join us in the Cybozu Office.",
           "id": "314843644",
           "image": {
-            "date": 1779106800969,
-            "location": "images/events/5/3/0/886924.webp"
+            "date": 1781748159247,
+            "location": "images/events/5/3/4/792486.webp"
           },
           "links": {
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
           "time": 1784361600000,
-          "title": "July Event TBD.",
+          "title": "Manage dependencies with nix & co.",
           "topics": [
-            "Technology"
+            "Computer Security",
+            "Computer Programming",
+            "Software Development",
+            "DevOps",
+            "Computers"
           ],
           "venue": "24529555"
         },
         {
-          "description": "Save the the date! This event is being prepared.\n\nIf you would like to contribute, join our → [Discord](https://owddm.com/discord) and suggest your presentation in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
+          "description": "Grab your laptop and join us to stay cool this August while leveling up your skills! ❄️\n\nGit is the backbone of modern software development, yet many people still only scratch the surface of what it can do.\n\nJoin us for an afternoon workshop where we’ll dive into common pitfalls, clear up frequently misunderstood concepts, and answer all your burning questions.\n\nBring your computer and update your mental model! Let's make sure you (and your agents) stop shooting yourselves in the foot!\n\nIf you would like to contribute, join our [→ Discord](https://oktech.jp/discord) and suggest your presentation in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
           "duration": 9000000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "314843745",
           "image": {
-            "date": 1779107092996,
-            "location": "images/events/5/3/0/886924.webp"
+            "date": 1781748208508,
+            "location": "images/events/5/3/4/792599.webp"
           },
           "links": {
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
           "time": 1787990400000,
-          "title": "August Event TBD.",
+          "title": "Git Workshop Day",
           "topics": [
-            "New Technology"
+            "Technology",
+            "Software Development",
+            "Web Development",
+            "GitOps",
+            "Github"
           ],
           "venue": "27553394"
         },
