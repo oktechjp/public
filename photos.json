@@ -5005,6 +5005,17 @@
         }
       ],
       "timestamp": 1782014649456
+    },
+    {
+      "content": "Manage dependencies with nix & co.",
+      "event": "314843644",
+      "photos": [
+        {
+          "date": 1781748159247,
+          "location": "images/events/5/3/4/792486.webp"
+        }
+      ],
+      "timestamp": 1789200000000
     }
   ]
 }
