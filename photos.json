@@ -5016,6 +5016,48 @@
         }
       ],
       "timestamp": 1784361600000
+    },
+    {
+      "content": "Three photos from AA on July 18th (sorry for the delay)",
+      "discordId": [
+        "1533307779916501143"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1533307779916501143/1533307778796621904/PXL_20260718_0142427492.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1533307779916501143/1533307779266252971/PXL_20260718_0149067912.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1533307779916501143/1533307779693940777/PXL_20260718_0149131992.webp"
+        }
+      ],
+      "timestamp": 1785639462213
+    },
+    {
+      "content": "And a few shots from July 18th evening.",
+      "discordId": [
+        "1533310156862128229"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1533310156862128229/1533310154353938492/PXL_20260718_0821243802.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1533310156862128229/1533310154970366052/PXL_20260718_0825562382.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1533310156862128229/1533310155423485952/PXL_20260718_0900488442.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1533310156862128229/1533310155872014336/PXL_20260718_1034172522.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1533310156862128229/1533310156224467155/PXL_20260718_1034250022.webp"
+        }
+      ],
+      "timestamp": 1785640028921
     }
   ]
 }
