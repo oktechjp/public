@@ -5088,6 +5088,27 @@
         }
       ],
       "timestamp": 1787018504304
+    },
+    {
+      "content": "A few from today's AA 🙂",
+      "discordId": [
+        "1540576976236969984"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1540576976236969984/1540576974920093706/PXL_20260822_0123142032.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1540576976236969984/1540576975255507055/PXL_20260822_0144500492.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1540576976236969984/1540576975586992228/PXL_20260822_0152436852.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1540576976236969984/1540576975993966592/PXL_20260822_0241398662.webp"
+        }
+      ],
+      "timestamp": 1787372573671
     }
   ]
 }
