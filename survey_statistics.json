@@ -1,7 +1,7 @@
 {
-  "responses": 75,
+  "responses": 77,
   "location": {
-    "osaka": 37,
+    "osaka": 38,
     "kyoto": 18,
     "kobe": 8,
     "Not in Japan  😢": 3,
@@ -15,17 +15,17 @@
     "Hachioji, Tokyo": 1
   },
   "english": {
-    "count": 74,
+    "count": 75,
     "min": 1,
     "max": 4,
-    "mean": 3.4054054054054053,
+    "mean": 3.4133333333333336,
     "median": 4,
     "mode": 4,
     "byValue": {
       "1": 2,
       "2": 11,
       "3": 16,
-      "4": 45
+      "4": 46
     }
   },
   "goals": {
@@ -35,8 +35,8 @@
         "get_to_know_others",
         "find_friends",
         "share_knowledge",
-        "find_collaborators",
         "find_new_business",
+        "find_collaborators",
         "share_experience",
         "learn_kansai",
         "gain_reputation",
@@ -46,8 +46,8 @@
         "learn_new_things",
         "get_to_know_others",
         "find_friends",
-        "find_collaborators",
         "find_new_business",
+        "find_collaborators",
         "share_knowledge",
         "share_experience",
         "learn_kansai",
@@ -57,26 +57,26 @@
       "mode": [
         "learn_new_things",
         "get_to_know_others",
-        "find_collaborators",
         "find_friends",
         "find_new_business",
         "share_knowledge",
         "share_experience",
         "gain_reputation",
+        "find_collaborators",
         "learn_kansai",
         "practice_english"
       ]
     },
     "detail": {
       "practice_english": {
-        "count": 69,
+        "count": 70,
         "min": 0,
         "max": 4,
-        "mean": 0.8115942028985508,
+        "mean": 0.8,
         "median": 0,
         "mode": 0,
         "byValue": {
-          "0": 46,
+          "0": 47,
           "1": 3,
           "2": 11,
           "3": 5,
@@ -84,100 +84,100 @@
         }
       },
       "share_knowledge": {
-        "count": 72,
+        "count": 73,
         "min": 0,
         "max": 4,
-        "mean": 2.4722222222222223,
-        "median": 2,
-        "mode": 2,
-        "byValue": {
-          "0": 2,
-          "1": 10,
-          "2": 30,
-          "3": 12,
-          "4": 18
-        }
-      },
-      "share_experience": {
-        "count": 72,
-        "min": 0,
-        "max": 4,
-        "mean": 2.4166666666666665,
+        "mean": 2.4657534246575343,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 2,
           "1": 10,
           "2": 31,
+          "3": 12,
+          "4": 18
+        }
+      },
+      "share_experience": {
+        "count": 73,
+        "min": 0,
+        "max": 4,
+        "mean": 2.410958904109589,
+        "median": 2,
+        "mode": 2,
+        "byValue": {
+          "0": 2,
+          "1": 10,
+          "2": 32,
           "3": 14,
           "4": 15
         }
       },
       "learn_new_things": {
-        "count": 74,
+        "count": 75,
         "min": 2,
         "max": 4,
-        "mean": 3.554054054054054,
+        "mean": 3.533333333333333,
         "median": 4,
         "mode": 4,
         "byValue": {
-          "2": 6,
+          "2": 7,
           "3": 21,
           "4": 47
         }
       },
       "get_to_know_others": {
-        "count": 74,
+        "count": 75,
         "min": 2,
         "max": 4,
-        "mean": 3.472972972972973,
+        "mean": 3.453333333333333,
         "median": 4,
         "mode": 4,
         "byValue": {
-          "2": 6,
+          "2": 7,
           "3": 27,
           "4": 41
         }
       },
       "gain_reputation": {
-        "count": 70,
+        "count": 71,
         "min": 0,
         "max": 4,
-        "mean": 1.6857142857142857,
+        "mean": 1.6901408450704225,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 11,
           "1": 20,
-          "2": 25,
+          "2": 26,
           "3": 8,
           "4": 6
         }
       },
       "find_new_business": {
-        "count": 73,
+        "count": 74,
         "min": 0,
         "max": 4,
-        "mean": 2.452054794520548,
+        "mean": 2.445945945945946,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 9,
           "1": 6,
-          "2": 18,
+          "2": 19,
           "3": 23,
           "4": 17
         }
       },
       "find_friends": {
-        "count": 72,
+        "count": 73,
         "min": 1,
         "max": 4,
-        "mean": 3,
+        "mean": 2.9726027397260273,
         "median": 3,
         "mode": 3,
         "byValue": {
-          "1": 2,
+          "1": 3,
           "2": 20,
           "3": 26,
           "4": 24
@@ -199,15 +199,15 @@
         }
       },
       "find_collaborators": {
-        "count": 73,
+        "count": 74,
         "min": 0,
         "max": 4,
-        "mean": 2.4657534246575343,
+        "mean": 2.445945945945946,
         "median": 3,
-        "mode": 4,
+        "mode": 1,
         "byValue": {
           "0": 3,
-          "1": 19,
+          "1": 20,
           "2": 12,
           "3": 19,
           "4": 20
@@ -269,58 +269,58 @@
     },
     "detail": {
       "in_person_meetups": {
-        "count": 72,
+        "count": 73,
         "min": 1,
         "max": 4,
-        "mean": 3.5,
+        "mean": 3.4657534246575343,
         "median": 4,
         "mode": 4,
         "byValue": {
-          "1": 1,
+          "1": 2,
           "2": 7,
           "3": 19,
           "4": 45
         }
       },
       "online_meetups": {
-        "count": 69,
+        "count": 70,
         "min": 0,
         "max": 4,
-        "mean": 2.0869565217391304,
+        "mean": 2.085714285714286,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 12,
           "1": 11,
-          "2": 19,
+          "2": 20,
           "3": 13,
           "4": 14
         }
       },
       "presentations": {
-        "count": 70,
+        "count": 71,
         "min": 0,
         "max": 4,
-        "mean": 2.6714285714285713,
+        "mean": 2.6619718309859155,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 2,
           "1": 6,
-          "2": 20,
+          "2": 21,
           "3": 27,
           "4": 15
         }
       },
       "workshops": {
-        "count": 71,
+        "count": 72,
         "min": 0,
         "max": 4,
-        "mean": 2.943661971830986,
+        "mean": 2.9027777777777777,
         "median": 3,
         "mode": 3,
         "byValue": {
-          "0": 3,
+          "0": 4,
           "1": 2,
           "2": 16,
           "3": 25,
@@ -328,14 +328,14 @@
         }
       },
       "going_out": {
-        "count": 69,
+        "count": 70,
         "min": 0,
         "max": 4,
-        "mean": 2.449275362318841,
+        "mean": 2.414285714285714,
         "median": 2,
         "mode": 2,
         "byValue": {
-          "0": 6,
+          "0": 7,
           "1": 9,
           "2": 21,
           "3": 14,
@@ -343,14 +343,14 @@
         }
       },
       "group_activities": {
-        "count": 70,
+        "count": 71,
         "min": 0,
         "max": 4,
-        "mean": 2.3285714285714287,
+        "mean": 2.295774647887324,
         "median": 2,
         "mode": 2,
         "byValue": {
-          "0": 6,
+          "0": 7,
           "1": 14,
           "2": 20,
           "3": 11,
@@ -358,14 +358,14 @@
         }
       },
       "hangouts": {
-        "count": 71,
+        "count": 72,
         "min": 0,
         "max": 4,
-        "mean": 2.5211267605633805,
+        "mean": 2.486111111111111,
         "median": 2,
         "mode": 2,
         "byValue": {
-          "0": 1,
+          "0": 2,
           "1": 13,
           "2": 23,
           "3": 16,
@@ -406,121 +406,121 @@
     },
     "detail": {
       "formal": {
-        "count": 68,
+        "count": 69,
         "min": 0,
         "max": 4,
-        "mean": 1.5588235294117647,
+        "mean": 1.565217391304348,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 16,
           "1": 10,
-          "2": 34,
+          "2": 35,
           "3": 4,
           "4": 4
         }
       },
       "personal": {
-        "count": 71,
+        "count": 72,
         "min": 1,
         "max": 4,
-        "mean": 2.619718309859155,
+        "mean": 2.611111111111111,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 3,
-          "2": 33,
+          "2": 34,
           "3": 23,
           "4": 12
         }
       },
       "end_on_time": {
-        "count": 69,
+        "count": 70,
         "min": 0,
         "max": 4,
-        "mean": 2.1594202898550723,
+        "mean": 2.157142857142857,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 4,
           "1": 8,
-          "2": 37,
+          "2": 38,
           "3": 13,
           "4": 7
         }
       },
       "rotate_presenters": {
-        "count": 68,
+        "count": 69,
         "min": 1,
         "max": 4,
-        "mean": 2.6323529411764706,
+        "mean": 2.6231884057971016,
         "median": 2,
         "mode": 2,
         "byValue": {
           "1": 1,
-          "2": 35,
+          "2": 36,
           "3": 20,
           "4": 12
         }
       },
       "be_monthly": {
-        "count": 69,
+        "count": 70,
         "min": 1,
         "max": 4,
-        "mean": 2.6666666666666665,
-        "median": 3,
+        "mean": 2.657142857142857,
+        "median": 2.5,
         "mode": 2,
         "byValue": {
           "1": 1,
-          "2": 33,
+          "2": 34,
           "3": 23,
           "4": 12
         }
       },
       "held_in_english": {
-        "count": 70,
+        "count": 71,
         "min": 0,
         "max": 4,
-        "mean": 2.557142857142857,
+        "mean": 2.5492957746478875,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 2,
           "1": 3,
-          "2": 32,
+          "2": 33,
           "3": 20,
           "4": 13
         }
       },
       "be_annonymous": {
-        "count": 68,
+        "count": 69,
         "min": 0,
         "max": 3,
-        "mean": 1.411764705882353,
+        "mean": 1.4202898550724639,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 14,
           "1": 15,
-          "2": 36,
+          "2": 37,
           "3": 3
         }
       }
     }
   },
   "times": {
-    "saturday-evening": 59,
-    "saturday-noon": 48,
-    "sunday-noon": 42,
-    "sunday-evening": 37,
-    "friday": 36
+    "saturday-evening": 60,
+    "saturday-noon": 49,
+    "sunday-noon": 43,
+    "sunday-evening": 38,
+    "friday": 37
   },
   "sns": {
     "ranked": {
       "mean": [
         "discord",
-        "meetup",
         "github",
+        "meetup",
         "line",
         "slack",
         "twitter",
@@ -528,8 +528,8 @@
       ],
       "median": [
         "discord",
-        "meetup",
         "github",
+        "meetup",
         "line",
         "slack",
         "twitter",
@@ -537,8 +537,8 @@
       ],
       "mode": [
         "discord",
-        "meetup",
         "github",
+        "meetup",
         "line",
         "slack",
         "twitter",
@@ -547,14 +547,14 @@
     },
     "detail": {
       "meetup": {
-        "count": 61,
+        "count": 62,
         "min": 0,
         "max": 4,
-        "mean": 2.6557377049180326,
+        "mean": 2.6129032258064515,
         "median": 3,
         "mode": 3,
         "byValue": {
-          "0": 1,
+          "0": 2,
           "1": 4,
           "2": 17,
           "3": 32,
@@ -562,59 +562,59 @@
         }
       },
       "github": {
-        "count": 58,
+        "count": 59,
         "min": 0,
         "max": 4,
-        "mean": 2.6379310344827585,
+        "mean": 2.6440677966101696,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 3,
           "1": 5,
           "2": 15,
-          "3": 22,
+          "3": 23,
           "4": 13
         }
       },
       "line": {
-        "count": 59,
+        "count": 60,
         "min": 0,
         "max": 4,
-        "mean": 2.5254237288135593,
+        "mean": 2.5166666666666666,
         "median": 3,
         "mode": 3,
         "byValue": {
           "0": 4,
           "1": 7,
-          "2": 16,
+          "2": 17,
           "3": 18,
           "4": 14
         }
       },
       "fb": {
-        "count": 58,
+        "count": 59,
         "min": 0,
         "max": 4,
-        "mean": 1.6724137931034482,
+        "mean": 1.6610169491525424,
         "median": 2,
         "mode": 2,
         "byValue": {
           "0": 14,
-          "1": 7,
+          "1": 8,
           "2": 23,
           "3": 12,
           "4": 2
         }
       },
       "discord": {
-        "count": 57,
+        "count": 58,
         "min": 0,
         "max": 4,
-        "mean": 2.754385964912281,
+        "mean": 2.706896551724138,
         "median": 3,
         "mode": 3,
         "byValue": {
-          "0": 3,
+          "0": 4,
           "1": 1,
           "2": 18,
           "3": 20,
@@ -622,25 +622,25 @@
         }
       },
       "slack": {
-        "count": 56,
+        "count": 57,
         "min": 0,
         "max": 4,
-        "mean": 2.1964285714285716,
+        "mean": 2.210526315789474,
         "median": 2,
         "mode": 3,
         "byValue": {
           "0": 9,
           "1": 3,
           "2": 17,
-          "3": 22,
+          "3": 23,
           "4": 5
         }
       },
       "twitter": {
-        "count": 58,
+        "count": 59,
         "min": 0,
         "max": 4,
-        "mean": 1.7586206896551724,
+        "mean": 1.7966101694915255,
         "median": 2,
         "mode": 2,
         "byValue": {
@@ -648,7 +648,7 @@
           "1": 10,
           "2": 18,
           "3": 12,
-          "4": 5
+          "4": 6
         }
       }
     }
