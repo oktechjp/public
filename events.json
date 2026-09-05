@@ -3610,6 +3610,40 @@
             "Computers"
           ],
           "venue": "24529555"
+        },
+        {
+          "description": "**OKTech Year two networking!** 😎\n\nThe first year of OKTech has passed, lot's of things have happened, let's celebrate! 🥂\n\nMeet us for _non-alcoholic drinks_ and some _light networking_ at a special venue! Besides **meeting interesting people working in the Osaka tech industry, we will also share a little bit of history with you about what happened in the past years, how the logo and homepage came together and we will add some technical notes as well.\n\nIs this a paid event? Yes, 1500yen, but **two drinks are included with the price**! 🍸 Also, there will be some snacks!\n\nWhile most of the evening will be talking to our friends we plan to have a few intermissions (_Agenda: TBD_).\n\nFeel free to bring your **international and Japanese friends** with you, anyone with an interested in tech is welcome. We would be happy if you could join and celebrate with us our the first official **OKTech** Meetup!\n\nUntil then, see you in [Discord](https://oktech.jp/discord)!\n",
+          "duration": 9000000,
+          "feeSettings": {
+            "accepts": "CASH",
+            "amount": 1500,
+            "currency": "JPY",
+            "refundPolicy": {
+              "days": 0,
+              "notes": "",
+              "policies": [
+                "event_cancellation",
+                "event_rescheduled"
+              ]
+            },
+            "required": false
+          },
+          "howToFindUs": "Tanimachi 4-chome Station Exit 7 and you will be almost there already!",
+          "id": "316381043",
+          "image": "535464940",
+          "links": {
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1793352600000,
+          "title": "OKTech Networking Night",
+          "topics": [
+            "Community Building",
+            "Computer Programming",
+            "Logo Design",
+            "Web Development"
+          ],
+          "venue": "27398802"
         }
       ],
       "foundedAt": 1404989737000,
