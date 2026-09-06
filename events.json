@@ -3630,10 +3630,7 @@
           },
           "howToFindUs": "Tanimachi 4-chome Station Exit 7 and you will be almost there already!",
           "id": "316381043",
-          "image": {
-            "date": 1788575591151,
-            "location": "images/events/5/3/5/990093.webp"
-          },
+          "image": "535990093",
           "links": {
             "discord": "https://discord.com/events/1034792577293094972/1545778736559947777",
             "linkedIn": "https://www.linkedin.com/events/7502038321536172032/"
