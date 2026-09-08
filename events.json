@@ -3649,6 +3649,27 @@
             "Web Development"
           ],
           "venue": "27398802"
+        },
+        {
+          "description": "### React Osaka\nReact Osaka is a bi-lingual community for [React.js](http://react.js/) users in Kansai supported by [OKTech](http://oktech.jp/).\nWe organize our events both in English and Japanese to invite a broader community to our events.\nReact Osaka は関西の [React.js](http://react.js/) ユーザーのための [OKTech](https://oktech.jp/) に支えられているバイリンガルコミュニティです。\nより多くの人に参加していただくために、イベントを英語と日本語の両方で開催しています。\n\nWe will support with translation.\n言語については運営サポートします。\n\nReact Osaka 専用の Discord をメンテします、気軽にご参加ください。\nWe have a dedicated React Osaka discord server, please feel free to join it!\n→ https://discord.gg/Ke34JUmJDy\n\n### Venue\nUse the big business elevator to the sky lobby and then take the elevator to the 35F.\n**Please note that you can't enter the venue after 8 PM.**\nIf you have trouble finding the place, feel free to message us on Discord for real-time support → https://discord.gg/Ke34JUmJDy\nサイボウズ株式会社（Cybozu, Inc.）大阪オフィス\n大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース 35階\n阪急大阪のビジネスエレベーターを使ってスカイロビーまで進んで、35階までのエレベーターを使ってください。\n**20時以降は入場できません。**\n道に迷った場合は、Discordでご連絡いただければリアルタイムで対応します → https://discord.gg/Ke34JUmJDy0\n",
+          "duration": 7200000,
+          "howToFindUs": "阪急大阪のビシネスエレベーターを使ってスカイロビーまで進んで、35階までのエレベーターを使ってください。20時以降は入場できません。 Use the big business elevator to the sky lobby and then take the elevator to the 15F. Please note that you can't enter the venue after 8 PM.",
+          "id": "316458212",
+          "image": "536035092",
+          "links": {
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 99,
+          "time": 1789725600000,
+          "title": "React Osaka 2026-09",
+          "topics": [
+            "UI/UX Design",
+            "Web Design",
+            "ReactJS",
+            "Web Development",
+            "Web Technology"
+          ],
+          "venue": "24529555"
         }
       ],
       "foundedAt": 1404989737000,
