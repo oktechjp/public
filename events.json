@@ -3565,22 +3565,24 @@
           "venue": "25963776"
         },
         {
-          "description": "Save the date! Our monthly meetup is set for 17th October.\n\nStay tuned for the topics and we look forward to you joining us!\n\nIf you would like to contribute, join our → [Discord](https://oktech.jp/discord) and suggest your presentation in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
+          "description": "With the rise of agentic engineering, two things separate software engineers apart; knowledge implementation and communication.\n\nSo, join us on Oct 17, where we will be having an event that combines both.\n\nFirst, community member, Kinbiko, will be presenting about backend system design.\n\nAnd, then Jason will be giving a talk about how to market yourself.\n\nIf you would like to contribute, join our → [Discord](https://oktech.jp/discord) and suggest your presentation in [#presentation-proposals](https://discord.com/channels/1034792577293094972/1034862103653257306) or look for inspiration in [#presentation-wishes](https://discord.com/channels/1034792577293094972/1044609715155521557).\n",
           "duration": 9000000,
           "feeSettings": null,
           "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
           "id": "315544216",
-          "image": {
-            "date": 1784867952442,
-            "location": "images/events/5/3/0/886924.webp"
-          },
+          "image": "530886924",
           "links": {
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
           "time": 1792224000000,
-          "title": "October Event - Topic TBD.",
+          "title": "Me and the Software System",
           "topics": [
+            "New Technology",
+            "Online Marketing",
+            "Computer Programming",
+            "Software Development",
+            "Web Development"
           ],
           "venue": "27553394"
         },
