@@ -5146,6 +5146,33 @@
       "timestamp": 1789200000000
     },
     {
+      "content": "Photos from yesterda",
+      "discordId": [
+        "1548695798257029270"
+      ],
+      "photos": [
+        {
+          "location": "images/discord/event-photos/1548695798257029270/1548695796222795806/PXL_20260912_0818366842.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1548695798257029270/1548695796554141737/PXL_20260912_0810173882.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1548695798257029270/1548695796986282045/PXL_20260912_0842121702.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1548695798257029270/1548695797367832787/PXL_20260912_1003529642.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1548695798257029270/1548695797674151936/PXL_20260912_1004028842.webp"
+        },
+        {
+          "location": "images/discord/event-photos/1548695798257029270/1548695798030671983/PXL_20260912_102953220.webp"
+        }
+      ],
+      "timestamp": 1789308251681
+    },
+    {
       "content": "Me and the Software System",
       "event": "315544216",
       "photos": [
