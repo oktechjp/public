@@ -3716,7 +3716,10 @@
           "duration": 14400000,
           "howToFindUs": "1F, LAKE (main stage)",
           "id": "316893942",
-          "image": "536381059",
+          "image": {
+            "date": 1791516627377,
+            "location": "images/events/5/3/6/505906.webp"
+          },
           "links": {
           },
           "maxTickets": 70,
