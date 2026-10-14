@@ -3575,8 +3575,10 @@
             "location": "images/events/5/3/6/090401.webp"
           },
           "links": {
+            "connpass": "https://oktech.connpass.com/event/409929/",
             "discord": "https://discord.com/events/1034792577293094972/1548102921454100503",
-            "linkedIn": "https://www.linkedin.com/events/7504311776554000384"
+            "linkedIn": "https://www.linkedin.com/events/7504311776554000384",
+            "luma": "https://luma.com/epmn6068"
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 3,
@@ -3642,8 +3644,10 @@
             "location": "images/events/5/3/6/008497.webp"
           },
           "links": {
+            "connpass": "https://oktech.connpass.com/event/409930/",
             "discord": "https://discord.com/events/1034792577293094972/1545778736559947777",
-            "linkedIn": "https://www.linkedin.com/events/7502038321536172032/"
+            "linkedIn": "https://www.linkedin.com/events/7502038321536172032/",
+            "luma": "https://luma.com/zin2bv0m"
           },
           "maxTickets": 50,
           "numberOfAllowedGuests": 99,
@@ -3721,6 +3725,7 @@
             "location": "images/events/5/3/6/505906.webp"
           },
           "links": {
+            "connpass": "https://oktech.connpass.com/event/409931/",
             "discord": "https://discord.com/events/1034792577293094972/1558809522234073168",
             "facebook": "https://fb.me/e/darTDJNz7",
             "linkedIn": "https://www.linkedin.com/events/7515017647336648704/",
