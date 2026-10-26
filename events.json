@@ -3621,7 +3621,7 @@
           "venue": "24529555"
         },
         {
-          "description": "**OKTech Year two networking!** 😎\n\nThe first year of OKTech has passed, lot's of things have happened, let's celebrate! 🥂\n\nMeet us for _non-alcoholic drinks_ and some _light networking_ at a special venue! Besides **meeting interesting people working in the Osaka tech industry, we will also share a little bit of history with you about what happened in the past years, how the logo and homepage came together and we will add some technical notes as well.\n\nIs this a paid event? Yes, 1500yen, but **two drinks are included with the price**! 🍸 Also, there will be some snacks!\n\nWhile most of the evening will be talking to our friends we plan to have a few intermissions (_Agenda: TBD_).\n\nFeel free to bring your **international and Japanese friends** with you, anyone with an interested in tech is welcome. We would be happy if you could join and celebrate with us our the first official **OKTech** Meetup!\n\nUntil then, see you in [Discord](https://oktech.jp/discord)!\n",
+          "description": "日本語は以下に\n\n**One year has already passed, so let's kick off year two of OKTech**! 😎Let's _celebrate! 🥂_\n\nMeet us _for non-alcoholic drinks_ and and _networking_ at a special venue! Besides **meeting interesting people working in the Osaka tech industry**, we will also share what we have been up to and are brewing up for the next year!\n\nIs this a paid event? Yes, 1500yen, but **two drinks are included with the price**! 🍸 Also, there will be some snacks!\n\nWhile most of the evening will be talking to our friends we plan to have a few intermissions.\n\n18:30 - Doors Open18:50 - Opening words (~5min)19:30 - Interview special guest (~15min)20:15 - What's next for OKTech? (~5min)21:10 - Closing words\n\n**Special Guest**We invited [Eduardo Gonzalez](https://www.linkedin.com/in/wmeddie/), the founder of [Xpress.ai](http://Xpress.ai) to join us! We will have an interview with him and he will join us for the evening.\n\nFeel free to bring your **international and Japanese friends** with you, anyone with an interested in tech is welcome. We would be happy if you could join and celebrate with us our the first official **OKTech** Meetup!\n\nUntil then, see you [in Discord!](https://owddm.com/discord/)\n\n意：発表と面接は英語で行われますが、参加者の多くは日本語を話せます。英語に自信がなくても、楽しく参加していただけると思います。\n\n**1年が経ちました。さあ、OKTechの2年目をスタートさせましょう！😎**お祝いしましょう！🥂\n\n特別な会場で、ノンアルコール飲料を片手に交流しませんか？**大阪のテック業界で活躍する魅力的な方々と出会える**ほか、私たち自身の近況や、来年に向けて計画している取り組みについても共有させていただきます！\n\n参加費は1,500円ですが、**ドリンク2杯分が含まれています！**🍸 軽食もご用意しています！\n\n当日は、参加者の皆さんとの交流をメインにしつつ、いくつかプログラムも予定しています。\n\n18:30 - 開場18:50 - オープニング（約5分）19:30 - スペシャルゲストへのインタビュー（約15分）20:15 - OKTechの今後について（約5分）21:10 - クロージング\n\n**スペシャルゲスト**[Xpress.ai](http://Xpress.ai) の創業者、[Eduardo Gonzalez](https://www.linkedin.com/in/wmeddie/)さんをお招きします！インタビューを行うほか、イベント中も皆さんと一緒に過ごしていただく予定です。海外のご友人や日本のご友人など、どなたをお誘い合わせの上ご参加いただいても構いません。テックに関心のある方ならどなたでも大歓迎です！OKTech初の公式ミートアップ、ぜひ一緒に盛り上がりましょう！\n\n[Discord](https://oktech.jp/discord) でもお会いしましょう！",
           "duration": 9000000,
           "feeSettings": {
             "accepts": "CASH",
@@ -3640,8 +3640,8 @@
           "howToFindUs": "Tanimachi 4-chome Station Exit 7 and you will be almost there already!",
           "id": "316381043",
           "image": {
-            "date": 1788664708191,
-            "location": "images/events/5/3/6/008497.webp"
+            "date": 1793017754242,
+            "location": "images/events/5/3/6/811801.webp"
           },
           "links": {
             "connpass": "https://oktech.connpass.com/event/409930/",
@@ -3652,7 +3652,7 @@
           "maxTickets": 50,
           "numberOfAllowedGuests": 99,
           "time": 1793352600000,
-          "title": "OKTech Networking Night",
+          "title": "Year One Networking Night",
           "topics": [
             "Community Building",
             "Computer Programming",
