@@ -3746,13 +3746,13 @@
           "venue": "00000002"
         },
         {
-          "description": "### React Osaka\nReact Osaka is a bi-lingual community for [React.js](http://react.js/) users in Kansai supported by [OKTech](http://oktech.jp/).\nWe organize our events both in English and Japanese to invite a broader community to our events.\nReact Osaka は関西の [React.js](http://react.js/) ユーザーのための [OKTech](https://oktech.jp/) に支えられているバイリンガルコミュニティです。\nより多くの人に参加していただくために、イベントを英語と日本語の両方で開催しています。\n\nWe will support with translation.\n言語については運営サポートします。\n\nReact Osaka 専用の Discord をメンテします、気軽にご参加ください。\nWe have a dedicated React Osaka discord server, please feel free to join it!\n→ https://discord.gg/Ke34JUmJDy\n\n### Venue\nUse the big business elevator to the sky lobby and then take the elevator to the 35F.\n**Please note that you can't enter the venue after 8 PM.**\nIf you have trouble finding the place, feel free to message us on Discord for real-time support → https://discord.gg/Ke34JUmJDy\nサイボウズ株式会社（Cybozu, Inc.）大阪オフィス\n大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース 35階\n阪急大阪のビジネスエレベーターを使ってスカイロビーまで進んで、35階までのエレベーターを使ってください。\n**20時以降は入場できません。**\n道に迷った場合は、Discordでご連絡いただければリアルタイムで対応します → https://discord.gg/Ke34JUmJDy0\n",
+          "description": "**React Osaka**\n\nReact Osaka is a bi-lingual community for [React.js](http://React.js) users in Kansai supported by [OKTech](http://oktech.jp).We organize our events both in English and Japanese to invite a broader community to our events.\n\nReact Osaka は関西の [React.js](http://React.js) ユーザーのための [OKTech](https://oktech.jp)に支えられているバイリンガルコミュニティです。より多くの人に参加していただくために、イベントを英語と日本語の両方で開催しています。\n\nWe will support with translation.\n\n言語については運営サポートします。\n\nReact Osaka 専用の Discord をメンテします、気軽にご参加ください。\nWe have a dedicated React Osaka discord server, please feel free to join it!→ [https://discord.gg/Ke34JUmJDy](https://discord.gg/Ke34JUmJDy)\n\n**Timetable**\n\n19:00 - Open<br/>\n19:10 - Start<br/>\n19:15 - **\"Guardrails for AI-written React / AIが生成したReactコードのためのガードレール\"** by _jsef_<br/>\n19:40 - **\"Canvas2d\"** by _Yohei_20:10 - **\"Meanwhile, in React\"** by _`_______k_k`_<br/>\n20:35 - Chit chat21:00 - Close\n\n**Venue**\n\nUse the big business elevator to the sky lobby and then take the elevator to the 35F.**Please note that you can't enter the venue after 8 PM.**\n\nIf you have trouble finding the place, feel free to message us on Discord for real-time support → [https://discord.gg/Ke34JUmJDy](https://discord.gg/Ke34JUmJDy)\n\nサイボウズ株式会社（Cybozu, Inc.）大阪オフィス大阪府大阪市北区角田町8-1 大阪梅田ツインタワーズ・ノース\n35階阪急大阪のビジネスエレベーターを使ってスカイロビーまで進んで、35階までのエレベーターを使ってください。**20時以降は入場できません。**\n\n道に迷った場合は、Discordでご連絡いただければリアルタイムで対応します → [https://discord.gg/Ke34JUmJDy](https://discord.gg/Ke34JUmJDy)",
           "duration": 7200000,
           "howToFindUs": "阪急大阪のビシネスエレベーターを使ってスカイロビーまで進んで、35階までのエレベーターを使ってください。20時以降は入場できません。 Use the big business elevator to the sky lobby and then take the elevator to the 15F. Please note that you can't enter the venue after 8 PM.",
           "id": "317031359",
           "image": {
-            "date": 1792302311187,
-            "location": "images/events/5/3/6/662929.webp"
+            "date": 1795456170524,
+            "location": "images/events/5/3/7/234542.webp"
           },
           "links": {
             "connpass": "https://react-osaka.connpass.com/event/410259/",
@@ -3798,6 +3798,36 @@
             "Hike"
           ],
           "venue": "00000003"
+        },
+        {
+          "description": "Kick off your December with us! OK Techis hosting an evening of three talks covering Freelance Rights, web accessibility and SQL, right in the first week of the month.\n\nJapanese Description is down below.\n(日本語の説明は下記をご覧ください。）\n\n⭐️Presentation 1: Freelance Contracts in Japan (Leslie from https://generalunion.org/)\n\nAn information session about the freelancing act, protections and the general union services for tech freelancers; discuss freelancing and related topics.\n\n⭐️Presentation 2: Accessibility Testing (Christian)\n\nChristian will talk us through some of his recommended tools - along with tips & tricks for accessibility audits.\n\n⭐️Presentation 3: Optimizing SQL Queries (Martin)\n\nThe founder of OkTech, Martin digs into advanced SQL queries and operations, and shows how to figure out when optimization actually makes sense, and at which stage, so you spend effort where it counts.\n\nWhether you design, code, or work with data, you'll leave with practical ideas to apply right away. Bring your questions and join the discussion!\n\nOpen doors for every experience level.The SQL talk may be easier to follow if you have some experience with SQL, but beginners are very welcome! Feel free to ask us any questions, and come make friends with fellow developers and engineers at our meetups.\n\n🩵If you would like to contribute, join our → Discord and suggest your presentation in #presentation-proposals, or look for inspiration in #presentation-wishes.\n\n⭐️⭐️⭐️⭐️⭐️\n\n12月最初のイベントは、「フリーランスには必須な契約について」、「Web制作に欠かせないアクセシビリティ」と「データベースの要であるSQL」をテーマに、お二人のプロフェッショナルをお招きします！実践的な知見を直接学べる時間をお届けします。\n\n⭐️発表1: 日本でのフリーランス契約　(Leslie from https://generalunion.org/)\n\nフリーランス新法の概要やフリーランサーの保護方法、そしてテック系フリーランスの方が利用できるゼネラルユニオン（組合）のサービスなどの説明です。\n\n⭐️発表2:アクセシビリティテスト(Christian)\n\nChristianが、おすすめのツールに加えて、アクセシビリティ監査のためのヒントやコツを紹介します。\n\n⭐️発表3:SQLクエリの最適化(Martin)\n\nOKTech創始者のMartinが、高度なSQLクエリや操作を掘り下げ、最適化が本当に意味を持つのはいつ、どの段階なのかを見極める方法を紹介します。労力をかけるべきところに集中するためのヒントが得られます。\n\nデザイナー、エンジニア、データを扱う方など、どなたでもすぐに実践できるヒントを持ち帰っていただけます。日頃から抱いている質問や悩みなどあれば、是非、ディスカッションにご参加ください!\n\nご経験のレベルを問わず、どなたでも大歓迎です。SQLのセッションは少し経験者向けの内容を含みますが、「まずは話を聞いてみたい」「興味がある」という方もぜひ気兼ねなくお越しください。ぜひご参加いただき、開発者やエンジニア仲間との交流を深めていただければ嬉しいです！\n",
+          "duration": 9000000,
+          "feeSettings": null,
+          "howToFindUs": "1. Go to Grand Front NORTH Tower in the 1F(!). In the big space, behind Tully's go to Tower C (business area) and enter the Elevator to 16F. From there, go towards the end of the hall.",
+          "id": "317478718",
+          "image": {
+            "date": 1795456039530,
+            "location": "images/events/5/3/7/250188.webp"
+          },
+          "links": {
+            "connpass": "https://oktech.connpass.com/event/414016/",
+            "discord": "https://discord.com/events/1034792577293094972/1573943882608021626",
+            "facebook": "https://www.facebook.com/events/1458701626371815",
+            "linkedIn": "https://www.linkedin.com/events/7530149338149212160/",
+            "luma": "https://luma.com/ook0tdjl"
+          },
+          "maxTickets": 50,
+          "numberOfAllowedGuests": 3,
+          "time": 1792224000000,
+          "title": "Freelance Rights, Accessibility & SQL",
+          "topics": [
+            "New Technology",
+            "Online Marketing",
+            "Computer Programming",
+            "Software Development",
+            "Web Development"
+          ],
+          "venue": "27553394"
         }
       ],
       "foundedAt": 1404989737000,
